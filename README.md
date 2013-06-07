@@ -16,6 +16,7 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS. Th
 * [Egghead.io] (http://www.egghead.io/)
 * [Video Tutorial: AngularJS Fundamentals in 60-ish Minutes] (http://weblogs.asp.net/dwahlin/archive/2013/04/12/video-tutorial-angularjs-fundamentals-in-60-ish-minutes.aspx)
 * [AngularJS YouTube Page] (http://www.youtube.com/user/angularjs)
+* [Tunning the browser with AngularJS (PT-BR)] (https://www.youtube.com/watch?v=Ph9hVLTmF2E)
 
 ## Help
 * [StackOverflow] (http://stackoverflow.com/questions/tagged/angularjs)
@@ -53,6 +54,9 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS. Th
 * [Angularytics: The solution to tracking page views and events in a SPA with AngularJS] (http://www.blogeek.com.ar/2013/06/03/angularytics-the-solution-to-tracking-page-views-and-events-in-a-spa-with-angularjs/)
 * [Sharing Data, State and Models on AngularJS: Alternatives, comparison and my solution] (http://www.blogeek.com.ar/2013/05/01/sharing-data-state-on-angularjs-alternatives-comparison-and-my-solution/)
 
+## Best pratices
+* [Best pratices to bootstrap an AngularJS app (PT-BR)] (http://cironunes.github.io/angularjs-melhores-praticas-parte-I-bootstrap/)
+
 ## Scopes
 * [AngularJS and scope.$apply] (http://jimhoskins.com/2012/12/17/angularjs-and-apply.html)
 * [What are the nuances of scope prototypal / prototypical inheritance in AngularJS?] (http://stackoverflow.com/questions/14049480/what-are-the-nuances-of-scope-prototypal-prototypical-inheritance-in-angularjs)
@@ -79,7 +83,7 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS. Th
 * [Exploring Directive Controllers, Compiling, Linking, And Priority In AngularJS] (http://www.bennadel.com/blog/2447-Exploring-Directive-Controllers-Compiling-Linking-And-Priority-In-AngularJS.htm)
 * [Using Controllers In Directives In AngularJS] (http://www.bennadel.com/blog/2446-Using-Controllers-In-Directives-In-AngularJS.htm)
 
-## Services/Providers 
+## Services/Providers
 * [Angular service or factory?] (http://iffycan.blogspot.com/2013/05/angular-service-or-factory.html)
 * [How to create (singleton) AngularJS services in 4 different ways] (http://blog.jdriven.com/2013/03/how-to-create-singleton-angularjs-services-in-4-different-ways/)
 
