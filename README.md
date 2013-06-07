@@ -59,6 +59,7 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS. Th
 * [Angularytics: The solution to tracking page views and events in a SPA with AngularJS] (http://www.blogeek.com.ar/2013/06/03/angularytics-the-solution-to-tracking-page-views-and-events-in-a-spa-with-angularjs/)
 * [Sharing Data, State and Models on AngularJS: Alternatives, comparison and my solution] (http://www.blogeek.com.ar/2013/05/01/sharing-data-state-on-angularjs-alternatives-comparison-and-my-solution/)
 * [Authentication in Single Page Applications with Angular.js](http://www.frederiknakstad.com/authentication-in-single-page-applications-with-angular-js/)
+* [AngularJS Best Practices: I’ve Been Doing It Wrong! (3 Part Series)] (http://blog.artlogic.com/2013/05/02/ive-been-doing-it-wrong-part-1-of-3/)
 
 ## Scopes
 * [AngularJS and scope.$apply] (http://jimhoskins.com/2012/12/17/angularjs-and-apply.html)
