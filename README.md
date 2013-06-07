@@ -61,6 +61,9 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS. Th
 * [Authentication in Single Page Applications with Angular.js](http://www.frederiknakstad.com/authentication-in-single-page-applications-with-angular-js/)
 * [AngularJS Best Practices: I’ve Been Doing It Wrong! (3 Part Series)] (http://blog.artlogic.com/2013/05/02/ive-been-doing-it-wrong-part-1-of-3/)
 
+## Best pratices
+* [Best pratices to bootstrap an AngularJS app (PT-BR)] (http://cironunes.github.io/angularjs-melhores-praticas-parte-I-bootstrap/)
+
 ## Scopes
 * [AngularJS and scope.$apply] (http://jimhoskins.com/2012/12/17/angularjs-and-apply.html)
 * [What are the nuances of scope prototypal / prototypical inheritance in AngularJS?] (http://stackoverflow.com/questions/14049480/what-are-the-nuances-of-scope-prototypal-prototypical-inheritance-in-angularjs)
@@ -88,7 +91,7 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS. Th
 * [Using Controllers In Directives In AngularJS] (http://www.bennadel.com/blog/2446-Using-Controllers-In-Directives-In-AngularJS.htm)
 * [Angular.js Directives with JSON arguments] (http://www.grobmeier.de/angular-js-directives-with-json-arguments-08012013.html)
 
-## Services/Providers 
+## Services/Providers
 * [Angular service or factory?] (http://iffycan.blogspot.com/2013/05/angular-service-or-factory.html)
 * [How to create (singleton) AngularJS services in 4 different ways] (http://blog.jdriven.com/2013/03/how-to-create-singleton-angularjs-services-in-4-different-ways/)
 
