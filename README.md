@@ -25,6 +25,7 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS. Th
 * [StackOverflow] (http://stackoverflow.com/questions/tagged/angularjs)
 * [AngularJS Mailing List (Google Groups)] (http://groups.google.com/group/angular)
 * [Chatroom (Browser-based IRC)] (http://webchat.freenode.net/?channels=angularjs&uio=d4)
+* [AngularJS Google+ Community] (https://plus.google.com/u/0/communities/115368820700870330756)
 
 ## General Topics
 * [Getting Started With AngularJS] (http://www.adobe.com/devnet/html5/articles/getting-started-with-angularjs.html)
