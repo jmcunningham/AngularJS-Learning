@@ -16,11 +16,17 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS. Th
 * [Egghead.io] (http://www.egghead.io/)
 * [Video Tutorial: AngularJS Fundamentals in 60-ish Minutes] (http://weblogs.asp.net/dwahlin/archive/2013/04/12/video-tutorial-angularjs-fundamentals-in-60-ish-minutes.aspx)
 * [AngularJS YouTube Page] (http://www.youtube.com/user/angularjs)
+* [Intro to Angular JS](http://www.youtube.com/watch?v=8ILQOFAgaXE)
+* [End to End with Angular JS](http://www.youtube.com/watch?v=hqAyiqUs93c)
+* [Security with Angular JS](http://www.youtube.com/watch?v=18ifoT-Id54)
+* [Show Me AngularJS] (http://tekpub.com/products/angular)
+* [Easier JavaScript Apps with AngularJS] (https://tutsplus.com/course/easier-js-apps-with-angular/)
 
 ## Help
 * [StackOverflow] (http://stackoverflow.com/questions/tagged/angularjs)
 * [AngularJS Mailing List (Google Groups)] (http://groups.google.com/group/angular)
 * [Chatroom (Browser-based IRC)] (http://webchat.freenode.net/?channels=angularjs&uio=d4)
+* [AngularJS Google+ Community] (https://plus.google.com/u/0/communities/115368820700870330756)
 
 ## General Topics
 * [Getting Started With AngularJS] (http://www.adobe.com/devnet/html5/articles/getting-started-with-angularjs.html)
@@ -52,6 +58,8 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS. Th
 * [Writing Reusable AngularJS Components with Bower] (http://briantford.com/blog/angular-bower.html)
 * [Angularytics: The solution to tracking page views and events in a SPA with AngularJS] (http://www.blogeek.com.ar/2013/06/03/angularytics-the-solution-to-tracking-page-views-and-events-in-a-spa-with-angularjs/)
 * [Sharing Data, State and Models on AngularJS: Alternatives, comparison and my solution] (http://www.blogeek.com.ar/2013/05/01/sharing-data-state-on-angularjs-alternatives-comparison-and-my-solution/)
+* [Authentication in Single Page Applications with Angular.js](http://www.frederiknakstad.com/authentication-in-single-page-applications-with-angular-js/)
+* [AngularJS Best Practices: I’ve Been Doing It Wrong! (3 Part Series)] (http://blog.artlogic.com/2013/05/02/ive-been-doing-it-wrong-part-1-of-3/)
 
 ## Scopes
 * [AngularJS and scope.$apply] (http://jimhoskins.com/2012/12/17/angularjs-and-apply.html)
@@ -78,6 +86,7 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS. Th
 * [Delegating Nested Directive Behavior To Parent Directive In AngularJS] (http://www.bennadel.com/blog/2471-Delegating-Nested-Directive-Behavior-To-Parent-Directive-In-AngularJS.htm)
 * [Exploring Directive Controllers, Compiling, Linking, And Priority In AngularJS] (http://www.bennadel.com/blog/2447-Exploring-Directive-Controllers-Compiling-Linking-And-Priority-In-AngularJS.htm)
 * [Using Controllers In Directives In AngularJS] (http://www.bennadel.com/blog/2446-Using-Controllers-In-Directives-In-AngularJS.htm)
+* [Angular.js Directives with JSON arguments] (http://www.grobmeier.de/angular-js-directives-with-json-arguments-08012013.html)
 
 ## Services/Providers 
 * [Angular service or factory?] (http://iffycan.blogspot.com/2013/05/angular-service-or-factory.html)
@@ -97,6 +106,8 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS. Th
 * [AngularJS Directive to test the strength of a password] (http://blog.brunoscopelliti.com/angularjs-directive-to-test-the-strength-of-a-password)
 * [AngularJS Directive to check that passwords match] (http://blog.brunoscopelliti.com/angularjs-directive-to-check-that-passwords-match)
 * [Mixing Static And Dynamic Data In An AngularJS Select Menu] (http://www.bennadel.com/blog/2452-Mixing-Static-And-Dynamic-Data-In-An-AngularJS-Select-Menu.htm)
+* [Angular.js: ng-select and ng-options] (http://www.grobmeier.de/angular-js-ng-select-and-ng-options-21112012.html)
+* [Angular.js: Autocomplete and enabling a form with $watch and blur] (http://www.grobmeier.de/angular-js-autocomplete-and-enabling-a-form-with-watch-and-blur-19112012.html)
 
 ## Code Organization
 * [Building Huuuuuge Apps with AngularJS] (http://briantford.com/blog/huuuuuge-angular-apps.html)
@@ -117,4 +128,5 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS. Th
 * [Enhanced Animation in AngularJS] (http://www.yearofmoo.com/2013/05/enhanced-animations-in-angularjs.html)
 * [A Reusable AngularJS Popup Dialog Service] (http://www.befundoo.com/blog/angularjs-popup-dialog/)
 * [Creating A Custom Show / Hide Directive In AngularJS] (http://www.bennadel.com/blog/2440-Creating-A-Custom-Show-Hide-Directive-In-AngularJS.htm)
+* [Bootstrap Tabs with Angular.js] (http://www.grobmeier.de/bootstrap-tabs-with-angular-js-25112012.html)
 
