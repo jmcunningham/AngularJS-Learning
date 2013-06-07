@@ -17,6 +17,11 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS. Th
 * [Video Tutorial: AngularJS Fundamentals in 60-ish Minutes] (http://weblogs.asp.net/dwahlin/archive/2013/04/12/video-tutorial-angularjs-fundamentals-in-60-ish-minutes.aspx)
 * [AngularJS YouTube Page] (http://www.youtube.com/user/angularjs)
 
+## Help
+* [StackOverflow] (http://stackoverflow.com/questions/tagged/angularjs)
+* [AngularJS Mailing List (Google Groups)] (http://groups.google.com/group/angular)
+* [Chatroom (Browser-based IRC)] (http://webchat.freenode.net/?channels=angularjs&uio=d4)
+
 ## General Topics
 * [Getting Started With AngularJS] (http://www.adobe.com/devnet/html5/articles/getting-started-with-angularjs.html)
 * [AngularJS Cheat Sheet] (http://www.cheatography.com/proloser/cheat-sheets/angularjs/)
