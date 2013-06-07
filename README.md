@@ -130,3 +130,9 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS. Th
 * [Creating A Custom Show / Hide Directive In AngularJS] (http://www.bennadel.com/blog/2440-Creating-A-Custom-Show-Hide-Directive-In-AngularJS.htm)
 * [Bootstrap Tabs with Angular.js] (http://www.grobmeier.de/bootstrap-tabs-with-angular-js-25112012.html)
 
+## Hosted Backends 
+* [Realtime database for your Angular app with Firebase] (https://github.com/firebase/angularFire)
+* [CRUD backend for Angular with Backlift] (https://blog.backlift.com/entry/angular-tut1)
+
+
+
