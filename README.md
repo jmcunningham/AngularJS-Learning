@@ -83,6 +83,7 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS. Th
 * [Delegating Nested Directive Behavior To Parent Directive In AngularJS] (http://www.bennadel.com/blog/2471-Delegating-Nested-Directive-Behavior-To-Parent-Directive-In-AngularJS.htm)
 * [Exploring Directive Controllers, Compiling, Linking, And Priority In AngularJS] (http://www.bennadel.com/blog/2447-Exploring-Directive-Controllers-Compiling-Linking-And-Priority-In-AngularJS.htm)
 * [Using Controllers In Directives In AngularJS] (http://www.bennadel.com/blog/2446-Using-Controllers-In-Directives-In-AngularJS.htm)
+* [Angular.js Directives with JSON arguments] (http://www.grobmeier.de/angular-js-directives-with-json-arguments-08012013.html)
 
 ## Services/Providers 
 * [Angular service or factory?] (http://iffycan.blogspot.com/2013/05/angular-service-or-factory.html)
@@ -102,6 +103,8 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS. Th
 * [AngularJS Directive to test the strength of a password] (http://blog.brunoscopelliti.com/angularjs-directive-to-test-the-strength-of-a-password)
 * [AngularJS Directive to check that passwords match] (http://blog.brunoscopelliti.com/angularjs-directive-to-check-that-passwords-match)
 * [Mixing Static And Dynamic Data In An AngularJS Select Menu] (http://www.bennadel.com/blog/2452-Mixing-Static-And-Dynamic-Data-In-An-AngularJS-Select-Menu.htm)
+* [Angular.js: ng-select and ng-options] (http://www.grobmeier.de/angular-js-ng-select-and-ng-options-21112012.html)
+* [Angular.js: Autocomplete and enabling a form with $watch and blur] (http://www.grobmeier.de/angular-js-autocomplete-and-enabling-a-form-with-watch-and-blur-19112012.html)
 
 ## Code Organization
 * [Building Huuuuuge Apps with AngularJS] (http://briantford.com/blog/huuuuuge-angular-apps.html)
@@ -122,4 +125,5 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS. Th
 * [Enhanced Animation in AngularJS] (http://www.yearofmoo.com/2013/05/enhanced-animations-in-angularjs.html)
 * [A Reusable AngularJS Popup Dialog Service] (http://www.befundoo.com/blog/angularjs-popup-dialog/)
 * [Creating A Custom Show / Hide Directive In AngularJS] (http://www.bennadel.com/blog/2440-Creating-A-Custom-Show-Hide-Directive-In-AngularJS.htm)
+* [Bootstrap Tabs with Angular.js] (http://www.grobmeier.de/bootstrap-tabs-with-angular-js-25112012.html)
 
