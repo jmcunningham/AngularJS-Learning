@@ -16,6 +16,9 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS. Th
 * [Egghead.io] (http://www.egghead.io/)
 * [Video Tutorial: AngularJS Fundamentals in 60-ish Minutes] (http://weblogs.asp.net/dwahlin/archive/2013/04/12/video-tutorial-angularjs-fundamentals-in-60-ish-minutes.aspx)
 * [AngularJS YouTube Page] (http://www.youtube.com/user/angularjs)
+* [Intro to Angular JS](http://www.youtube.com/watch?v=8ILQOFAgaXE)
+* [End to End with Angular JS](http://www.youtube.com/watch?v=hqAyiqUs93c)
+* [Security with Angular JS](http://www.youtube.com/watch?v=18ifoT-Id54)
 
 ## Help
 * [StackOverflow] (http://stackoverflow.com/questions/tagged/angularjs)
@@ -52,6 +55,7 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS. Th
 * [Writing Reusable AngularJS Components with Bower] (http://briantford.com/blog/angular-bower.html)
 * [Angularytics: The solution to tracking page views and events in a SPA with AngularJS] (http://www.blogeek.com.ar/2013/06/03/angularytics-the-solution-to-tracking-page-views-and-events-in-a-spa-with-angularjs/)
 * [Sharing Data, State and Models on AngularJS: Alternatives, comparison and my solution] (http://www.blogeek.com.ar/2013/05/01/sharing-data-state-on-angularjs-alternatives-comparison-and-my-solution/)
+* [Authentication in Single Page Applications with Angular.js](http://www.frederiknakstad.com/authentication-in-single-page-applications-with-angular-js/)
 
 ## Scopes
 * [AngularJS and scope.$apply] (http://jimhoskins.com/2012/12/17/angularjs-and-apply.html)
