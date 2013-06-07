@@ -19,6 +19,7 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS. Th
 * [Intro to Angular JS](http://www.youtube.com/watch?v=8ILQOFAgaXE)
 * [End to End with Angular JS](http://www.youtube.com/watch?v=hqAyiqUs93c)
 * [Security with Angular JS](http://www.youtube.com/watch?v=18ifoT-Id54)
+* [Show Me AngularJS] (http://tekpub.com/products/angular)
 
 ## Help
 * [StackOverflow] (http://stackoverflow.com/questions/tagged/angularjs)
