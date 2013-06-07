@@ -1,7 +1,7 @@
 AngularJS-Learning
 ==================
 
-A bunch of links to blog posts, articles, videos, etc for learning AngularJS. This list is in its early stages. Feel free to submit a pull request if you have some links/resources to add. Also, I try to verify that the articles below have some real content (i.e. aren't 2 paragraph blog posts with little information) to ensure I'm not listing "fluff" pieces.
+A bunch of links to blog posts, articles, videos, etc for learning AngularJS. This list is in its early stages. Feel free to submit a pull request if you have some links/resources to add. Also, I try to verify that the articles below have some real content (i.e. aren't 2 paragraph blog posts with little information) to ensure I'm not listing "fluff" pieces. If you have an idea for a better way to organize these links, please let me know. As I find similar posts in the "General Topics" section, I will break them out into their own categories.
 
 ## Books
 * [AngularJS] (http://shop.oreilly.com/product/0636920028055.do)
@@ -41,12 +41,24 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS. Th
 * [More AngularJS Magic to Supercharge your Webapp] (http://www.yearofmoo.com/2012/10/more-angularjs-magic-to-supercharge-your-webapp.html)
 * [Internazionalization (i18n) with AngularJS] (http://blog.brunoscopelliti.com/internazionalization-i18n-with-angularjs)
 * [AngularJS promise, or dealing with asynchronous requests in AngularJS] (http://blog.brunoscopelliti.com/angularjs-promise-or-dealing-with-asynchronous-requests-in-angularjs)
+* [HashKeyCopier - An AngularJS Utility Class For Merging Cached And Live Data] (http://www.bennadel.com/blog/2472-HashKeyCopier-An-AngularJS-Utility-Class-For-Merging-Cached-And-Live-Data.htm)
+* [Forced Repaints In Directive Can Cause Accidental Scrolling In AngularJS] (http://www.bennadel.com/blog/2468-Forced-Repaints-In-Directive-Can-Cause-Accidental-Scrolling-In-AngularJS.htm)
+* [Grouping Nested ngRepeat Lists In AngularJS] (http://www.bennadel.com/blog/2456-Grouping-Nested-ngRepeat-Lists-In-AngularJS.htm)
+* [Adding An ngRepeat List Delimiter In AngularJS] (http://www.bennadel.com/blog/2451-Adding-An-ngRepeat-List-Delimiter-In-AngularJS.htm)
+* [Using ngController With ngRepeat In AngularJS] (http://www.bennadel.com/blog/2450-Using-ngController-With-ngRepeat-In-AngularJS.htm)
+* [Using jQuery Event Delegation In AngularJS] (http://www.bennadel.com/blog/2448-Using-jQuery-Event-Delegation-In-AngularJS.htm)
+* [Exploring Directives, $scope, DOM Rendering, And Timing In AngularJS] (http://www.bennadel.com/blog/2444-Exploring-Directives-scope-DOM-Rendering-And-Timing-In-AngularJS.htm)
+* [Rendering DOM Elements With ngRepeat In AngularJS] (http://www.bennadel.com/blog/2443-Rendering-DOM-Elements-With-ngRepeat-In-AngularJS.htm)
+* [Applying A Cached Response To An AngularJS Resource] (http://www.bennadel.com/blog/2432-Applying-A-Cached-Response-To-An-AngularJS-Resource.htm)
 
 ## Scopes
 * [AngularJS and scope.$apply] (http://jimhoskins.com/2012/12/17/angularjs-and-apply.html)
 * [What are the nuances of scope prototypal / prototypical inheritance in AngularJS?] (http://stackoverflow.com/questions/14049480/what-are-the-nuances-of-scope-prototypal-prototypical-inheritance-in-angularjs)
 * [angularjs.org watch, on pub sub, and you.] (http://eburley.github.io/2013/01/31/angularjs-watch-pub-sub-best-practices.html)
 * [Use Ng-bind in AngularJS] (http://www.befundoo.com/blog/use-ng-bind-in-angularjs/)
+* [Unbinding $watch() Listeners In AngularJS] (http://www.bennadel.com/blog/2480-Unbinding-watch-Listeners-In-AngularJS.htm)
+* [Accessing $scope On The DOM Using AngularJS] (http://www.bennadel.com/blog/2457-Accessing-scope-On-The-DOM-Using-AngularJS.htm)
+* [Directive Link, $observe, And $watch Functions Execute Inside An AngularJS Context] (http://www.bennadel.com/blog/2449-Directive-Link-observe-And-watch-Functions-Execute-Inside-An-AngularJS-Context.htm)
 
 ## Dependency Injection
 * [The "Magic" behind AngularJS Dependency Injection] (http://www.alexrothenberg.com/2013/02/11/the-magic-behind-angularjs-dependency-injection.html)
@@ -60,6 +72,10 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS. Th
 * [The ngForm directive of AngularJS] (http://blog.brunoscopelliti.com/the-ngform-directive-of-angularjs)
 * [Run a directive after the DOM has finished rendering] (http://blog.brunoscopelliti.com/run-a-directive-after-the-dom-has-finished-rendering)
 * [Use Cases of AngularJS Directives] (http://blog.brunoscopelliti.com/use-cases-of-angularjs-directives)
+* [My Approach To Building AngularJS Directives That Bind To JavaScript Events] (http://www.bennadel.com/blog/2476-My-Approach-To-Building-AngularJS-Directives-That-Bind-To-JavaScript-Events.htm)
+* [Delegating Nested Directive Behavior To Parent Directive In AngularJS] (http://www.bennadel.com/blog/2471-Delegating-Nested-Directive-Behavior-To-Parent-Directive-In-AngularJS.htm)
+* [Exploring Directive Controllers, Compiling, Linking, And Priority In AngularJS] (http://www.bennadel.com/blog/2447-Exploring-Directive-Controllers-Compiling-Linking-And-Priority-In-AngularJS.htm)
+* [Using Controllers In Directives In AngularJS] (http://www.bennadel.com/blog/2446-Using-Controllers-In-Directives-In-AngularJS.htm)
 
 ## Services/Providers 
 * [Angular service or factory?] (http://iffycan.blogspot.com/2013/05/angular-service-or-factory.html)
@@ -68,11 +84,13 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS. Th
 ## Routing
 * [How to defer route definition in an AngularJS web app] (http://blog.brunoscopelliti.com/how-to-defer-route-definition-in-an-angularjs-web-app)
 * [AngularJS State Management with ui-router] (http://txt.fliglio.com/2013/05/angularjs-state-management-with-ui-router/)
+* [Nested Views, Routing, And Deep Linking With AngularJS] (http://www.bennadel.com/blog/2441-Nested-Views-Routing-And-Deep-Linking-With-AngularJS.htm)
 
 ## Forms
 * [http://blog.brunoscopelliti.com/form-validation-the-angularjs-way] (http://blog.brunoscopelliti.com/form-validation-the-angularjs-way)
 * [AngularJS Directive to test the strength of a password] (http://blog.brunoscopelliti.com/angularjs-directive-to-test-the-strength-of-a-password)
 * [AngularJS Directive to check that passwords match] (http://blog.brunoscopelliti.com/angularjs-directive-to-check-that-passwords-match)
+* [Mixing Static And Dynamic Data In An AngularJS Select Menu] (http://www.bennadel.com/blog/2452-Mixing-Static-And-Dynamic-Data-In-An-AngularJS-Select-Menu.htm)
 
 ## Code Organization
 * [Building Huuuuuge Apps with AngularJS] (http://briantford.com/blog/huuuuuge-angular-apps.html)
@@ -81,8 +99,12 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS. Th
 ## Testing
 * [Full-Spectrum Testing with AngularJS and Testacular] (http://www.yearofmoo.com/2013/01/full-spectrum-testing-with-angularjs-and-testacular.html)
 
+## RESTful Stuff
+* [Using RESTful Controllers In An AngularJS Resource] (http://www.bennadel.com/blog/2433-Using-RESTful-Controllers-In-An-AngularJS-Resource.htm)
+
 ## UI Stuff
 * [Animation in AngularJS] (http://www.yearofmoo.com/2013/04/animation-in-angularjs.html)
 * [Enhanced Animation in AngularJS] (http://www.yearofmoo.com/2013/05/enhanced-animations-in-angularjs.html)
 * [A Reusable AngularJS Popup Dialog Service] (http://www.befundoo.com/blog/angularjs-popup-dialog/)
+* [Creating A Custom Show / Hide Directive In AngularJS] (http://www.bennadel.com/blog/2440-Creating-A-Custom-Show-Hide-Directive-In-AngularJS.htm)
 
