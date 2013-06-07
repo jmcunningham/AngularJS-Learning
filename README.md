@@ -40,7 +40,6 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS. Th
 * [Lazy Loading In AngularJS] (http://ify.io/lazy-loading-in-angularjs/)
 * [More AngularJS Magic to Supercharge your Webapp] (http://www.yearofmoo.com/2012/10/more-angularjs-magic-to-supercharge-your-webapp.html)
 * [Internazionalization (i18n) with AngularJS] (http://blog.brunoscopelliti.com/internazionalization-i18n-with-angularjs)
-* [AngularJS promise, or dealing with asynchronous requests in AngularJS] (http://blog.brunoscopelliti.com/angularjs-promise-or-dealing-with-asynchronous-requests-in-angularjs)
 * [HashKeyCopier - An AngularJS Utility Class For Merging Cached And Live Data] (http://www.bennadel.com/blog/2472-HashKeyCopier-An-AngularJS-Utility-Class-For-Merging-Cached-And-Live-Data.htm)
 * [Forced Repaints In Directive Can Cause Accidental Scrolling In AngularJS] (http://www.bennadel.com/blog/2468-Forced-Repaints-In-Directive-Can-Cause-Accidental-Scrolling-In-AngularJS.htm)
 * [Grouping Nested ngRepeat Lists In AngularJS] (http://www.bennadel.com/blog/2456-Grouping-Nested-ngRepeat-Lists-In-AngularJS.htm)
@@ -50,6 +49,9 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS. Th
 * [Exploring Directives, $scope, DOM Rendering, And Timing In AngularJS] (http://www.bennadel.com/blog/2444-Exploring-Directives-scope-DOM-Rendering-And-Timing-In-AngularJS.htm)
 * [Rendering DOM Elements With ngRepeat In AngularJS] (http://www.bennadel.com/blog/2443-Rendering-DOM-Elements-With-ngRepeat-In-AngularJS.htm)
 * [Applying A Cached Response To An AngularJS Resource] (http://www.bennadel.com/blog/2432-Applying-A-Cached-Response-To-An-AngularJS-Resource.htm)
+* [Writing Reusable AngularJS Components with Bower] (http://briantford.com/blog/angular-bower.html)
+* [Angularytics: The solution to tracking page views and events in a SPA with AngularJS] (http://www.blogeek.com.ar/2013/06/03/angularytics-the-solution-to-tracking-page-views-and-events-in-a-spa-with-angularjs/)
+* [Sharing Data, State and Models on AngularJS: Alternatives, comparison and my solution] (http://www.blogeek.com.ar/2013/05/01/sharing-data-state-on-angularjs-alternatives-comparison-and-my-solution/)
 
 ## Scopes
 * [AngularJS and scope.$apply] (http://jimhoskins.com/2012/12/17/angularjs-and-apply.html)
@@ -86,6 +88,10 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS. Th
 * [AngularJS State Management with ui-router] (http://txt.fliglio.com/2013/05/angularjs-state-management-with-ui-router/)
 * [Nested Views, Routing, And Deep Linking With AngularJS] (http://www.bennadel.com/blog/2441-Nested-Views-Routing-And-Deep-Linking-With-AngularJS.htm)
 
+## Promises/Deferred
+* [Enhancing Angular Promises: Returning new promise of field or method called from original promise’s result] (http://www.blogeek.com.ar/2013/05/02/enhancing-angular-promises-returning-new-promise-of-field-or-method-called-from-original-promises-result/)
+* [AngularJS promise, or dealing with asynchronous requests in AngularJS] (http://blog.brunoscopelliti.com/angularjs-promise-or-dealing-with-asynchronous-requests-in-angularjs)
+
 ## Forms
 * [http://blog.brunoscopelliti.com/form-validation-the-angularjs-way] (http://blog.brunoscopelliti.com/form-validation-the-angularjs-way)
 * [AngularJS Directive to test the strength of a password] (http://blog.brunoscopelliti.com/angularjs-directive-to-test-the-strength-of-a-password)
@@ -95,12 +101,16 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS. Th
 ## Code Organization
 * [Building Huuuuuge Apps with AngularJS] (http://briantford.com/blog/huuuuuge-angular-apps.html)
 * [Code Organization in Large AngularJS and JavaScript Applications] (http://cliffmeyers.com/blog/2013/4/21/code-organization-angularjs-javascript)
+* [Proposed Angular’s WebPage structure] (http://www.blogeek.com.ar/2013/05/18/proposed-angulars-project-structure/)
+* [The right way of coding AngularJS: How to organize a regular WebApp. Basic Example] (http://www.blogeek.com.ar/2013/03/23/the-right-way-of-coding-angularjs-how-to-organize-a-regular-webapp/)
 
 ## Testing
 * [Full-Spectrum Testing with AngularJS and Testacular] (http://www.yearofmoo.com/2013/01/full-spectrum-testing-with-angularjs-and-testacular.html)
 
 ## RESTful Stuff
 * [Using RESTful Controllers In An AngularJS Resource] (http://www.bennadel.com/blog/2433-Using-RESTful-Controllers-In-An-AngularJS-Resource.htm)
+* [Restangular: New AngularJS framework to handle Rest API Restful Resources properly and easily] (http://www.blogeek.com.ar/2013/04/09/restangular-new-angular-framework-to-handle-restful-resources-properly-and-easily/)
+* [New features on Restangular: the ultimate Rest API client for Angular] (http://www.blogeek.com.ar/2013/04/26/new-features-on-restangular-the-ultimate-rest-api-client-for-angularjs/)
 
 ## UI Stuff
 * [Animation in AngularJS] (http://www.yearofmoo.com/2013/04/animation-in-angularjs.html)
