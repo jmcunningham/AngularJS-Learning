@@ -38,8 +38,9 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS. Th
 * [What stumped me about AngularJS] (http://www.peterbe.com/plog/what-stumped-me-about-angularjs)
 * [5 reasons to use AngularJS in the corporate app world] (http://oscarvillarreal.com/2013/05/07/5-reasons-to-use-angularjs-in-the-corporate-app-world/)
 * [Lazy Loading In AngularJS] (http://ify.io/lazy-loading-in-angularjs/)
-* [http://txt.fliglio.com/2013/05/angularjs-state-management-with-ui-router/] (http://txt.fliglio.com/2013/05/angularjs-state-management-with-ui-router/)
 * [More AngularJS Magic to Supercharge your Webapp] (http://www.yearofmoo.com/2012/10/more-angularjs-magic-to-supercharge-your-webapp.html)
+* [Internazionalization (i18n) with AngularJS] (http://blog.brunoscopelliti.com/internazionalization-i18n-with-angularjs)
+* [AngularJS promise, or dealing with asynchronous requests in AngularJS] (http://blog.brunoscopelliti.com/angularjs-promise-or-dealing-with-asynchronous-requests-in-angularjs)
 
 ## Scopes
 * [AngularJS and scope.$apply] (http://jimhoskins.com/2012/12/17/angularjs-and-apply.html)
@@ -56,10 +57,22 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS. Th
 * [AngularJS Directives - Domain-Specific Extensions to HTML] (http://henriquat.re/directives/introduction-to-directives/introductionToDirectives.html)
 * [AngularJS Directives Tutorial] (http://www.befundoo.com/university/tutorials/angularjs-directives-tutorial/)
 * [Commentable: A Polymorphic Nested Comments Directive for AngularJS] (http://panthersoftware.com/blog/2013/05/30/commentable-a-polymorphic-nested-comments-directive-for-angularjs/)
+* [The ngForm directive of AngularJS] (http://blog.brunoscopelliti.com/the-ngform-directive-of-angularjs)
+* [Run a directive after the DOM has finished rendering] (http://blog.brunoscopelliti.com/run-a-directive-after-the-dom-has-finished-rendering)
+* [Use Cases of AngularJS Directives] (http://blog.brunoscopelliti.com/use-cases-of-angularjs-directives)
 
 ## Services/Providers 
 * [Angular service or factory?] (http://iffycan.blogspot.com/2013/05/angular-service-or-factory.html)
 * [How to create (singleton) AngularJS services in 4 different ways] (http://blog.jdriven.com/2013/03/how-to-create-singleton-angularjs-services-in-4-different-ways/)
+
+## Routing
+* [How to defer route definition in an AngularJS web app] (http://blog.brunoscopelliti.com/how-to-defer-route-definition-in-an-angularjs-web-app)
+* [AngularJS State Management with ui-router] (http://txt.fliglio.com/2013/05/angularjs-state-management-with-ui-router/)
+
+## Forms
+* [http://blog.brunoscopelliti.com/form-validation-the-angularjs-way] (http://blog.brunoscopelliti.com/form-validation-the-angularjs-way)
+* [AngularJS Directive to test the strength of a password] (http://blog.brunoscopelliti.com/angularjs-directive-to-test-the-strength-of-a-password)
+* [AngularJS Directive to check that passwords match] (http://blog.brunoscopelliti.com/angularjs-directive-to-check-that-passwords-match)
 
 ## Code Organization
 * [Building Huuuuuge Apps with AngularJS] (http://briantford.com/blog/huuuuuge-angular-apps.html)
