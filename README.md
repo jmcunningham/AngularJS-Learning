@@ -61,9 +61,6 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS. Th
 * [Authentication in Single Page Applications with Angular.js](http://www.frederiknakstad.com/authentication-in-single-page-applications-with-angular-js/)
 * [AngularJS Best Practices: I’ve Been Doing It Wrong! (3 Part Series)] (http://blog.artlogic.com/2013/05/02/ive-been-doing-it-wrong-part-1-of-3/)
 
-## Best pratices
-* [Best pratices to bootstrap an AngularJS app (PT-BR)] (http://cironunes.github.io/angularjs-melhores-praticas-parte-I-bootstrap/)
-
 ## Scopes
 * [AngularJS and scope.$apply] (http://jimhoskins.com/2012/12/17/angularjs-and-apply.html)
 * [What are the nuances of scope prototypal / prototypical inheritance in AngularJS?] (http://stackoverflow.com/questions/14049480/what-are-the-nuances-of-scope-prototypal-prototypical-inheritance-in-angularjs)
