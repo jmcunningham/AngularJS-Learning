@@ -89,7 +89,7 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS. Th
 * [Using Controllers In Directives In AngularJS] (http://www.bennadel.com/blog/2446-Using-Controllers-In-Directives-In-AngularJS.htm)
 * [Angular.js Directives with JSON arguments] (http://www.grobmeier.de/angular-js-directives-with-json-arguments-08012013.html)
 
-## Services/Providers 
+## Services/Providers
 * [Angular service or factory?] (http://iffycan.blogspot.com/2013/05/angular-service-or-factory.html)
 * [How to create (singleton) AngularJS services in 4 different ways] (http://blog.jdriven.com/2013/03/how-to-create-singleton-angularjs-services-in-4-different-ways/)
 
