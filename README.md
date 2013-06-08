@@ -13,15 +13,16 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS. Th
 * [Developing An AngularJS Edge] (http://bleedingedgepress.com/our-books/developing-an-angularjs-edge/)
 
 ## Videos
-* [Egghead.io] (http://www.egghead.io/)
-* [Video Tutorial: AngularJS Fundamentals in 60-ish Minutes] (http://weblogs.asp.net/dwahlin/archive/2013/04/12/video-tutorial-angularjs-fundamentals-in-60-ish-minutes.aspx)
-* [AngularJS YouTube Page] (http://www.youtube.com/user/angularjs)
-* [Intro to Angular JS](http://www.youtube.com/watch?v=8ILQOFAgaXE)
-* [End to End with Angular JS](http://www.youtube.com/watch?v=hqAyiqUs93c)
-* [Security with Angular JS](http://www.youtube.com/watch?v=18ifoT-Id54)
-* [Show Me AngularJS] (http://tekpub.com/products/angular)
-* [Easier JavaScript Apps with AngularJS] (https://tutsplus.com/course/easier-js-apps-with-angular/)
-* [AngularJS Fundamentals via Pluralsight] (http://pluralsight.com/training/Courses/TableOfContents/angularjs-fundamentals)
+* [Egghead.io](http://www.egghead.io/) — 44 videos of about 4 minutes each
+* [Video Tutorial: AngularJS Fundamentals in 60-ish Minutes](http://weblogs.asp.net/dwahlin/archive/2013/04/12/video-tutorial-angularjs-fundamentals-in-60-ish-minutes.aspx) — 1:10:50
+* [AngularJS YouTube Page](http://www.youtube.com/user/angularjs) — several videos, mostly presentations of 1h or more
+* [Intro to Angular JS](http://www.youtube.com/watch?v=8ILQOFAgaXE) — 50:05
+* [End to End with Angular JS](http://www.youtube.com/watch?v=hqAyiqUs93c) — 52:59
+* [Security with Angular JS](http://www.youtube.com/watch?v=18ifoT-Id54) — 29:45
+* [AngularJS Tutorial](http://www.youtube.com/watch?v=WuiHuZq_cg4) — 12:19
+* [Show Me AngularJS (Tekpub)](http://tekpub.com/products/angular) — 8 videos (paid)
+* [Easier JavaScript Apps with AngularJS (Tuts+)](https://tutsplus.com/course/easier-js-apps-with-angular/) — 22 videos of about 5 minutes each, in 8 sections (paid)
+* [AngularJS Fundamentals (Pluralsight)] (http://pluralsight.com/training/Courses/TableOfContents/angularjs-fundamentals) - 6 hours 15 minutes total (paid)
 
 ## Help
 * [StackOverflow] (http://stackoverflow.com/questions/tagged/angularjs)
