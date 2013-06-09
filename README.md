@@ -98,6 +98,7 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS. Th
 * [How to defer route definition in an AngularJS web app] (http://blog.brunoscopelliti.com/how-to-defer-route-definition-in-an-angularjs-web-app)
 * [AngularJS State Management with ui-router] (http://txt.fliglio.com/2013/05/angularjs-state-management-with-ui-router/)
 * [Nested Views, Routing, And Deep Linking With AngularJS] (http://www.bennadel.com/blog/2441-Nested-Views-Routing-And-Deep-Linking-With-AngularJS.htm)
+* [Angular UI router](http://angular-ui.github.io/ui-router/sample/#/)
 
 ## Promises/Deferred
 * [Enhancing Angular Promises: Returning new promise of field or method called from original promise’s result] (http://www.blogeek.com.ar/2013/05/02/enhancing-angular-promises-returning-new-promise-of-field-or-method-called-from-original-promises-result/)
@@ -126,6 +127,7 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS. Th
 * [New features on Restangular: the ultimate Rest API client for Angular] (http://www.blogeek.com.ar/2013/04/26/new-features-on-restangular-the-ultimate-rest-api-client-for-angularjs/)
 
 ## UI Stuff
+* [Angular UI suite (including some subprojects)](http://angular-ui.github.io/)
 * [Animation in AngularJS] (http://www.yearofmoo.com/2013/04/animation-in-angularjs.html)
 * [Enhanced Animation in AngularJS] (http://www.yearofmoo.com/2013/05/enhanced-animations-in-angularjs.html)
 * [A Reusable AngularJS Popup Dialog Service] (http://www.befundoo.com/blog/angularjs-popup-dialog/)
@@ -137,5 +139,10 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS. Th
 * [Realtime database for your Angular app with Firebase] (https://github.com/firebase/angularFire)
 * [CRUD backend for Angular with Backlift] (https://blog.backlift.com/entry/angular-tut1)
 
+
+
+## Text editor bundles
+
+* [Sublime text 2 package](https://github.com/angular-ui/AngularJS-sublime-package)
 
 
