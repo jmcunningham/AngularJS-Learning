@@ -17,7 +17,6 @@ Je liste exclusivement les liens en français. Cette liste vient en complément 
 * [AngularJS & le futur du développement web 2] (http://vimeo.com/67544320) — 09:09
 * [Focus sur les filtres AngularJS] (http://vimeo.com/67627121) — 47:26
 
-
 ## Aide
 * [Forum FrAngular] (https://groups.google.com/forum/?fromgroups=#!forum/frangular)
 
@@ -25,6 +24,10 @@ Je liste exclusivement les liens en français. Cette liste vient en complément 
 * [AngularJS : less code more fun] (http://www.itaware.eu/2012/06/13/angularjs-less-code-more-fun/)
 * [Comment aborder AngularJS ?] (http://www.frangular.com/2013/03/comment-aborder-angularjs.html)
 * [AngularJS, le framework MVC par Google] (http://www.mathieurobin.com/2012/08/angularjs-le-framework-mvc-par-google/)
+* [AngularJS : la philosophie] (http://blog.zenika.com/index.php?post/2013/03/04/AngularJS-%3A-la-philosophie)
+* [AngularJS : Getting Started] (http://blog.zenika.com/index.php?post/2013/05/22/AngularJS-%3A-Getting-Started)
+* [GDG Nantes & Stereolux : Workshop HTML5] (http://blog.roddet.com/2013/04/stereolux-workshop-html5/)
+* [Mes premiers pas avec AngularJS] (http://hugeen.com/2013/02/02/mes-premiers-pas-avec-angularjs/)
 
 ## Scopes
 * [AngularJS : le scope] (http://www.itaware.eu/2012/06/14/angularjs-le-scope/)
@@ -59,13 +62,14 @@ Je liste exclusivement les liens en français. Cette liste vient en complément 
 ## Tests
 * [AngularJS : tests unitaires et d’interface utilisateur] (http://www.itaware.eu/2012/07/08/angularjs-tests-unitaires-et-dinterface-utilisateur/)
 
-## RESTful Architecture
+## Architecture RESTful
 * [AngularJS : AJAX et REST] (http://www.itaware.eu/2012/09/05/angularjs-ajax-et-rest/)
 
 ## Interface Utilisateur
 * [Pagination côté client avec une directive AngularJS] (http://www.frangular.com/2012/12/pagination-cote-client-directive-angularjs.html)
 * [Tableaux complexes avec AngularJS : ng-repeat et tbody] (http://www.frangular.com/2013/01/tableaux-angularjs-ngrepeat-tbody.html)
 * [Drag & Drop avec AngularJS] (http://www.frangular.com/2013/02/drag-drop-avec-angularjs.html)
+* [Le langage d'expressions d'AngularJS] (http://www.frangular.com/2013/03/langage-expressions-angularjs.html)
 
 ## Outils
 * [AngularJS : outils et debug] (http://www.itaware.eu/2012/10/15/angularjs-outils-et-debug/)
