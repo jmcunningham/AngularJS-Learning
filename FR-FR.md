@@ -28,6 +28,7 @@ Je liste exclusivement les liens en français. Cette liste vient en complément 
 * [AngularJS : Getting Started] (http://blog.zenika.com/index.php?post/2013/05/22/AngularJS-%3A-Getting-Started)
 * [GDG Nantes & Stereolux : Workshop HTML5] (http://blog.roddet.com/2013/04/stereolux-workshop-html5/)
 * [Mes premiers pas avec AngularJS] (http://hugeen.com/2013/02/02/mes-premiers-pas-avec-angularjs/)
+* [Devoxx 2012 – Angular JS] (http://blog.soat.fr/2012/11/devoxx-2012-angular-js/)
 
 ## Scopes
 * [AngularJS : le scope] (http://www.itaware.eu/2012/06/14/angularjs-le-scope/)
@@ -49,6 +50,7 @@ Je liste exclusivement les liens en français. Cette liste vient en complément 
 ## Routing
 * [AngularJS : navigation et routage] (http://www.itaware.eu/2012/08/26/angularjs-navigation-et-routage/)
 * [Initialisations avant le routage avec la propriété resolve] (http://www.frangular.com/2012/12/initialisations-avant-routage-avec-resolve.html)
+* [AngularJS et routeur custom] (http://capitaine-mousse.fr/article/9/angularjs-et-routeur-custom)
 
 ## Promises/Deferred
 * [L'API Promise d'AngularJS] (http://www.frangular.com/2012/12/api-promise-angularjs.html)
@@ -65,11 +67,12 @@ Je liste exclusivement les liens en français. Cette liste vient en complément 
 ## Architecture RESTful
 * [AngularJS : AJAX et REST] (http://www.itaware.eu/2012/09/05/angularjs-ajax-et-rest/)
 
-## Interface Utilisateur
+## Interfaces & Vues
 * [Pagination côté client avec une directive AngularJS] (http://www.frangular.com/2012/12/pagination-cote-client-directive-angularjs.html)
 * [Tableaux complexes avec AngularJS : ng-repeat et tbody] (http://www.frangular.com/2013/01/tableaux-angularjs-ngrepeat-tbody.html)
 * [Drag & Drop avec AngularJS] (http://www.frangular.com/2013/02/drag-drop-avec-angularjs.html)
 * [Le langage d'expressions d'AngularJS] (http://www.frangular.com/2013/03/langage-expressions-angularjs.html)
+* [Traduction des libellés dans les vues AngularJS] (http://www.frangular.com/2012/12/traduction-des-libelles-dans-les-vues-angularjs.html)
 
 ## Outils
 * [AngularJS : outils et debug] (http://www.itaware.eu/2012/10/15/angularjs-outils-et-debug/)
