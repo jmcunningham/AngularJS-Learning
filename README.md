@@ -63,6 +63,10 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS. Th
 * [Authentication in Single Page Applications with Angular.js](http://www.frederiknakstad.com/authentication-in-single-page-applications-with-angular-js/)
 * [AngularJS Best Practices: I’ve Been Doing It Wrong! (3 Part Series)] (http://blog.artlogic.com/2013/05/02/ive-been-doing-it-wrong-part-1-of-3/)
 * [Using AngularJS and D3 to Create a WordCloud Directive] (http://spiiice.net/using-angularjs-and-d3-to-create-a-wordcloud-directive/)
+* [AngularJS and SVG] (http://dailyjs.com/2013/06/07/angular-svg/)
+* [Angular.js and IE8 caching] (http://www.jefclaes.be/2013/06/angularjs-and-ie8-caching.html)
+* [AngularJS and TypeScript] (http://notebookheavy.com/2013/05/22/angularjs-and-typescript/)
+* [What To Know To Be An Expert in AngularJS] (http://codigovivo.com/2013/06/09/what-to-know-to-be-an-expert-in-angularjs/)
 
 ## Scopes
 * [AngularJS and scope.$apply] (http://jimhoskins.com/2012/12/17/angularjs-and-apply.html)
@@ -90,6 +94,7 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS. Th
 * [Exploring Directive Controllers, Compiling, Linking, And Priority In AngularJS] (http://www.bennadel.com/blog/2447-Exploring-Directive-Controllers-Compiling-Linking-And-Priority-In-AngularJS.htm)
 * [Using Controllers In Directives In AngularJS] (http://www.bennadel.com/blog/2446-Using-Controllers-In-Directives-In-AngularJS.htm)
 * [Angular.js Directives with JSON arguments] (http://www.grobmeier.de/angular-js-directives-with-json-arguments-08012013.html)
+* [The Hitchhiker’s Guide to the Directive] (http://amitgharat.wordpress.com/2013/06/08/the-hitchhikers-guide-to-the-directive/)
 
 ## Services/Providers
 * [Angular service or factory?] (http://iffycan.blogspot.com/2013/05/angular-service-or-factory.html)
@@ -112,6 +117,7 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS. Th
 * [Mixing Static And Dynamic Data In An AngularJS Select Menu] (http://www.bennadel.com/blog/2452-Mixing-Static-And-Dynamic-Data-In-An-AngularJS-Select-Menu.htm)
 * [Angular.js: ng-select and ng-options] (http://www.grobmeier.de/angular-js-ng-select-and-ng-options-21112012.html)
 * [Angular.js: Autocomplete and enabling a form with $watch and blur] (http://www.grobmeier.de/angular-js-autocomplete-and-enabling-a-form-with-watch-and-blur-19112012.html)
+* [Create AngularJS Directives to Remove Duplicate Code in Forms] (http://kazimanzurrashid.com/posts/create-angularjs-directives-to-remove-duplicate-codes-in-form)
 
 ## Code Organization
 * [Building Huuuuuge Apps with AngularJS] (http://briantford.com/blog/huuuuuge-angular-apps.html)
