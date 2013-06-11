@@ -34,12 +34,8 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS. Th
 * [Getting Started With AngularJS] (http://www.adobe.com/devnet/html5/articles/getting-started-with-angularjs.html)
 * [AngularJS Cheat Sheet] (http://www.cheatography.com/proloser/cheat-sheets/angularjs/)
 * [Fun With AngularJS] (http://devgirl.org/2013/03/21/fun-with-angularjs/)
-* [Building PhoneGap Apps with AngularJS] (http://briantford.com/blog/angular-phonegap.html)
-* [Maintainable Rich Web Applications with AngularJS – Part 1] (http://blog.akquinet.de/2013/01/22/maintainable-rich-web-applications-with-angularjs/)
-* [Maintainable Rich Web Applications with AngularJS – Part 2] (http://blog.akquinet.de/2013/03/21/maintainable-rich-web-applications-with-angularjs-part-2/)
 * [AngularJS Philly ETE Slides] (http://onehungrymind.com/angularjs-philly-ete-slides/)
 * [Everything you need to understand to start with AngularJS] (http://stephanebegaudeau.tumblr.com/post/48776908163/everything-you-need-to-understand-to-start-with)
-* [Google, Twitter & AngularJS (Part 1 of 7)] (http://dailyjs.com/2013/04/11/angularjs-1/)
 * [Lessons Learned: A Year with a Large AngularJS Project] (http://joelhooks.com/blog/2013/05/22/lessons-learned-kicking-off-an-angularjs-project/)
 * [Random Tricks When Using AngularJS] (http://blog.tomaka17.com/2012/12/random-tricks-when-using-angularjs/)
 * [Deal with users authentication in an AngularJS web app] (http://blog.brunoscopelliti.com/deal-with-users-authentication-in-an-angularjs-web-app)
@@ -67,6 +63,11 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS. Th
 * [Angular.js and IE8 caching] (http://www.jefclaes.be/2013/06/angularjs-and-ie8-caching.html)
 * [AngularJS and TypeScript] (http://notebookheavy.com/2013/05/22/angularjs-and-typescript/)
 * [What To Know To Be An Expert in AngularJS] (http://codigovivo.com/2013/06/09/what-to-know-to-be-an-expert-in-angularjs/)
+
+## Multipart Articles
+* Getting Started with elasticsearch and AngularJS: [Part1 - Searching] (http://www.fullscale.co/blog/2013/02/28/getting_started_with_elasticsearch_and_AngularJS_searching.html), [Part 2: Faceting] (http://www.fullscale.co/blog/2013/03/07/getting_started_with_elasticsearch_and-AngularJS_faceting.html), [Part 3: Visualization] (http://www.fullscale.co/blog/2013/03/20/getting_started_with_elasticsearch_and_AngularJS_d3.html)
+* Maintainable Rich Web Applications with AngularJS: [Part 1] (http://blog.akquinet.de/2013/01/22/maintainable-rich-web-applications-with-angularjs/), [Part 2] (http://blog.akquinet.de/2013/03/21/maintainable-rich-web-applications-with-angularjs-part-2/)
+* Google, Twitter & AngularJS: [1: Google, Twitter, and AngularJS] (http://dailyjs.com/2013/04/11/angularjs-1/), [2: Let's Make a Feed Reader] (http://dailyjs.com/2013/04/18/angularjs-2/), [3: Rendering Feeds] (http://dailyjs.com/2013/04/25/angularjs-3/), [4: Managing Feeds] (http://dailyjs.com/2013/05/09/angularjs-4/), [5: Tests] (http://dailyjs.com/2013/05/16/angularjs-5/), [6: Adding Dependencies] (http://dailyjs.com/2013/05/30/angularjs-6/), [7: Form Validation] (http://dailyjs.com/2013/06/06/angularjs-7/)
 
 ## Scopes
 * [AngularJS and scope.$apply] (http://jimhoskins.com/2012/12/17/angularjs-and-apply.html)
@@ -146,7 +147,9 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS. Th
 * [Realtime database for your Angular app with Firebase] (https://github.com/firebase/angularFire)
 * [CRUD backend for Angular with Backlift] (https://blog.backlift.com/entry/angular-tut1)
 
-
+## PhoneGap
+* [Quick Start Guide to PhoneGap+AngularJS] (http://devgirl.org/2013/06/10/quick-start-guide-phonegap-and-angularjs/)
+* [Building PhoneGap Apps with AngularJS] (http://briantford.com/blog/angular-phonegap.html)
 
 ## Text editor bundles
 
