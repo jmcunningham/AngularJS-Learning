@@ -64,11 +64,13 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS. Th
 * [What To Know To Be An Expert in AngularJS] (http://codigovivo.com/2013/06/09/what-to-know-to-be-an-expert-in-angularjs/)
 * [A Shopping Cart Application Built with AngularJS] (http://www.codeproject.com/Articles/576246/A-Shopping-Cart-Application-Built-with-AngularJS)
 * [AngularJS and SEO] (http://www.yearofmoo.com/2012/11/angularjs-and-seo.html)
+* [Hooking up ASP.NET SignalR with Angular JS](http://sravi-kiran.blogspot.in/2013/05/HookingUpAspNetSignalRWithAngularJS.html)
 
 ## Multipart Articles
 * Getting Started with elasticsearch and AngularJS: [Part1 - Searching] (http://www.fullscale.co/blog/2013/02/28/getting_started_with_elasticsearch_and_AngularJS_searching.html), [Part 2: Faceting] (http://www.fullscale.co/blog/2013/03/07/getting_started_with_elasticsearch_and-AngularJS_faceting.html), [Part 3: Visualization] (http://www.fullscale.co/blog/2013/03/20/getting_started_with_elasticsearch_and_AngularJS_d3.html)
 * Maintainable Rich Web Applications with AngularJS: [Part 1] (http://blog.akquinet.de/2013/01/22/maintainable-rich-web-applications-with-angularjs/), [Part 2] (http://blog.akquinet.de/2013/03/21/maintainable-rich-web-applications-with-angularjs-part-2/)
 * Google, Twitter & AngularJS: [1: Google, Twitter, and AngularJS] (http://dailyjs.com/2013/04/11/angularjs-1/), [2: Let's Make a Feed Reader] (http://dailyjs.com/2013/04/18/angularjs-2/), [3: Rendering Feeds] (http://dailyjs.com/2013/04/25/angularjs-3/), [4: Managing Feeds] (http://dailyjs.com/2013/05/09/angularjs-4/), [5: Tests] (http://dailyjs.com/2013/05/16/angularjs-5/), [6: Adding Dependencies] (http://dailyjs.com/2013/05/30/angularjs-6/), [7: Form Validation] (http://dailyjs.com/2013/06/06/angularjs-7/)
+* Implementing SignalR Stock Ticker using Angular JS: [Part 1](http://sravi-kiran.blogspot.in/2013/05/ImplementingSignalRStockTickerUsingAngularJSPart1.html), [Part 2](http://sravi-kiran.blogspot.in/2013/05/ImplementingSignalRStockTickerUsingAngularJSPart2.html)
 
 ## Scopes
 * [AngularJS and scope.$apply] (http://jimhoskins.com/2012/12/17/angularjs-and-apply.html)
