@@ -79,6 +79,7 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS. Th
 * [Accessing $scope On The DOM Using AngularJS] (http://www.bennadel.com/blog/2457-Accessing-scope-On-The-DOM-Using-AngularJS.htm)
 * [Directive Link, $observe, And $watch Functions Execute Inside An AngularJS Context] (http://www.bennadel.com/blog/2449-Directive-Link-observe-And-watch-Functions-Execute-Inside-An-AngularJS-Context.htm)
 * [Hailing All Frequencies – Communicating in AngularJS with the Pub/Sub Design Pattern] (http://codingsmackdown.tv/blog/2013/04/29/hailing-all-frequencies-communicating-in-angularjs-with-the-pubsub-design-pattern/)
+* [Nested Scopes in AngularJS] (http://jimhoskins.com/2012/12/14/nested-scopes-in-angularjs.html)
 
 ## Dependency Injection
 * [The "Magic" behind AngularJS Dependency Injection] (http://www.alexrothenberg.com/2013/02/11/the-magic-behind-angularjs-dependency-injection.html)
