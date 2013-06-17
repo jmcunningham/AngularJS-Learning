@@ -16,7 +16,6 @@ AngularJS
 * [Лучшие практики AngularJS](http://habrahabr.ru/post/181882/)
 * [Организация кода в больших AngularJS и JavaScript приложениях](http://habrahabr.ru/post/180837/)
 * [AngularJs. Отложенная загрузка модулей](http://habrahabr.ru/post/178753/)
-
 * [AngularJS.de - Das deutsche Portal zu AngularJS](http://angularjs.de/)
 * [Einführung in AngularJS](http://html5-mobile.de/blog/angularjs-javascript-mvc-framework-tutorial)
 * [Wartbare Rich Web Applications mit AngularJS](http://blog-de.akquinet.de/2013/01/22/wartbare-rich-web-applications-mit-angularjs/)
