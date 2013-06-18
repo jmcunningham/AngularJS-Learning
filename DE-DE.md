@@ -13,5 +13,6 @@ AngularJS.
 * [AngularJS.de - Das deutsche Portal zu AngularJS](http://angularjs.de/)
 * [Einführung in AngularJS](http://html5-mobile.de/blog/angularjs-javascript-mvc-framework-tutorial)
 * [Wartbare Rich Web Applications mit AngularJS](http://blog-de.akquinet.de/2013/01/22/wartbare-rich-web-applications-mit-angularjs/)
+* [I18n in AngularJS Anwendungen einfach gemacht](http://angularjs.de/artikel/angularjs-i18n-ng-translate)
 
 ## Hilfe
