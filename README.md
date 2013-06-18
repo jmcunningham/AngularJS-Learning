@@ -65,6 +65,7 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS. Th
 * [A Shopping Cart Application Built with AngularJS] (http://www.codeproject.com/Articles/576246/A-Shopping-Cart-Application-Built-with-AngularJS)
 * [AngularJS and SEO] (http://www.yearofmoo.com/2012/11/angularjs-and-seo.html)
 * [Hooking up ASP.NET SignalR with Angular JS](http://sravi-kiran.blogspot.in/2013/05/HookingUpAspNetSignalRWithAngularJS.html)
+* [5 Awesome AngularJS Features](http://net.tutsplus.com/tutorials/javascript-ajax/5-awesome-angularjs-features/)
 
 ## Multipart Articles
 * Getting Started with elasticsearch and AngularJS: [Part1 - Searching] (http://www.fullscale.co/blog/2013/02/28/getting_started_with_elasticsearch_and_AngularJS_searching.html), [Part 2: Faceting] (http://www.fullscale.co/blog/2013/03/07/getting_started_with_elasticsearch_and-AngularJS_faceting.html), [Part 3: Visualization] (http://www.fullscale.co/blog/2013/03/20/getting_started_with_elasticsearch_and_AngularJS_d3.html)
