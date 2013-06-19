@@ -13,7 +13,7 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS. Th
 * [Developing An AngularJS Edge] (http://bleedingedgepress.com/our-books/developing-an-angularjs-edge/)
 
 ## Videos
-* [Egghead.io](http://www.egghead.io/) — 44 videos of about 4 minutes each
+* [Egghead.io](http://www.egghead.io/) — 44 videos of about 4 minutes each — [source code](https://github.com/msfrisbie/egghead-angularjs)
 * [Video Tutorial: AngularJS Fundamentals in 60-ish Minutes](http://weblogs.asp.net/dwahlin/archive/2013/04/12/video-tutorial-angularjs-fundamentals-in-60-ish-minutes.aspx) — 1:10:50
 * [AngularJS YouTube Page](http://www.youtube.com/user/angularjs) — several videos, mostly presentations of 1h or more
 * [Intro to Angular JS](http://www.youtube.com/watch?v=8ILQOFAgaXE) — 50:05
@@ -134,7 +134,7 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS. Th
 * [Creating A Custom Show / Hide Directive In AngularJS] (http://www.bennadel.com/blog/2440-Creating-A-Custom-Show-Hide-Directive-In-AngularJS.htm)
 * [Bootstrap Tabs with Angular.js] (http://www.grobmeier.de/bootstrap-tabs-with-angular-js-25112012.html)
 
-## Hosted Backends 
+## Hosted Backends
 * [Parse.com boilerplate for building large, complex AngularJS apps](http://brandid.github.io/parse-angular-demo/#/features)
 * [Realtime database for your Angular app with Firebase] (https://github.com/firebase/angularFire)
 * [CRUD backend for Angular with Backlift] (https://blog.backlift.com/entry/angular-tut1)
@@ -144,5 +144,3 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS. Th
 ## Text editor bundles
 
 * [Sublime text 2 package](https://github.com/angular-ui/AngularJS-sublime-package)
-
-
