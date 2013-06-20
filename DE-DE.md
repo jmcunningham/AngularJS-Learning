@@ -15,5 +15,10 @@ Ein deutsches Buch zu diesem Thema entsteht zur Zeit bei dem [dpunkt.verlag](htt
 * [Einführung in AngularJS](http://html5-mobile.de/blog/angularjs-javascript-mvc-framework-tutorial)
 * [Wartbare Rich Web Applications mit AngularJS](http://blog-de.akquinet.de/2013/01/22/wartbare-rich-web-applications-mit-angularjs/)
 * [AngularJS + CoffeeScript - der einfachste Weg zu elegantem Code](http://angularjs.de/artikel/angularjs-mit-coffeescript)
+* [AngularJS + D3 : Implementierung einer WordCloud-Direktive](http://angularjs.de/artikel/angularjs-d3-wordcloud)
+* [AngularJS - Animationen mit ng-animate](http://angularjs.de/artikel/angularjs-animationen-ng-animate)
+* [Testen deiner AngularJS Anwendung mit Jasmine](http://angularjs.de/artikel/angularjs-test)
+* [ng-repeat: Der Teufel im Schafspelz](http://angularjs.de/artikel/angularjs-ng-repeat)
+* [I18n in AngularJS Anwendungen einfach gemacht](http://angularjs.de/artikel/angularjs-i18n-ng-translate)
 
 ## Hilfe
