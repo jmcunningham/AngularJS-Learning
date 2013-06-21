@@ -121,6 +121,7 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS. Th
 * [Enhancing Angular Promises: Returning new promise of field or method called from original promise’s result] (http://www.blogeek.com.ar/2013/05/02/enhancing-angular-promises-returning-new-promise-of-field-or-method-called-from-original-promises-result/)
 * [AngularJS promise, or dealing with asynchronous requests in AngularJS] (http://blog.brunoscopelliti.com/angularjs-promise-or-dealing-with-asynchronous-requests-in-angularjs)
 * [Taking Advantage of Futures in AngularJS] (http://imownbey.github.io/skinny_controllers_for_yeezus.html)
+* [Using Promises in AngularJS Views] (http://markdalgleish.com/2013/06/using-promises-in-angularjs-views/)
 
 ## Forms
 * [http://blog.brunoscopelliti.com/form-validation-the-angularjs-way] (http://blog.brunoscopelliti.com/form-validation-the-angularjs-way)
