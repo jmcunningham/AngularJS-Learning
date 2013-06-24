@@ -83,6 +83,7 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS. Th
 * [Directive Link, $observe, And $watch Functions Execute Inside An AngularJS Context] (http://www.bennadel.com/blog/2449-Directive-Link-observe-And-watch-Functions-Execute-Inside-An-AngularJS-Context.htm)
 * [Hailing All Frequencies – Communicating in AngularJS with the Pub/Sub Design Pattern] (http://codingsmackdown.tv/blog/2013/04/29/hailing-all-frequencies-communicating-in-angularjs-with-the-pubsub-design-pattern/)
 * [Nested Scopes in AngularJS] (http://jimhoskins.com/2012/12/14/nested-scopes-in-angularjs.html)
+* [AngularJS: 6 Common Pitfalls Using Scopes] (http://thenittygritty.co/angularjs-pitfalls-using-scopes)
 
 ## Dependency Injection
 * [The "Magic" behind AngularJS Dependency Injection] (http://www.alexrothenberg.com/2013/02/11/the-magic-behind-angularjs-dependency-injection.html)
@@ -105,6 +106,8 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS. Th
 * [The Hitchhiker’s Guide to the Directive] (http://amitgharat.wordpress.com/2013/06/08/the-hitchhikers-guide-to-the-directive/)
 * [Creating a Simple AngularJS Directive] (http://codingsmackdown.tv/blog/2012/12/14/creating-a-simple-angularjs-directive/)
 * [Extending HTML With AngularJS Directives] (http://www.codeproject.com/Articles/607873/Extending-HTML-with-AngularJS-Directives)
+* [Building Nested Recursive Directives in Angular] (http://sporto.github.io/blog/2013/06/24/nested-recursive-directives-in-angular/)
+* [An all-in-one directive-controller with AngularJS] (http://icelab.com.au/articles/an-all-in-one-directive-controller-with-angularjs/)
 
 ## Services/Providers
 * [Angular service or factory?] (http://iffycan.blogspot.com/2013/05/angular-service-or-factory.html)
@@ -154,6 +157,7 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS. Th
 * [Mocking Promises in Unit Tests] (http://codingsmackdown.tv/blog/2012/12/28/mocking-promises-in-unit-tests/)
 * [How To Test An AngularJS Directive] (http://newtriks.com/2013/04/26/how-to-test-an-angularjs-directive/)
 * [Unit Testing AngularJS Controllers Using Jasmine] (http://sravi-kiran.blogspot.com/2013/04/UnitTestingAngularJsControllerUsingJasmine.html)
+* [Unit Testing AngularJS Controller Using QUnit and Sinon] (http://sravi-kiran.blogspot.com/2013/06/UnitTestingAngularJsControllerUsingQUnitAndSinon.html)
 
 ## RESTful Stuff
 * [Using RESTful Controllers In An AngularJS Resource] (http://www.bennadel.com/blog/2433-Using-RESTful-Controllers-In-An-AngularJS-Resource.htm)
