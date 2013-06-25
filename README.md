@@ -127,7 +127,7 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS. Th
 * [Using Promises in AngularJS Views] (http://markdalgleish.com/2013/06/using-promises-in-angularjs-views/)
 
 ## Forms
-* [http://blog.brunoscopelliti.com/form-validation-the-angularjs-way] (http://blog.brunoscopelliti.com/form-validation-the-angularjs-way)
+* [Form Validation the AngularJS Way] (http://blog.brunoscopelliti.com/form-validation-the-angularjs-way)
 * [AngularJS Directive to test the strength of a password] (http://blog.brunoscopelliti.com/angularjs-directive-to-test-the-strength-of-a-password)
 * [AngularJS Directive to check that passwords match] (http://blog.brunoscopelliti.com/angularjs-directive-to-check-that-passwords-match)
 * [Mixing Static And Dynamic Data In An AngularJS Select Menu] (http://www.bennadel.com/blog/2452-Mixing-Static-And-Dynamic-Data-In-An-AngularJS-Select-Menu.htm)
@@ -137,6 +137,7 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS. Th
 * [Forced Repaints In Directive Can Cause Accidental Scrolling In AngularJS] (http://www.bennadel.com/blog/2468-Forced-Repaints-In-Directive-Can-Cause-Accidental-Scrolling-In-AngularJS.htm)
 * [Using ngOptions in AngularJS] (http://odetocode.com/blogs/scott/archive/2013/06/19/using-ngoptions-in-angularjs.aspx)
 * [Showing Validation Messages In Bulk While Validating Form Using Angular JS] (http://sravi-kiran.blogspot.com/2013/06/ShowingValidationMessagesInBulkWhileValidatingFormUsingAngularJS.html)
+* [A directive to manage file upload in an AngularJS application] (http://blog.brunoscopelliti.com/a-directive-to-manage-file-upload-in-an-angularjs-application)
 
 ## Collections (& ngRepeat Stuff)
 * [Working With Inherited Collections in AngularJS] (http://www.bennadel.com/blog/2485-Working-With-Inherited-Collections-In-AngularJS.htm)
@@ -177,6 +178,8 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS. Th
 * [Creating A Custom Show / Hide Directive In AngularJS] (http://www.bennadel.com/blog/2440-Creating-A-Custom-Show-Hide-Directive-In-AngularJS.htm)
 * [Bootstrap Tabs with Angular.js] (http://www.grobmeier.de/bootstrap-tabs-with-angular-js-25112012.html)
 * [Using Response Interceptors to Show and Hide a Loading Widget] (http://codingsmackdown.tv/blog/2013/01/02/using-response-interceptors-to-show-and-hide-a-loading-widget/)
+* [Building a Typeahead Directive with AngularJS] (http://hueypetersen.com/posts/2013/06/24/typeahead-with-angular/)
+* [AngularJS Modal Service] (http://fundoo-solutions.github.io/angularjs-modal-service/)
 
 ## Integration With Other Languages/Frameworks
 * [AngularJS and TypeScript] (http://notebookheavy.com/2013/05/22/angularjs-and-typescript/)
