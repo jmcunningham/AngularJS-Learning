@@ -53,6 +53,7 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS. Th
 * [Angular.js and IE8 caching] (http://www.jefclaes.be/2013/06/angularjs-and-ie8-caching.html)
 * [AngularJS and SEO] (http://www.yearofmoo.com/2012/11/angularjs-and-seo.html)
 * [Templates, Routing and Sharing Data Between Views in an Angular JS Application] (http://sravi-kiran.blogspot.com/2013/03/TemplatesRoutingAndSharingDataBetweenViewsInAnAngularJsApplication.html)
+* [Improving End User Experience with AngularJS] (http://blog.thousandeyes.com/improving-end-user-experience-with-angularjs/)
 
 ## Introductions/Beginning AngularJS (also look at the multipart articles)
 * [Getting Started With AngularJS] (http://www.adobe.com/devnet/html5/articles/getting-started-with-angularjs.html)
@@ -138,6 +139,9 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS. Th
 * [Using ngOptions in AngularJS] (http://odetocode.com/blogs/scott/archive/2013/06/19/using-ngoptions-in-angularjs.aspx)
 * [Showing Validation Messages In Bulk While Validating Form Using Angular JS] (http://sravi-kiran.blogspot.com/2013/06/ShowingValidationMessagesInBulkWhileValidatingFormUsingAngularJS.html)
 * [A directive to manage file upload in an AngularJS application] (http://blog.brunoscopelliti.com/a-directive-to-manage-file-upload-in-an-angularjs-application)
+* [Radio Buttons With AngularJS] (http://odetocode.com/blogs/scott/archive/2013/06/25/radio-buttons-with-angularjs.aspx)
+* [Referece the Current FormController in AngularJS] (http://shazwazza.com/post/Reference-the-current-form-controller-in-AngularJS)
+* [Listening for Validation Changes in AngularJS] (http://shazwazza.com/post/Listening-for-validation-changes-in-AngularJS)
 
 ## Collections (& ngRepeat Stuff)
 * [Working With Inherited Collections in AngularJS] (http://www.bennadel.com/blog/2485-Working-With-Inherited-Collections-In-AngularJS.htm)
