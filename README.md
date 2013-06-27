@@ -193,7 +193,7 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS. Th
 * [Facebook Authentication in Your AngularJS App] (http://blog.brunoscopelliti.com/facebook-authentication-in-your-angularjs-web-app)
 * [Automating AngularJS with Yeoman, Grunt & Bower] (http://newtriks.com/2013/06/11/automating-angularjs-with-yeoman-grunt-and-bower/)
 * [Writing Reusable AngularJS Components with Bower] (http://briantford.com/blog/angular-bower.html)
-* [Maps Components with AngularJS] (http://wbyoko.co/angularjs-google-maps-components/)
+* [Making Google Maps Components with AngularJS] (http://wbyoko.co/angularjs/angularjs-google-maps-components.html)
  
 ## Hosted Backends
 * [Parse.com boilerplate for building large, complex AngularJS apps](http://brandid.github.io/parse-angular-demo/#/features)
