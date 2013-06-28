@@ -62,6 +62,8 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS. Th
 * [5 Awesome AngularJS Features](http://net.tutsplus.com/tutorials/javascript-ajax/5-awesome-angularjs-features/)
 * [AngularJS for jQuery Developers] (http://blog.artlogic.com/2013/03/06/angularjs-for-jquery-developers/)
 * [An Introduction to AngularJS] (http://www.webdesignerdepot.com/2013/04/an-introduction-to-angularjs/)
+* [Building a Web App From Scratch in AngularJS] (http://net.tutsplus.com/tutorials/javascript-ajax/building-a-web-app-from-scratch-in-angularjs/)
+* [AngularJS: An Overview] (http://glennstovall.com/blog/2013/06/27/angularjs-an-overview/)
 
 ## Multipart Articles
 * Getting Started with elasticsearch and AngularJS: [Part1 - Searching] (http://www.fullscale.co/blog/2013/02/28/getting_started_with_elasticsearch_and_AngularJS_searching.html), [Part 2: Faceting] (http://www.fullscale.co/blog/2013/03/07/getting_started_with_elasticsearch_and-AngularJS_faceting.html), [Part 3: Visualization] (http://www.fullscale.co/blog/2013/03/20/getting_started_with_elasticsearch_and_AngularJS_d3.html)
