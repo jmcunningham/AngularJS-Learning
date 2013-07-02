@@ -54,6 +54,7 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS. Th
 * [AngularJS and SEO] (http://www.yearofmoo.com/2012/11/angularjs-and-seo.html)
 * [Templates, Routing and Sharing Data Between Views in an Angular JS Application] (http://sravi-kiran.blogspot.com/2013/03/TemplatesRoutingAndSharingDataBetweenViewsInAnAngularJsApplication.html)
 * [Improving End User Experience with AngularJS] (http://blog.thousandeyes.com/improving-end-user-experience-with-angularjs/)
+* [AngularJS Controller Tutorial With Example] (http://viralpatel.net/blogs/angularjs-controller-tutorial/)
 
 ## Introductions/Beginning AngularJS (also look at the multipart articles)
 * [Getting Started With AngularJS] (http://www.adobe.com/devnet/html5/articles/getting-started-with-angularjs.html)
@@ -64,6 +65,8 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS. Th
 * [An Introduction to AngularJS] (http://www.webdesignerdepot.com/2013/04/an-introduction-to-angularjs/)
 * [Building a Web App From Scratch in AngularJS] (http://net.tutsplus.com/tutorials/javascript-ajax/building-a-web-app-from-scratch-in-angularjs/)
 * [AngularJS: An Overview] (http://glennstovall.com/blog/2013/06/27/angularjs-an-overview/)
+* [AngularJS Tutorial — Build an App Using Directives and Data Binding](http://www.sitepoint.com/angularjs-tutorial-build-an-app-using-directives-and-data-binding/)
+* [AngularJS In 30 Minutes] (http://www.revillwebdesign.com/angularjs-tutorial/)
 
 ## Multipart Articles
 * Getting Started with elasticsearch and AngularJS: [Part1 - Searching] (http://www.fullscale.co/blog/2013/02/28/getting_started_with_elasticsearch_and_AngularJS_searching.html), [Part 2: Faceting] (http://www.fullscale.co/blog/2013/03/07/getting_started_with_elasticsearch_and-AngularJS_faceting.html), [Part 3: Visualization] (http://www.fullscale.co/blog/2013/03/20/getting_started_with_elasticsearch_and_AngularJS_d3.html)
@@ -111,6 +114,7 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS. Th
 * [Extending HTML With AngularJS Directives] (http://www.codeproject.com/Articles/607873/Extending-HTML-with-AngularJS-Directives)
 * [Building Nested Recursive Directives in Angular] (http://sporto.github.io/blog/2013/06/24/nested-recursive-directives-in-angular/)
 * [An all-in-one directive-controller with AngularJS] (http://icelab.com.au/articles/an-all-in-one-directive-controller-with-angularjs/)
+* [Levelling Up With AngularJS: Building a Reusable Click to Edit Directive] (http://icelab.com.au/articles/levelling-up-with-angularjs-building-a-reusable-click-to-edit-directive/)
 
 ## Services/Providers
 * [Angular service or factory?] (http://iffycan.blogspot.com/2013/05/angular-service-or-factory.html)
