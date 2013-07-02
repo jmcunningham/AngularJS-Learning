@@ -60,6 +60,12 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS. Th
 * [Sharing Data, State and Models on AngularJS: Alternatives, comparison and my solution] (http://www.blogeek.com.ar/2013/05/01/sharing-data-state-on-angularjs-alternatives-comparison-and-my-solution/)
 * [Authentication in Single Page Applications with Angular.js](http://www.frederiknakstad.com/authentication-in-single-page-applications-with-angular-js/)
 * [AngularJS Best Practices: I’ve Been Doing It Wrong! (3 Part Series)] (http://blog.artlogic.com/2013/05/02/ive-been-doing-it-wrong-part-1-of-3/)
+* [AngularJS: 6 Common Pitfalls Using Scopes]
+(http://thenittygritty.co/angularjs-pitfalls-using-scopes)
+* [AngularJS Abstractions: Modules]
+(http://odetocode.com/blogs/scott/archive/2013/05/01/angularjs-abstractions-modules.aspx)
+* [Using RESTful Controllers In An AngularJS Resource]
+(http://www.bennadel.com/blog/2433-Using-RESTful-Controllers-In-An-AngularJS-Resource.htm)
 
 ## Scopes
 * [AngularJS and scope.$apply] (http://jimhoskins.com/2012/12/17/angularjs-and-apply.html)
