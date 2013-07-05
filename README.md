@@ -26,6 +26,10 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS. Th
 * [AngularJS Fundamentals (Pluralsight)] (http://pluralsight.com/training/Courses/TableOfContents/angularjs-fundamentals) - 6 hours 15 minutes total (paid)
 * [AngularJS 1.2 & Beyond] (http://www.youtube.com/watch?v=W13qDdJDHp8&feature=youtu.be)
 
+## Courses
+
+* [Thinkster.io - A better way to learn AngularJS](http://www.thinkster.io/) - Free course on AngularJS
+
 ## Help
 * [StackOverflow] (http://stackoverflow.com/questions/tagged/angularjs)
 * [AngularJS Mailing List (Google Groups)] (http://groups.google.com/group/angular)
