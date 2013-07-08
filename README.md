@@ -59,6 +59,7 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS. Th
 * [Templates, Routing and Sharing Data Between Views in an Angular JS Application] (http://sravi-kiran.blogspot.com/2013/03/TemplatesRoutingAndSharingDataBetweenViewsInAnAngularJsApplication.html)
 * [Improving End User Experience with AngularJS] (http://blog.thousandeyes.com/improving-end-user-experience-with-angularjs/)
 * [AngularJS Controller Tutorial With Example] (http://viralpatel.net/blogs/angularjs-controller-tutorial/)
+* [AngularJS -- Quick Role-Based Authentication] (http://arthur.gonigberg.com/2013/06/29/angularjs-role-based-auth/)
 
 ## Introductions/Beginning AngularJS (also look at the multipart articles)
 * [Getting Started With AngularJS] (http://www.adobe.com/devnet/html5/articles/getting-started-with-angularjs.html)
