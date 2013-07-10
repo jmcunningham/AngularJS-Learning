@@ -60,6 +60,8 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS. Th
 * [Improving End User Experience with AngularJS] (http://blog.thousandeyes.com/improving-end-user-experience-with-angularjs/)
 * [AngularJS Controller Tutorial With Example] (http://viralpatel.net/blogs/angularjs-controller-tutorial/)
 * [AngularJS -- Quick Role-Based Authentication] (http://arthur.gonigberg.com/2013/06/29/angularjs-role-based-auth/)
+* [HTML5 local storage with Angular JS] (http://amitavroy.com/justread/content/articles/html5-local-storage-angular-js)
+* [Dynamic routes with AngularJS and Silex] (http://gonzalo123.com/2013/07/08/dynamic-routes-with-angularjs-and-silex/)
 
 ## Introductions/Beginning AngularJS (also look at the multipart articles)
 * [Getting Started With AngularJS] (http://www.adobe.com/devnet/html5/articles/getting-started-with-angularjs.html)
@@ -83,6 +85,7 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS. Th
 
 ## Sample Apps
 * [A Shopping Cart Application Built with AngularJS] (http://www.codeproject.com/Articles/576246/A-Shopping-Cart-Application-Built-with-AngularJS)
+* [Build a feed reader with the Google feed API and AngularJS] (http://cacodaemon.de/index.php?id=51)
 
 ## Scopes
 * [AngularJS and scope.$apply] (http://jimhoskins.com/2012/12/17/angularjs-and-apply.html)
@@ -153,6 +156,7 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS. Th
 * [Radio Buttons With AngularJS] (http://odetocode.com/blogs/scott/archive/2013/06/25/radio-buttons-with-angularjs.aspx)
 * [Referece the Current FormController in AngularJS] (http://shazwazza.com/post/Reference-the-current-form-controller-in-AngularJS)
 * [Listening for Validation Changes in AngularJS] (http://shazwazza.com/post/Listening-for-validation-changes-in-AngularJS)
+* [What A Select $watch() Teaches Me About ngModel And AngularJS] (http://www.bennadel.com/blog/2492-What-A-Select-watch-Teaches-Me-About-ngModel-And-AngularJS.htm)
 
 ## Collections (& ngRepeat Stuff)
 * [Working With Inherited Collections in AngularJS] (http://www.bennadel.com/blog/2485-Working-With-Inherited-Collections-In-AngularJS.htm)
@@ -174,6 +178,7 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS. Th
 * [How To Test An AngularJS Directive] (http://newtriks.com/2013/04/26/how-to-test-an-angularjs-directive/)
 * [Unit Testing AngularJS Controllers Using Jasmine] (http://sravi-kiran.blogspot.com/2013/04/UnitTestingAngularJsControllerUsingJasmine.html)
 * [Unit Testing AngularJS Controller Using QUnit and Sinon] (http://sravi-kiran.blogspot.com/2013/06/UnitTestingAngularJsControllerUsingQUnitAndSinon.html)
+* [Testing AngularJS Directives: Handling External Templates] (http://www.portlandwebworks.com/blog/testing-angularjs-directives-handling-external-templates)
 
 ## RESTful Stuff
 * [Using RESTful Controllers In An AngularJS Resource] (http://www.bennadel.com/blog/2433-Using-RESTful-Controllers-In-An-AngularJS-Resource.htm)
