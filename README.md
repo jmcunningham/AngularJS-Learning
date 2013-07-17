@@ -227,3 +227,4 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS. Th
 ## Text editor bundles
 
 * [Sublime text 2 package](https://github.com/angular-ui/AngularJS-sublime-package)
+* [VIM UltiSnip & Snipmate Snippets for AngularJS](https://github.com/matthewsimo/angular-vim-snippets)
