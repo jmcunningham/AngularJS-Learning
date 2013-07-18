@@ -62,6 +62,8 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS. Th
 * [AngularJS -- Quick Role-Based Authentication] (http://arthur.gonigberg.com/2013/06/29/angularjs-role-based-auth/)
 * [HTML5 local storage with Angular JS] (http://amitavroy.com/justread/content/articles/html5-local-storage-angular-js)
 * [Dynamic routes with AngularJS and Silex] (http://gonzalo123.com/2013/07/08/dynamic-routes-with-angularjs-and-silex/)
+* [Things I Wish I Were Told About Angular.js] (http://ruoyusun.com/2013/05/25/things-i-wish-i-were-told-about-angular-js.html)
+* [Modeling Data and State in Your AngularJS Application] (http://joelhooks.com/blog/2013/04/24/modeling-data-and-state-in-your-angularjs-application/)
 
 ## Introductions/Beginning AngularJS (also look at the multipart articles)
 * [Getting Started With AngularJS] (http://www.adobe.com/devnet/html5/articles/getting-started-with-angularjs.html)
