@@ -25,6 +25,7 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS. Th
 * [Easier JavaScript Apps with AngularJS (Tuts+)](https://tutsplus.com/course/easier-js-apps-with-angular/) — 22 videos of about 5 minutes each, in 8 sections (paid)
 * [AngularJS Fundamentals (Pluralsight)] (http://pluralsight.com/training/Courses/TableOfContents/angularjs-fundamentals) - 6 hours 15 minutes total (paid)
 * [AngularJS 1.2 & Beyond] (http://www.youtube.com/watch?v=W13qDdJDHp8&feature=youtu.be)
+* [Example Cases of AngularJS](http://www.youtube.com/playlist?list=PLfLN8Jd9-DVEQ0-PEnVeeUYyO0yg28mhN) - Growing list of 5 minute or less videos
 
 ## Courses
 
