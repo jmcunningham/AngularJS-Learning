@@ -19,6 +19,7 @@ Je liste exclusivement les liens en français. Cette liste vient en complément 
 
 ## Aide
 * [Forum FrAngular] (https://groups.google.com/forum/?fromgroups=#!forum/frangular)
+* [Blog EpokK] (http://epokk.github.io)
 
 ## Général
 * [AngularJS : less code more fun] (http://www.itaware.eu/2012/06/13/angularjs-less-code-more-fun/)
