@@ -63,6 +63,9 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS. Th
 * [Things I Wish I Were Told About Angular.js] (http://ruoyusun.com/2013/05/25/things-i-wish-i-were-told-about-angular-js.html)
 * [Modeling Data and State in Your AngularJS Application] (http://joelhooks.com/blog/2013/04/24/modeling-data-and-state-in-your-angularjs-application/)
 * [Code Reuse in AngularJS] (http://www.phase2technology.com/blog/code-reuse-in-angularjs/)
+* [Dynamically Loading Controllers and Views with AngularJS and RequireJS] (http://weblogs.asp.net/dwahlin/archive/2013/05/22/dynamically-loading-controllers-and-views-with-angularjs-and-requirejs.aspx)
+* [Sorting by Multiple Fields with Different Sort Orders Using the AngularJS orderby Filter] (http://htmlcssjavascript.com/javascript/sorting-by-multiple-fields-with-different-sort-orders-using-the-angularjs-orderby-filter/)
+* [$http Response Interceptors] (http://blog.brunoscopelliti.com/http-response-interceptors)
 
 ## Introductions/Beginning AngularJS (also look at the multipart articles)
 * [Getting Started With AngularJS] (http://www.adobe.com/devnet/html5/articles/getting-started-with-angularjs.html)
@@ -83,6 +86,7 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS. Th
 * Implementing SignalR Stock Ticker using Angular JS: [Part 1](http://sravi-kiran.blogspot.in/2013/05/ImplementingSignalRStockTickerUsingAngularJSPart1.html), [Part 2](http://sravi-kiran.blogspot.in/2013/05/ImplementingSignalRStockTickerUsingAngularJSPart2.html)
 * AngularJS Best Practices: I’ve Been Doing It Wrong!: [Part 1] (http://blog.artlogic.com/2013/05/02/ive-been-doing-it-wrong-part-1-of-3/), [Part 2](http://blog.artlogic.com/2013/05/06/angularjs-best-practices-ive-been-doing-it-wrong-part-2-of-3/), [Part 3](http://blog.artlogic.com/2013/05/08/angularjs-best-practices-ive-been-doing-it-wrong-part-3-of-3/)
 * Introduction to AngularJS [Part 1](http://www.raweng.com/blog/2013/01/30/introduction-to-angularjs-part-1/), [Part 2](http://www.raweng.com/blog/2013/05/16/introduction-to-angularjs-part-2/)
+* AngularJS In Depth: [Part 1](http://suhairhassan.com/2013/06/07/angularjs-in-depth-part-1.html), [Part 2: Filters](http://suhairhassan.com/2013/07/25/angularjs-in-depth-part-2.html)
 
 ## Sample Apps
 * [A Shopping Cart Application Built with AngularJS] (http://www.codeproject.com/Articles/576246/A-Shopping-Cart-Application-Built-with-AngularJS)
@@ -99,6 +103,7 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS. Th
 * [Hailing All Frequencies – Communicating in AngularJS with the Pub/Sub Design Pattern] (http://codingsmackdown.tv/blog/2013/04/29/hailing-all-frequencies-communicating-in-angularjs-with-the-pubsub-design-pattern/)
 * [Nested Scopes in AngularJS] (http://jimhoskins.com/2012/12/14/nested-scopes-in-angularjs.html)
 * [AngularJS: 6 Common Pitfalls Using Scopes] (http://thenittygritty.co/angularjs-pitfalls-using-scopes)
+* Scoping AngularJS Directives: [Part 1] (http://spectaclelabs.io/blog/2013/06/22/scoping-angularjs-directives-part-1/), [Part 2](http://spectaclelabs.io/blog/2013/06/23/scoping-angularjs-directives-part-2/)
 
 ## Dependency Injection
 * [The "Magic" behind AngularJS Dependency Injection] (http://www.alexrothenberg.com/2013/02/11/the-magic-behind-angularjs-dependency-injection.html)
@@ -162,6 +167,7 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS. Th
 * [Referece the Current FormController in AngularJS] (http://shazwazza.com/post/Reference-the-current-form-controller-in-AngularJS)
 * [Listening for Validation Changes in AngularJS] (http://shazwazza.com/post/Listening-for-validation-changes-in-AngularJS)
 * [What A Select $watch() Teaches Me About ngModel And AngularJS] (http://www.bennadel.com/blog/2492-What-A-Select-watch-Teaches-Me-About-ngModel-And-AngularJS.htm)
+* [On the Bleeding Edge: Advanced AngularJS Form Validation] (http://code.realcrowd.com/on-the-bleeding-edge-advanced-angularjs-form-validation/)
 
 ## Authentication
 * [Deal with users authentication in an AngularJS web app] (http://blog.brunoscopelliti.com/deal-with-users-authentication-in-an-angularjs-web-app)
@@ -214,6 +220,7 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS. Th
 * [AngularJS Modal Service] (http://fundoo-solutions.github.io/angularjs-modal-service/)
 * [Cross-Fading Images With AngularJS] (http://www.bennadel.com/blog/2497-Cross-Fading-Images-With-AngularJS.htm)
 * [AngularJS and SVG] (http://dailyjs.com/2013/06/07/angular-svg/)
+* [AngularJS: Scroll Animations] (http://jjperezaguinaga.wordpress.com/2013/07/16/angularjs-scroll-animations/)
 
 ## Integration With Other Languages/Frameworks
 * [AngularJS and TypeScript] (http://notebookheavy.com/2013/05/22/angularjs-and-typescript/)
