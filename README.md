@@ -66,6 +66,7 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS. Th
 * [Dynamically Loading Controllers and Views with AngularJS and RequireJS] (http://weblogs.asp.net/dwahlin/archive/2013/05/22/dynamically-loading-controllers-and-views-with-angularjs-and-requirejs.aspx)
 * [Sorting by Multiple Fields with Different Sort Orders Using the AngularJS orderby Filter] (http://htmlcssjavascript.com/javascript/sorting-by-multiple-fields-with-different-sort-orders-using-the-angularjs-orderby-filter/)
 * [$http Response Interceptors] (http://blog.brunoscopelliti.com/http-response-interceptors)
+* [AngularJS: Advanced Design Patterns & Best Practices] (http://trochette.github.io/Angular-Design-Patterns-Best-Practices/#/intro)
 
 ## Introductions/Beginning AngularJS (also look at the multipart articles)
 * [Getting Started With AngularJS] (http://www.adobe.com/devnet/html5/articles/getting-started-with-angularjs.html)
