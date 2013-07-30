@@ -67,6 +67,7 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS. Th
 * [Sorting by Multiple Fields with Different Sort Orders Using the AngularJS orderby Filter] (http://htmlcssjavascript.com/javascript/sorting-by-multiple-fields-with-different-sort-orders-using-the-angularjs-orderby-filter/)
 * [$http Response Interceptors] (http://blog.brunoscopelliti.com/http-response-interceptors)
 * [AngularJS: Advanced Design Patterns & Best Practices] (http://trochette.github.io/Angular-Design-Patterns-Best-Practices/#/intro)
+* [Automatic JSON date parsing with AngularJS] (http://aboutcode.net/2013/07/27/json-date-parsing-angularjs.html)
 
 ## Introductions/Beginning AngularJS (also look at the multipart articles)
 * [Getting Started With AngularJS] (http://www.adobe.com/devnet/html5/articles/getting-started-with-angularjs.html)
@@ -169,6 +170,7 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS. Th
 * [Listening for Validation Changes in AngularJS] (http://shazwazza.com/post/Listening-for-validation-changes-in-AngularJS)
 * [What A Select $watch() Teaches Me About ngModel And AngularJS] (http://www.bennadel.com/blog/2492-What-A-Select-watch-Teaches-Me-About-ngModel-And-AngularJS.htm)
 * [On the Bleeding Edge: Advanced AngularJS Form Validation] (http://code.realcrowd.com/on-the-bleeding-edge-advanced-angularjs-form-validation/)
+* [Twitter Bootstrap control-group directive for AngularJS] (http://aboutcode.net/2013/07/13/twitter-bootstrap-control-group-directive-for-angularjs.html)
 
 ## Authentication
 * [Deal with users authentication in an AngularJS web app] (http://blog.brunoscopelliti.com/deal-with-users-authentication-in-an-angularjs-web-app)
