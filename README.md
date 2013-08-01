@@ -37,6 +37,7 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS. Th
 * [AngularJS Mailing List (Google Groups)] (http://groups.google.com/group/angular)
 * [Chatroom (Browser-based IRC)] (http://webchat.freenode.net/?channels=angularjs&uio=d4)
 * [AngularJS Google+ Community] (https://plus.google.com/u/0/communities/115368820700870330756)
+* [reddit] (http://www.reddit.com/r/angularjs)
 
 ## General Topics
 * [AngularJS Cheat Sheet] (http://www.cheatography.com/proloser/cheat-sheets/angularjs/)
