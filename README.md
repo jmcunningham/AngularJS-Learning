@@ -69,6 +69,8 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS. Th
 * [$http Response Interceptors] (http://blog.brunoscopelliti.com/http-response-interceptors)
 * [AngularJS: Advanced Design Patterns & Best Practices] (http://trochette.github.io/Angular-Design-Patterns-Best-Practices/#/intro)
 * [Automatic JSON date parsing with AngularJS] (http://aboutcode.net/2013/07/27/json-date-parsing-angularjs.html)
+* [AngularJS: 6 Common Pitfalls Using Scopes] (http://thenittygritty.co/angularjs-pitfalls-using-scopes)
+* [AngularJS Abstractions: Modules] (http://odetocode.com/blogs/scott/archive/2013/05/01/angularjs-abstractions-modules.aspx)
 
 ## Introductions/Beginning AngularJS (also look at the multipart articles)
 * [Getting Started With AngularJS] (http://www.adobe.com/devnet/html5/articles/getting-started-with-angularjs.html)
@@ -141,6 +143,7 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS. Th
 * [Angular service or factory?] (http://iffycan.blogspot.com/2013/05/angular-service-or-factory.html)
 * [How to create (singleton) AngularJS services in 4 different ways] (http://blog.jdriven.com/2013/03/how-to-create-singleton-angularjs-services-in-4-different-ways/)
 * [Moving AJAX calls to a custom service in Angular JS] (http://sravi-kiran.blogspot.com/2013/03/MovingAjaxCallsToACustomServiceInAngularJS.html)
+* [Consuming Services] (http://angular-tips.com/blog/2013/08/consuming-services/)
 
 ## Routing
 * [How to defer route definition in an AngularJS web app] (http://blog.brunoscopelliti.com/how-to-defer-route-definition-in-an-angularjs-web-app)
