@@ -97,6 +97,7 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS. Th
 ## Services/Providers 
 * [Angular service or factory?] (http://iffycan.blogspot.com/2013/05/angular-service-or-factory.html)
 * [How to create (singleton) AngularJS services in 4 different ways] (http://blog.jdriven.com/2013/03/how-to-create-singleton-angularjs-services-in-4-different-ways/)
+* [Consuming Services] (http://angular-tips.com/blog/2013/08/consuming-services/)
 
 ## Routing
 * [How to defer route definition in an AngularJS web app] (http://blog.brunoscopelliti.com/how-to-defer-route-definition-in-an-angularjs-web-app)
