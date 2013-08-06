@@ -71,6 +71,7 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS. Th
 * [Automatic JSON date parsing with AngularJS] (http://aboutcode.net/2013/07/27/json-date-parsing-angularjs.html)
 * [AngularJS: 6 Common Pitfalls Using Scopes] (http://thenittygritty.co/angularjs-pitfalls-using-scopes)
 * [AngularJS Abstractions: Modules] (http://odetocode.com/blogs/scott/archive/2013/05/01/angularjs-abstractions-modules.aspx)
+* [Some AngularJS Pitfalls] (http://branchandbound.net/blog/web/2013/08/some-angularjs-pitfalls/)
 
 ## Introductions/Beginning AngularJS (also look at the multipart articles)
 * [Getting Started With AngularJS] (http://www.adobe.com/devnet/html5/articles/getting-started-with-angularjs.html)
@@ -150,6 +151,7 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS. Th
 * [AngularJS State Management with ui-router] (http://txt.fliglio.com/2013/05/angularjs-state-management-with-ui-router/)
 * [Nested Views, Routing, And Deep Linking With AngularJS] (http://www.bennadel.com/blog/2441-Nested-Views-Routing-And-Deep-Linking-With-AngularJS.htm)
 * [Angular UI router](http://angular-ui.github.io/ui-router/sample/#/)
+* [The basics of using ui-router with AngularJS] (http://joelhooks.com/blog/2013/07/22/the-basics-of-using-ui-router-with-angularjs/)
 
 ## Promises/Deferred
 * [Enhancing Angular Promises: Returning new promise of field or method called from original promise’s result] (http://www.blogeek.com.ar/2013/05/02/enhancing-angular-promises-returning-new-promise-of-field-or-method-called-from-original-promises-result/)
@@ -175,6 +177,7 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS. Th
 * [What A Select $watch() Teaches Me About ngModel And AngularJS] (http://www.bennadel.com/blog/2492-What-A-Select-watch-Teaches-Me-About-ngModel-And-AngularJS.htm)
 * [On the Bleeding Edge: Advanced AngularJS Form Validation] (http://code.realcrowd.com/on-the-bleeding-edge-advanced-angularjs-form-validation/)
 * [Twitter Bootstrap control-group directive for AngularJS] (http://aboutcode.net/2013/07/13/twitter-bootstrap-control-group-directive-for-angularjs.html)
+* [Preventing Duplicate Requests in AngularJS] (http://blog.codebrag.com/post/57412530001/preventing-duplicated-requests-in-angularjs)
 
 ## Authentication
 * [Deal with users authentication in an AngularJS web app] (http://blog.brunoscopelliti.com/deal-with-users-authentication-in-an-angularjs-web-app)
@@ -228,6 +231,7 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS. Th
 * [Cross-Fading Images With AngularJS] (http://www.bennadel.com/blog/2497-Cross-Fading-Images-With-AngularJS.htm)
 * [AngularJS and SVG] (http://dailyjs.com/2013/06/07/angular-svg/)
 * [AngularJS: Scroll Animations] (http://jjperezaguinaga.wordpress.com/2013/07/16/angularjs-scroll-animations/)
+* [Animating with AngularJS] (http://flippinawesome.org/2013/08/05/animating-with-angularjs/)
 
 ## Integration With Other Languages/Frameworks
 * [AngularJS and TypeScript] (http://notebookheavy.com/2013/05/22/angularjs-and-typescript/)
