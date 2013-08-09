@@ -110,6 +110,8 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS. Th
 * [Nested Scopes in AngularJS] (http://jimhoskins.com/2012/12/14/nested-scopes-in-angularjs.html)
 * [AngularJS: 6 Common Pitfalls Using Scopes] (http://thenittygritty.co/angularjs-pitfalls-using-scopes)
 * Scoping AngularJS Directives: [Part 1] (http://spectaclelabs.io/blog/2013/06/22/scoping-angularjs-directives-part-1/), [Part 2](http://spectaclelabs.io/blog/2013/06/23/scoping-angularjs-directives-part-2/)
+* [$watch How the $apply Runs a $digest] (http://angular-tips.com/blog/2013/08/watch-how-the-apply-runs-a-digest/)
+* [AngularJS: $watch, $digest and $apply] (http://www.benlesh.com/2013/08/angularjs-watch-digest-and-apply-oh-my.html)
 
 ## Dependency Injection
 * [The "Magic" behind AngularJS Dependency Injection] (http://www.alexrothenberg.com/2013/02/11/the-magic-behind-angularjs-dependency-injection.html)
