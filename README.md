@@ -43,7 +43,6 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS. Th
 * [AngularJS Cheat Sheet] (http://www.cheatography.com/proloser/cheat-sheets/angularjs/)
 * [Fun With AngularJS] (http://devgirl.org/2013/03/21/fun-with-angularjs/)
 * [AngularJS Philly ETE Slides] (http://onehungrymind.com/angularjs-philly-ete-slides/)
-* [Lessons Learned: A Year with a Large AngularJS Project] (http://joelhooks.com/blog/2013/05/22/lessons-learned-kicking-off-an-angularjs-project/)
 * [Random Tricks When Using AngularJS] (http://blog.tomaka17.com/2012/12/random-tricks-when-using-angularjs/)
 * [What stumped me about AngularJS] (http://www.peterbe.com/plog/what-stumped-me-about-angularjs)
 * [5 reasons to use AngularJS in the corporate app world] (http://oscarvillarreal.com/2013/05/07/5-reasons-to-use-angularjs-in-the-corporate-app-world/)
@@ -61,7 +60,6 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS. Th
 * [AngularJS Controller Tutorial With Example] (http://viralpatel.net/blogs/angularjs-controller-tutorial/)
 * [HTML5 local storage with Angular JS] (http://amitavroy.com/justread/content/articles/html5-local-storage-angular-js)
 * [Dynamic routes with AngularJS and Silex] (http://gonzalo123.com/2013/07/08/dynamic-routes-with-angularjs-and-silex/)
-* [Things I Wish I Were Told About Angular.js] (http://ruoyusun.com/2013/05/25/things-i-wish-i-were-told-about-angular-js.html)
 * [Modeling Data and State in Your AngularJS Application] (http://joelhooks.com/blog/2013/04/24/modeling-data-and-state-in-your-angularjs-application/)
 * [Code Reuse in AngularJS] (http://www.phase2technology.com/blog/code-reuse-in-angularjs/)
 * [Dynamically Loading Controllers and Views with AngularJS and RequireJS] (http://weblogs.asp.net/dwahlin/archive/2013/05/22/dynamically-loading-controllers-and-views-with-angularjs-and-requirejs.aspx)
@@ -69,9 +67,8 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS. Th
 * [$http Response Interceptors] (http://blog.brunoscopelliti.com/http-response-interceptors)
 * [AngularJS: Advanced Design Patterns & Best Practices] (http://trochette.github.io/Angular-Design-Patterns-Best-Practices/#/intro)
 * [Automatic JSON date parsing with AngularJS] (http://aboutcode.net/2013/07/27/json-date-parsing-angularjs.html)
-* [AngularJS: 6 Common Pitfalls Using Scopes] (http://thenittygritty.co/angularjs-pitfalls-using-scopes)
 * [AngularJS Abstractions: Modules] (http://odetocode.com/blogs/scott/archive/2013/05/01/angularjs-abstractions-modules.aspx)
-* [Some AngularJS Pitfalls] (http://branchandbound.net/blog/web/2013/08/some-angularjs-pitfalls/)
+* [Mixing Static Content With ngSwitch And ngSwitchWhen In AngularJS] (http://www.bennadel.com/blog/2507-Mixing-Static-Content-With-ngSwitch-And-ngSwitchWhen-In-AngularJS.htm)
 
 ## Introductions/Beginning AngularJS (also look at the multipart articles)
 * [Getting Started With AngularJS] (http://www.adobe.com/devnet/html5/articles/getting-started-with-angularjs.html)
@@ -84,6 +81,12 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS. Th
 * [AngularJS: An Overview] (http://glennstovall.com/blog/2013/06/27/angularjs-an-overview/)
 * [AngularJS Tutorial — Build an App Using Directives and Data Binding](http://www.sitepoint.com/angularjs-tutorial-build-an-app-using-directives-and-data-binding/)
 * [AngularJS In 30 Minutes] (http://www.revillwebdesign.com/angularjs-tutorial/)
+
+## Lessons Learned
+* [Lessons Learned: A Year with a Large AngularJS Project] (http://joelhooks.com/blog/2013/05/22/lessons-learned-kicking-off-an-angularjs-project/)
+* [Some AngularJS Pitfalls] (http://branchandbound.net/blog/web/2013/08/some-angularjs-pitfalls/)
+* [Things I Wish I Were Told About Angular.js] (http://ruoyusun.com/2013/05/25/things-i-wish-i-were-told-about-angular-js.html)
+* [I Wish I Knew Then What I Know Now — Life With AngularJS] (http://www.objectpartners.com/2013/08/09/i-wish-i-knew-then-what-i-know-now-life-with-angularjs/)
 
 ## Multipart Articles
 * Getting Started with elasticsearch and AngularJS: [Part1 - Searching] (http://www.fullscale.co/blog/2013/02/28/getting_started_with_elasticsearch_and_AngularJS_searching.html), [Part 2: Faceting] (http://www.fullscale.co/blog/2013/03/07/getting_started_with_elasticsearch_and-AngularJS_faceting.html), [Part 3: Visualization] (http://www.fullscale.co/blog/2013/03/20/getting_started_with_elasticsearch_and_AngularJS_d3.html)
@@ -180,6 +183,7 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS. Th
 * [On the Bleeding Edge: Advanced AngularJS Form Validation] (http://code.realcrowd.com/on-the-bleeding-edge-advanced-angularjs-form-validation/)
 * [Twitter Bootstrap control-group directive for AngularJS] (http://aboutcode.net/2013/07/13/twitter-bootstrap-control-group-directive-for-angularjs.html)
 * [Preventing Duplicate Requests in AngularJS] (http://blog.codebrag.com/post/57412530001/preventing-duplicated-requests-in-angularjs)
+* [AngularJS Missing Directives: Native Form Resets] (http://blog.jasoncust.com/2013/08/angularjs-missing-directives-native.html)
 
 ## Authentication
 * [Deal with users authentication in an AngularJS web app] (http://blog.brunoscopelliti.com/deal-with-users-authentication-in-an-angularjs-web-app)
