@@ -69,6 +69,7 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS. Th
 * [Automatic JSON date parsing with AngularJS] (http://aboutcode.net/2013/07/27/json-date-parsing-angularjs.html)
 * [AngularJS Abstractions: Modules] (http://odetocode.com/blogs/scott/archive/2013/05/01/angularjs-abstractions-modules.aspx)
 * [Mixing Static Content With ngSwitch And ngSwitchWhen In AngularJS] (http://www.bennadel.com/blog/2507-Mixing-Static-Content-With-ngSwitch-And-ngSwitchWhen-In-AngularJS.htm)
+* [Building large apps with AngularJS] (http://pseudobry.com/building-large-apps-with-angularjs.html)
 
 ## Introductions/Beginning AngularJS (also look at the multipart articles)
 * [Getting Started With AngularJS] (http://www.adobe.com/devnet/html5/articles/getting-started-with-angularjs.html)
@@ -115,6 +116,7 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS. Th
 * Scoping AngularJS Directives: [Part 1] (http://spectaclelabs.io/blog/2013/06/22/scoping-angularjs-directives-part-1/), [Part 2](http://spectaclelabs.io/blog/2013/06/23/scoping-angularjs-directives-part-2/)
 * [$watch How the $apply Runs a $digest] (http://angular-tips.com/blog/2013/08/watch-how-the-apply-runs-a-digest/)
 * [AngularJS: $watch, $digest and $apply] (http://www.benlesh.com/2013/08/angularjs-watch-digest-and-apply-oh-my.html)
+* [Removing the Unneeded Watches] (http://angular-tips.com/blog/2013/08/removing-the-unneeded-watches/)
 
 ## Dependency Injection
 * [The "Magic" behind AngularJS Dependency Injection] (http://www.alexrothenberg.com/2013/02/11/the-magic-behind-angularjs-dependency-injection.html)
@@ -150,6 +152,7 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS. Th
 * [How to create (singleton) AngularJS services in 4 different ways] (http://blog.jdriven.com/2013/03/how-to-create-singleton-angularjs-services-in-4-different-ways/)
 * [Moving AJAX calls to a custom service in Angular JS] (http://sravi-kiran.blogspot.com/2013/03/MovingAjaxCallsToACustomServiceInAngularJS.html)
 * [Consuming Services] (http://angular-tips.com/blog/2013/08/consuming-services/)
+* [Understanding Service Types] (http://angular-tips.com/blog/2013/08/understanding-service-types/)
 
 ## Routing
 * [How to defer route definition in an AngularJS web app] (http://blog.brunoscopelliti.com/how-to-defer-route-definition-in-an-angularjs-web-app)
