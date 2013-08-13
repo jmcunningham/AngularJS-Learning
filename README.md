@@ -153,6 +153,7 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS. Th
 * [Moving AJAX calls to a custom service in Angular JS] (http://sravi-kiran.blogspot.com/2013/03/MovingAjaxCallsToACustomServiceInAngularJS.html)
 * [Consuming Services] (http://angular-tips.com/blog/2013/08/consuming-services/)
 * [Understanding Service Types] (http://angular-tips.com/blog/2013/08/understanding-service-types/)
+* [Understanding angular $http interceptors] (http://djds4rce.wordpress.com/2013/08/13/understanding-angular-http-interceptors/)
 
 ## Routing
 * [How to defer route definition in an AngularJS web app] (http://blog.brunoscopelliti.com/how-to-defer-route-definition-in-an-angularjs-web-app)
