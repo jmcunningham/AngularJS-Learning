@@ -42,6 +42,7 @@ Je liste exclusivement les liens en français. Cette liste vient en complément 
 
 ## Directives
 * [AngularJS : directives et composants] (http://www.itaware.eu/2012/06/25/angularjs-directives-et-composants/)
+* [Gist EpokK] (https://gist.github.com/EpokK)
 
 ## Services/Providers
 * [AngularJS : modules et services] (http://www.itaware.eu/2012/06/27/angularjs-modules-et-services/)
