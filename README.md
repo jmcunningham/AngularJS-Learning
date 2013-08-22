@@ -108,6 +108,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2. I will also lis
 * AngularJS Best Practices: I’ve Been Doing It Wrong!: [Part 1] (http://blog.artlogic.com/2013/05/02/ive-been-doing-it-wrong-part-1-of-3/), [Part 2](http://blog.artlogic.com/2013/05/06/angularjs-best-practices-ive-been-doing-it-wrong-part-2-of-3/), [Part 3](http://blog.artlogic.com/2013/05/08/angularjs-best-practices-ive-been-doing-it-wrong-part-3-of-3/)
 * Introduction to AngularJS [Part 1](http://www.raweng.com/blog/2013/01/30/introduction-to-angularjs-part-1/), [Part 2](http://www.raweng.com/blog/2013/05/16/introduction-to-angularjs-part-2/)
 * AngularJS In Depth: [Part 1](http://suhairhassan.com/2013/06/07/angularjs-in-depth-part-1.html), [Part 2: Filters](http://suhairhassan.com/2013/07/25/angularjs-in-depth-part-2.html)
+* [The 7 steps to becoming and AngularJS expert](http://www.ng-newsletter.com/posts/beginner2expert-how_to_start.html), [Part 2: Scopes](http://www.ng-newsletter.com/posts/beginner2expert-scopes.html), [Part 3: Data-binding](http://www.ng-newsletter.com/posts/beginner2expert-data-binding.html), [Part 4 and 5: Expressions and directives](http://www.ng-newsletter.com/posts/beginner2expert-directives.html), [Part 6: Services](http://www.ng-newsletter.com/posts/beginner2expert-services.html)
 
 ## Sample Apps
 * [A Shopping Cart Application Built with AngularJS] (http://www.codeproject.com/Articles/576246/A-Shopping-Cart-Application-Built-with-AngularJS)
@@ -158,6 +159,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2. I will also lis
 * [AngularJS Directive for Mobile Sliders] (http://ngokevin.com/blog/angularslider/)
 * [Using Namespaces For One-Off Directives In AngularJS] (http://www.bennadel.com/blog/2494-Using-Namespaces-For-One-Off-Directives-In-AngularJS.htm)
 * [AngularJS and $compile] (http://www.phase2technology.com/blog/angularjs-and-compile/)
+* [In-depth directives](http://www.ng-newsletter.com/posts/directives.html)
 
 ## Services/Providers
 * [Angular service or factory?] (http://iffycan.blogspot.com/2013/05/angular-service-or-factory.html)
@@ -205,6 +207,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2. I will also lis
 * [Angular JS: Validating Form Elements in a Repeat] (http://www.benlesh.com/2013/03/angular-js-validating-form-elements-in.html)
 * [Angular JS: Custom Validation via Directives] (http://www.benlesh.com/2012/12/angular-js-custom-validation-via.html)
 * [Angular JS: Form Validation] (http://www.benlesh.com/2012/11/angular-js-form-validation.html)
+* [In depth form validation](http://www.ng-newsletter.com/posts/validations.html)
 
 ## Authentication
 * [Deal with users authentication in an AngularJS web app] (http://blog.brunoscopelliti.com/deal-with-users-authentication-in-an-angularjs-web-app)
