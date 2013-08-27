@@ -99,6 +99,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2. I will also lis
 * [Things I Wish I Were Told About Angular.js] (http://ruoyusun.com/2013/05/25/things-i-wish-i-were-told-about-angular-js.html)
 * [I Wish I Knew Then What I Know Now — Life With AngularJS] (http://www.objectpartners.com/2013/08/09/i-wish-i-knew-then-what-i-know-now-life-with-angularjs/)
 * [How to build a large Angular.js application] (https://gocardless.com/blog/building-a-large-angular-application/)
+* [AngularJS tips and tricks for neophytes and the all-around curious developer.] (http://www.bytesforthought.com/angularjs-tips/)
 
 ## Multipart Articles
 * Getting Started with elasticsearch and AngularJS: [Part1 - Searching] (http://www.fullscale.co/blog/2013/02/28/getting_started_with_elasticsearch_and_AngularJS_searching.html), [Part 2: Faceting] (http://www.fullscale.co/blog/2013/03/07/getting_started_with_elasticsearch_and-AngularJS_faceting.html), [Part 3: Visualization] (http://www.fullscale.co/blog/2013/03/20/getting_started_with_elasticsearch_and_AngularJS_d3.html)
@@ -208,6 +209,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2. I will also lis
 * [Angular JS: Custom Validation via Directives] (http://www.benlesh.com/2012/12/angular-js-custom-validation-via.html)
 * [Angular JS: Form Validation] (http://www.benlesh.com/2012/11/angular-js-form-validation.html)
 * [In depth form validation](http://www.ng-newsletter.com/posts/validations.html)
+* [Ng-model and custom form validation] (http://jeremymarc.github.io/2013/08/20/ng-model-and-custom-form-validation/)
 
 ## Authentication
 * [Deal with users authentication in an AngularJS web app] (http://blog.brunoscopelliti.com/deal-with-users-authentication-in-an-angularjs-web-app)
@@ -247,6 +249,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2. I will also lis
 * [Using RESTful Controllers In An AngularJS Resource] (http://www.bennadel.com/blog/2433-Using-RESTful-Controllers-In-An-AngularJS-Resource.htm)
 * [Restangular: New AngularJS framework to handle Rest API Restful Resources properly and easily] (http://www.blogeek.com.ar/2013/04/09/restangular-new-angular-framework-to-handle-restful-resources-properly-and-easily/)
 * [New features on Restangular: the ultimate Rest API client for Angular] (http://www.blogeek.com.ar/2013/04/26/new-features-on-restangular-the-ultimate-rest-api-client-for-angularjs/)
+* [Using an AngularJS Factory to Interact with a RESTful Service] (http://weblogs.asp.net/dwahlin/archive/2013/08/16/using-an-angularjs-factory-to-interact-with-a-restful-service.aspx)
 
 ## Localization
 * [Localizing Your AngularJS Apps] (http://codingsmackdown.tv/blog/2013/04/23/localizing-your-angularjs-apps-update/)
@@ -270,6 +273,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2. I will also lis
 * [Drag and Drop File Upload with AngularJS] (http://buildinternet.com/2013/08/drag-and-drop-file-upload-with-angularjs/)
 * [**Remastered Animation in AngularJS 1.2] (http://www.yearofmoo.com/2013/08/remastered-animation-in-angularjs-1-2.html)
 * [Angular JS - Scrolling To An Element By Id] (http://www.benlesh.com/2013/02/angular-js-scrolling-to-element-by-id.html)
+* [Building an AngularJS Dialog Service] (http://weblogs.asp.net/dwahlin/archive/2013/08/19/building-an-angularjs-dialog-service.aspx)
 
 ## Integration With Other Languages/Frameworks
 * [AngularJS and TypeScript] (http://notebookheavy.com/2013/05/22/angularjs-and-typescript/)
