@@ -19,3 +19,4 @@ Ein deutsches Buch zu diesem Thema entsteht zur Zeit bei dem [dpunkt.verlag](htt
 * [Testen deiner AngularJS Anwendung mit Jasmine](http://angularjs.de/artikel/angularjs-test)
 * [ng-repeat: Der Teufel im Schafspelz](http://angularjs.de/artikel/angularjs-ng-repeat)
 * [I18n in AngularJS Anwendungen einfach gemacht](http://angularjs.de/artikel/angularjs-i18n-ng-translate)
+* [angular-translate - i18n für Angular Apps](http://www.neoskop.de/blog/angular-translate)
