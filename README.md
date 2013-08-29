@@ -11,6 +11,8 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2. I will also lis
 * [**AngularJS Routing Changes] (http://weblogs.asp.net/dwahlin/archive/2013/08/14/angularjs-routing-changes.aspx)
 * [**AngularJS Missing Directives: Focus & Blur] (http://blog.jasoncust.com/2013/08/angularjs-missing-directives-focus-blur_14.html)
 * [**Remastered Animation in AngularJS 1.2] (http://www.yearofmoo.com/2013/08/remastered-animation-in-angularjs-1-2.html)
+* [**Preparing for Animations in Angular 1.2.0] (http://www.johnpapa.net/preparing-for-animations-in-angular-1-2-0/)
+* [**5 Cool New Features in AngularJS 1.2] (http://www.neevtech.com/blog/2013/08/17/5-cool-features-in-angularjs-1-2/)
 
 ## Books
 * [AngularJS] (http://shop.oreilly.com/product/0636920028055.do)
@@ -80,6 +82,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2. I will also lis
 * [Mixing Static Content With ngSwitch And ngSwitchWhen In AngularJS] (http://www.bennadel.com/blog/2507-Mixing-Static-Content-With-ngSwitch-And-ngSwitchWhen-In-AngularJS.htm)
 * [Building large apps with AngularJS] (http://pseudobry.com/building-large-apps-with-angularjs.html)
 * [**Error Message Minification with MinErr] (http://kensheedlo.com/2013/08/15/error-message-minification-with-minerr.html)
+* [How to make your AngularJS app work in IE 8] (http://blog-it.hypoport.de/2013/08/24/how-to-make-your-angularjs-app-work-in-ie-8/)
 
 ## Introductions/Beginning AngularJS (also look at the multipart articles)
 * [Getting Started With AngularJS] (http://www.adobe.com/devnet/html5/articles/getting-started-with-angularjs.html)
@@ -92,6 +95,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2. I will also lis
 * [AngularJS: An Overview] (http://glennstovall.com/blog/2013/06/27/angularjs-an-overview/)
 * [AngularJS Tutorial — Build an App Using Directives and Data Binding](http://www.sitepoint.com/angularjs-tutorial-build-an-app-using-directives-and-data-binding/)
 * [AngularJS In 30 Minutes] (http://www.revillwebdesign.com/angularjs-tutorial/)
+* [Kickstart Your AngularJS Development with Yeoman, Grunt and Bower] (http://www.sitepoint.com/kickstart-your-angularjs-development-with-yeoman-grunt-and-bower/)
 
 ## Lessons Learned
 * [Lessons Learned: A Year with a Large AngularJS Project] (http://joelhooks.com/blog/2013/05/22/lessons-learned-kicking-off-an-angularjs-project/)
@@ -131,11 +135,13 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2. I will also lis
 * [AngularJS: $watch, $digest and $apply] (http://www.benlesh.com/2013/08/angularjs-watch-digest-and-apply-oh-my.html)
 * [Removing the Unneeded Watches] (http://angular-tips.com/blog/2013/08/removing-the-unneeded-watches/)
 * [Angular - $compile: How it works, How to use it.] (http://www.benlesh.com/2013/08/angular-compile-how-it-works-how-to-use.html)
+* [A Glimpse of Angular.js $scope via Example] (http://ruoyusun.com/2013/08/24/a-glimpse-of-angularjs-scope-via-example.html)
 
 ## Dependency Injection
 * [The "Magic" behind AngularJS Dependency Injection] (http://www.alexrothenberg.com/2013/02/11/the-magic-behind-angularjs-dependency-injection.html)
 * [AngularJS: More on Dependency Injection] (http://dailyjs.com/2013/05/23/angularjs-injection/)
 * [Angularjs Dependency Injection](http://diegobarahona.com/javascript/angularjs/2013/06/13/angularjs-dependency-injection/)
+* [Configuring Dependency Injection in AngularJS] (http://joelhooks.com/blog/2013/08/18/configuring-dependency-injection-in-angularjs/)
 
 ## Directives
 * [AngularJS directives and the computer science of JavaScript] (http://www.adobe.com/devnet/html5/articles/angularjs-directives-and-the-computer-science-of-javascript.html)
@@ -161,6 +167,8 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2. I will also lis
 * [Using Namespaces For One-Off Directives In AngularJS] (http://www.bennadel.com/blog/2494-Using-Namespaces-For-One-Off-Directives-In-AngularJS.htm)
 * [AngularJS and $compile] (http://www.phase2technology.com/blog/angularjs-and-compile/)
 * [In-depth directives](http://www.ng-newsletter.com/posts/directives.html)
+* [AngularJS: Referencing the parent scope in a directive] (http://www.grobmeier.de/angularjs-referencing-parent-scope-directive-23082013.html)
+* [Tip: Directives With the Same Name] (http://angular-tips.com/blog/2013/08/tip-directives-with-the-same-name/)
 
 ## Services/Providers
 * [Angular service or factory?] (http://iffycan.blogspot.com/2013/05/angular-service-or-factory.html)
@@ -274,6 +282,8 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2. I will also lis
 * [**Remastered Animation in AngularJS 1.2] (http://www.yearofmoo.com/2013/08/remastered-animation-in-angularjs-1-2.html)
 * [Angular JS - Scrolling To An Element By Id] (http://www.benlesh.com/2013/02/angular-js-scrolling-to-element-by-id.html)
 * [Building an AngularJS Dialog Service] (http://weblogs.asp.net/dwahlin/archive/2013/08/19/building-an-angularjs-dialog-service.aspx)
+* [**Preparing for Animations in Angular 1.2.0] (http://www.johnpapa.net/preparing-for-animations-in-angular-1-2-0/)
+
 
 ## Integration With Other Languages/Frameworks
 * [AngularJS and TypeScript] (http://notebookheavy.com/2013/05/22/angularjs-and-typescript/)
