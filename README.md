@@ -22,6 +22,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2. I will also lis
 * [AngularJS For .Net Developers] (http://henriquat.re/)
 * [Web Application Development With AngularJS] (http://www.packtpub.com/angularjs-web-application-development/book)
 * [Developing An AngularJS Edge] (http://bleedingedgepress.com/our-books/developing-an-angularjs-edge/)
+* [AngularJS Directives] (http://www.packtpub.com/angularjs-directives/book)
 
 ## Videos
 * [Egghead.io](http://www.egghead.io/) — 44 videos of about 4 minutes each — [source code](https://github.com/msfrisbie/egghead-angularjs)
