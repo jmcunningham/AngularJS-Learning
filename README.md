@@ -13,6 +13,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2. I will also lis
 * [**Remastered Animation in AngularJS 1.2] (http://www.yearofmoo.com/2013/08/remastered-animation-in-angularjs-1-2.html)
 * [**Preparing for Animations in Angular 1.2.0] (http://www.johnpapa.net/preparing-for-animations-in-angular-1-2-0/)
 * [**5 Cool New Features in AngularJS 1.2] (http://www.neevtech.com/blog/2013/08/17/5-cool-features-in-angularjs-1-2/)
+* [**Replacing jQuery.slideDown() with ngAnimate in AngularJS 1.2.0] (https://www.exratione.com/2013/09/replacing-jqueryslidedown-with-nganimate-in-angularjs-120/)
 
 ## Books
 * [AngularJS] (http://shop.oreilly.com/product/0636920028055.do)
@@ -84,6 +85,10 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2. I will also lis
 * [Building large apps with AngularJS] (http://pseudobry.com/building-large-apps-with-angularjs.html)
 * [**Error Message Minification with MinErr] (http://kensheedlo.com/2013/08/15/error-message-minification-with-minerr.html)
 * [How to make your AngularJS app work in IE 8] (http://blog-it.hypoport.de/2013/08/24/how-to-make-your-angularjs-app-work-in-ie-8/)
+* [AngularJS Performance Tuning for Long Lists] (http://tech.small-improvements.com/2013/09/10/angularjs-performance-with-large-lists/)
+* [Responsive Website Using AngularJS] (http://www.innerhtml.com/responsive-website-using-angularjs.html)
+* [Minimizing initialization time in AngularJS] (https://medium.com/p/f8ae57e2cec3)
+* [Kickstart Your AngularJS Development with Yeoman, Grunt and Bower] (http://www.sitepoint.com/kickstart-your-angularjs-development-with-yeoman-grunt-and-bower/)
 
 ## Introductions/Beginning AngularJS (also look at the multipart articles)
 * [Getting Started With AngularJS] (http://www.adobe.com/devnet/html5/articles/getting-started-with-angularjs.html)
@@ -97,6 +102,8 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2. I will also lis
 * [AngularJS Tutorial — Build an App Using Directives and Data Binding](http://www.sitepoint.com/angularjs-tutorial-build-an-app-using-directives-and-data-binding/)
 * [AngularJS In 30 Minutes] (http://www.revillwebdesign.com/angularjs-tutorial/)
 * [Kickstart Your AngularJS Development with Yeoman, Grunt and Bower] (http://www.sitepoint.com/kickstart-your-angularjs-development-with-yeoman-grunt-and-bower/)
+* [10 Reasons Why You Should Use AngularJS] (http://www.sitepoint.com/10-reasons-use-angularjs/)
+* [Filtering with AngularJS] (http://www.kidsil.net/2013/09/filtering-with-angularjs/)
 
 ## Lessons Learned
 * [Lessons Learned: A Year with a Large AngularJS Project] (http://joelhooks.com/blog/2013/05/22/lessons-learned-kicking-off-an-angularjs-project/)
@@ -143,6 +150,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2. I will also lis
 * [AngularJS: More on Dependency Injection] (http://dailyjs.com/2013/05/23/angularjs-injection/)
 * [Angularjs Dependency Injection](http://diegobarahona.com/javascript/angularjs/2013/06/13/angularjs-dependency-injection/)
 * [Configuring Dependency Injection in AngularJS] (http://joelhooks.com/blog/2013/08/18/configuring-dependency-injection-in-angularjs/)
+* [Defining Instantiatable Classes In The AngularJS Dependency Injection Framework] (http://www.bennadel.com/blog/2527-Defining-Instantiatable-Classes-In-The-AngularJS-Dependency-Injection-Framework.htm)
 
 ## Directives
 * [AngularJS directives and the computer science of JavaScript] (http://www.adobe.com/devnet/html5/articles/angularjs-directives-and-the-computer-science-of-javascript.html)
@@ -170,6 +178,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2. I will also lis
 * [In-depth directives](http://www.ng-newsletter.com/posts/directives.html)
 * [AngularJS: Referencing the parent scope in a directive] (http://www.grobmeier.de/angularjs-referencing-parent-scope-directive-23082013.html)
 * [Tip: Directives With the Same Name] (http://angular-tips.com/blog/2013/08/tip-directives-with-the-same-name/)
+* [Moving Data In An AngularJS Directive] (http://odetocode.com/blogs/scott/archive/2013/09/11/moving-data-in-an-angularjs-directive.aspx)
 
 ## Services/Providers
 * [Angular service or factory?] (http://iffycan.blogspot.com/2013/05/angular-service-or-factory.html)
@@ -178,6 +187,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2. I will also lis
 * [Consuming Services] (http://angular-tips.com/blog/2013/08/consuming-services/)
 * [Understanding Service Types] (http://angular-tips.com/blog/2013/08/understanding-service-types/)
 * [Understanding angular $http interceptors] (http://djds4rce.wordpress.com/2013/08/13/understanding-angular-http-interceptors/)
+* [Differences Between Providers In AngularJS] (http://blog.xebia.com/2013/09/01/differences-between-providers-in-angularjs/)
 
 ## Routing
 * [How to defer route definition in an AngularJS web app] (http://blog.brunoscopelliti.com/how-to-defer-route-definition-in-an-angularjs-web-app)
@@ -192,6 +202,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2. I will also lis
 * [AngularJS promise, or dealing with asynchronous requests in AngularJS] (http://blog.brunoscopelliti.com/angularjs-promise-or-dealing-with-asynchronous-requests-in-angularjs)
 * [Taking Advantage of Futures in AngularJS] (http://imownbey.github.io/skinny_controllers_for_yeezus.html)
 * [Using Promises in AngularJS Views] (http://markdalgleish.com/2013/06/using-promises-in-angularjs-views/)
+* [Using AngularJS Promises] (http://liamkaufman.com/blog/2013/09/09/using-angularjs-promises/)
 
 ## Forms
 * [Form Validation the AngularJS Way] (http://blog.brunoscopelliti.com/form-validation-the-angularjs-way)
@@ -219,6 +230,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2. I will also lis
 * [Angular JS: Form Validation] (http://www.benlesh.com/2012/11/angular-js-form-validation.html)
 * [In depth form validation](http://www.ng-newsletter.com/posts/validations.html)
 * [Ng-model and custom form validation] (http://jeremymarc.github.io/2013/08/20/ng-model-and-custom-form-validation/)
+* [Angular JS Ajax dropdowns, date picker and saving data] (http://www.amitavroy.com/justread/content/articles/angular-js-ajax-dropdowns-date-picker-and-saving-data)
 
 ## Authentication
 * [Deal with users authentication in an AngularJS web app] (http://blog.brunoscopelliti.com/deal-with-users-authentication-in-an-angularjs-web-app)
@@ -253,6 +265,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2. I will also lis
 * [Unit Testing - Directives] (http://www.benlesh.com/2013/06/angular-js-unit-testing-directives.html)
 * [Unit Testing - Services] (http://www.benlesh.com/2013/06/angular-js-unit-testing-services.html)
 * [Unit Testing - Controllers] (http://www.benlesh.com/2013/05/angularjs-unit-testing-controllers.html)
+* [Mocking Server Dependencies in JavaScript and AngularJS] (http://flippinawesome.org/2013/09/09/mocking-server-dependencies-in-javascript-and-angularjs/)
 
 ## RESTful Stuff
 * [Using RESTful Controllers In An AngularJS Resource] (http://www.bennadel.com/blog/2433-Using-RESTful-Controllers-In-An-AngularJS-Resource.htm)
@@ -284,6 +297,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2. I will also lis
 * [Angular JS - Scrolling To An Element By Id] (http://www.benlesh.com/2013/02/angular-js-scrolling-to-element-by-id.html)
 * [Building an AngularJS Dialog Service] (http://weblogs.asp.net/dwahlin/archive/2013/08/19/building-an-angularjs-dialog-service.aspx)
 * [**Preparing for Animations in Angular 1.2.0] (http://www.johnpapa.net/preparing-for-animations-in-angular-1-2-0/)
+* [**Replacing jQuery.slideDown() with ngAnimate in AngularJS 1.2.0] (https://www.exratione.com/2013/09/replacing-jqueryslidedown-with-nganimate-in-angularjs-120/)
 
 
 ## Integration With Other Languages/Frameworks
