@@ -1,7 +1,7 @@
 AngularJS Öğreniyorum
 ==================
 
-A bunch of links to blog posts, articles, videos, etc for learning AngularJS. This list is in its early stages. Feel free to submit a pull request if you have some links/resources to add. Also, I try to verify that the articles below have some real content (i.e. aren't 2 paragraph blog posts with little information) to ensure I'm not listing "fluff" pieces. If you have an idea for a better way to organize these links, please let me know. As I find similar posts in the "General Topics" section, I will break them out into their own categories.
+Bu sayfa AngularJS öğrenmek için bir grup blog yazısı, makale, video vs. içerir, henüz yeterli olgunlukda değil. AngularJS hakkında bulduğunuz bağlantı/kaynakları ekleyip `pull request` gönderebilirsiniz. Aynı zamanda mümkün olduğunca işe yarar içerikleri toplamaya çalıştım. (örneğin bir iki paragraflık küçük blog yazılarını dahil etmedim). Eğer bu linkleri organize edecek daha iyi bir fikriniz varsa lütfen paylaşmaktan çekinmeyin. Bulduğum benzer blog yazılarını "Genel Konular" başlığı altında topladım, zamanla onları da doğru kategorilere yerleştirmeye çalışacağım.
 
 ## Kitaplar
 * [AngularJS] (http://shop.oreilly.com/product/0636920028055.do)
@@ -43,10 +43,10 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS. Th
 * [Büyük Ölçekli AngularJS Projesi İle Bir Yılda Öğrendiklerim] (http://joelhooks.com/blog/2013/05/22/lessons-learned-kicking-off-an-angularjs-project/)
 * [Rastgele AngularJS İpuçları] (http://blog.tomaka17.com/2012/12/random-tricks-when-using-angularjs/)
 * [Deal with users authentication in an AngularJS web app] (http://blog.brunoscopelliti.com/deal-with-users-authentication-in-an-angularjs-web-app)
-* [What stumped me about AngularJS] (http://www.peterbe.com/plog/what-stumped-me-about-angularjs)
-* [5 reasons to use AngularJS in the corporate app world] (http://oscarvillarreal.com/2013/05/07/5-reasons-to-use-angularjs-in-the-corporate-app-world/)
-* [Lazy Loading In AngularJS] (http://ify.io/lazy-loading-in-angularjs/)
-* [More AngularJS Magic to Supercharge your Webapp] (http://www.yearofmoo.com/2012/10/more-angularjs-magic-to-supercharge-your-webapp.html)
+* [AngularJS'de beni ne zorladı] (http://www.peterbe.com/plog/what-stumped-me-about-angularjs)
+* [Kurumsal uygulamalarda AngualJS kullanmak için 5 sebep] (http://oscarvillarreal.com/2013/05/07/5-reasons-to-use-angularjs-in-the-corporate-app-world/)
+* [AngularJS'de "Lazy Loading"] (http://ify.io/lazy-loading-in-angularjs/)
+* [Daha Fazla AngularJS Sihiri ile Daha Güçlü Web Uygulamaları] (http://www.yearofmoo.com/2012/10/more-angularjs-magic-to-supercharge-your-webapp.html)
 * [HashKeyCopier - An AngularJS Utility Class For Merging Cached And Live Data] (http://www.bennadel.com/blog/2472-HashKeyCopier-An-AngularJS-Utility-Class-For-Merging-Cached-And-Live-Data.htm)
 * [Exploring Directives, $scope, DOM Rendering, And Timing In AngularJS] (http://www.bennadel.com/blog/2444-Exploring-Directives-scope-DOM-Rendering-And-Timing-In-AngularJS.htm)
 * [Applying A Cached Response To An AngularJS Resource] (http://www.bennadel.com/blog/2432-Applying-A-Cached-Response-To-An-AngularJS-Resource.htm)
