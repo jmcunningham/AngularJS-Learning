@@ -183,6 +183,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2. I will also lis
 * [AngularJS: Referencing the parent scope in a directive] (http://www.grobmeier.de/angularjs-referencing-parent-scope-directive-23082013.html)
 * [Tip: Directives With the Same Name] (http://angular-tips.com/blog/2013/08/tip-directives-with-the-same-name/)
 * [Moving Data In An AngularJS Directive] (http://odetocode.com/blogs/scott/archive/2013/09/11/moving-data-in-an-angularjs-directive.aspx)
+* [Building a Custom AngularJS Unique Value Directive] (http://weblogs.asp.net/dwahlin/archive/2013/09/24/building-a-custom-angularjs-unique-value-directive.aspx)
 
 ## Services/Providers
 * [Angular service or factory?] (http://iffycan.blogspot.com/2013/05/angular-service-or-factory.html)
@@ -271,6 +272,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2. I will also lis
 * [Unit Testing - Services] (http://www.benlesh.com/2013/06/angular-js-unit-testing-services.html)
 * [Unit Testing - Controllers] (http://www.benlesh.com/2013/05/angularjs-unit-testing-controllers.html)
 * [Mocking Server Dependencies in JavaScript and AngularJS] (http://flippinawesome.org/2013/09/09/mocking-server-dependencies-in-javascript-and-angularjs/)
+* [Advanced Testing and Debugging in AngularJS] (http://www.yearofmoo.com/2013/09/advanced-testing-and-debugging-in-angularjs.html)
 
 ## RESTful Stuff
 * [Using RESTful Controllers In An AngularJS Resource] (http://www.bennadel.com/blog/2433-Using-RESTful-Controllers-In-An-AngularJS-Resource.htm)
