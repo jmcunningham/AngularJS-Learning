@@ -5,7 +5,8 @@ Eine Ansammlung von deutschen Blog Posts, Artikeln, Büchern, Videos, etc. zum T
 AngularJS.
 
 ## Bücher
-Ein deutsches Buch zu diesem Thema entsteht zur Zeit bei dem [dpunkt.verlag](http://dpunkt.de/), geschrieben von [Robin Böhm](https://twitter.com/roobijn) und [Philipp Tarasiewicz](https://twitter.com/justphilmusic)
+* Ein deutsches Buch zu diesem Thema entsteht zur Zeit bei dem [dpunkt.verlag](http://dpunkt.de/), geschrieben von [Robin Böhm](https://twitter.com/roobijn) und [Philipp Tarasiewicz](https://twitter.com/justphilmusic)
+* [AngularJS-Online-Buch](http://angularjs.de/buch)
 
 ## Blogs
 
