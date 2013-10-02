@@ -20,3 +20,4 @@ Los temas se organizarán por categorías (vídeo, libro, ...). Si crees que hay
 * [Directivas y Filtros](http://blog.koalite.com/2013/06/angularjs-directivas-y-filtros/)
 * [Conceptos Básicos](http://blog.koalite.com/2013/05/angularjs-conceptos-basicos/)
 * [Tests Unitarios y de Extremo a Extremo](http://blog.koalite.com/2013/06/angularjs-tests-unitarios-y-de-extremo-a-extremo/)
+* [Flujo de trabajo: Yo, Bower, Grunt](https://github.com/jacarma/ngpro/wiki)
