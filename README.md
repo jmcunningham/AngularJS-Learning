@@ -261,6 +261,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2. I will also lis
 * [AngularJS Modules for Great Justice] (http://codingsmackdown.tv/blog/2013/04/19/angularjs-modules-for-great-justice/)
 * [ngDefine: AngularJS & RequireJS] (https://github.com/Nikku/requirejs-angular-define)
 * [Modular AngularJS App Design] (http://clintberry.com/2013/modular-angularjs-application-design/)
+* [Using RequireJS with AngularJS DI] (http://solutionoptimist.com/2013/09/30/requirejs-angularjs-dependency-injection/)
 
 ## Testing
 * [Full-Spectrum Testing with AngularJS and Testacular] (http://www.yearofmoo.com/2013/01/full-spectrum-testing-with-angularjs-and-testacular.html)
