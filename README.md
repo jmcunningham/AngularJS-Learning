@@ -107,6 +107,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2. I will also lis
 * [Kickstart Your AngularJS Development with Yeoman, Grunt and Bower] (http://www.sitepoint.com/kickstart-your-angularjs-development-with-yeoman-grunt-and-bower/)
 * [10 Reasons Why You Should Use AngularJS] (http://www.sitepoint.com/10-reasons-use-angularjs/)
 * [Filtering with AngularJS] (http://www.kidsil.net/2013/09/filtering-with-angularjs/)
+* [Ultimate guide to learning AngularJS in one day] (http://toddmotto.com/ultimate-guide-to-learning-angular-js-in-one-day/)
 
 ## Lessons Learned
 * [Lessons Learned: A Year with a Large AngularJS Project] (http://joelhooks.com/blog/2013/05/22/lessons-learned-kicking-off-an-angularjs-project/)
