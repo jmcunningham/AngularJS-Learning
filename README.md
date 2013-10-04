@@ -93,6 +93,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2. I will also lis
 * [**Getting Ready for AngularJS 1.2] (http://wildermuth.com/2013/9/18/Getting_Ready_for_AngularJS_1_2)
 * [10 Reasons Web Developers Should Learn AngularJS] (http://wintellect.com/blogs/jlikness/10-reasons-web-developers-should-learn-angularjs)
 * [Lazy prefetching of AngularJS partials] (http://blog.mgechev.com/2013/10/01/angularjs-partials-lazy-prefetching-strategy-weighted-directed-graph/)
+* [Resources to Get You Up to Speed in AngularJS](http://net.tutsplus.com/articles/resources-to-get-you-up-to-speed-in-angularjs/)
 
 ## Introductions/Beginning AngularJS (also look at the multipart articles)
 * [Getting Started With AngularJS] (http://www.adobe.com/devnet/html5/articles/getting-started-with-angularjs.html)
