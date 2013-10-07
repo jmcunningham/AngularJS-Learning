@@ -41,6 +41,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2. I will also lis
 * [**AngularJS 1.2 & Beyond] (http://www.youtube.com/watch?v=W13qDdJDHp8&feature=youtu.be)
 * [Example Cases of AngularJS](http://www.youtube.com/playlist?list=PLfLN8Jd9-DVEQ0-PEnVeeUYyO0yg28mhN) - Growing list of 5 minute or less videos
 * [Realtime Web Apps With AngularJS & Firebase] (http://www.youtube.com/watch?v=C7ZI7z7qnHU)
+* [Getting MEAN With MongoDB and AngularJS](https://www.youtube.com/watch?v=XwSFg8nqBFA)
 
 ## Courses
 
