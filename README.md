@@ -95,6 +95,8 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2. I will also lis
 * [10 Reasons Web Developers Should Learn AngularJS] (http://wintellect.com/blogs/jlikness/10-reasons-web-developers-should-learn-angularjs)
 * [Lazy prefetching of AngularJS partials] (http://blog.mgechev.com/2013/10/01/angularjs-partials-lazy-prefetching-strategy-weighted-directed-graph/)
 * [Resources to Get You Up to Speed in AngularJS](http://net.tutsplus.com/articles/resources-to-get-you-up-to-speed-in-angularjs/)
+* [Enhancing AngularJS $log using Decorators] (http://solutionoptimist.com/2013/10/07/enhance-log-using-angularjs-decorators/)
+* [Logging Client-Side Errors With AngularJS And Stacktrace.js] (http://www.bennadel.com/blog/2542-Logging-Client-Side-Errors-With-AngularJS-And-Stacktrace-js.htm)
 
 ## Introductions/Beginning AngularJS (also look at the multipart articles)
 * [Getting Started With AngularJS] (http://www.adobe.com/devnet/html5/articles/getting-started-with-angularjs.html)
@@ -188,6 +190,8 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2. I will also lis
 * [Tip: Directives With the Same Name] (http://angular-tips.com/blog/2013/08/tip-directives-with-the-same-name/)
 * [Moving Data In An AngularJS Directive] (http://odetocode.com/blogs/scott/archive/2013/09/11/moving-data-in-an-angularjs-directive.aspx)
 * [Building a Custom AngularJS Unique Value Directive] (http://weblogs.asp.net/dwahlin/archive/2013/09/24/building-a-custom-angularjs-unique-value-directive.aspx)
+* [Creating an AngularJS Directive from one of your existing plugins/scripts] (http://toddmotto.com/creating-an-angularjs-directive-from-one-of-your-existing-plugins-scripts/)
+* [Angular.js directives – Difference between controller and link] (http://jasonmore.net/angular-js-directives-difference-controller-link/)
 
 ## Services/Providers
 * [Angular service or factory?] (http://iffycan.blogspot.com/2013/05/angular-service-or-factory.html)
@@ -330,6 +334,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2. I will also lis
 * [CRUD backend for Angular with Backlift] (https://blog.backlift.com/entry/angular-tut1)
 * [Building Offline Applications With AngularJS and PouchDB] (http://mircozeiss.com/building-offline-applications-with-angularjs-and-pouchdb/)
 * [CRUD backend for Angular with DreamFactory] (http://www.dreamfactory.com/angularjs-example)
+* [Three-Way Data Binding with Firebase and Angular] (https://www.firebase.com/blog/2013-10-04-firebase-angular-data-binding.html)
 
 ## Mobile
 * [Quick Start Guide to PhoneGap+AngularJS] (http://devgirl.org/2013/06/10/quick-start-guide-phonegap-and-angularjs/)
@@ -338,7 +343,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2. I will also lis
 * [PhoneGap And AngularJS: Notification Service] (http://tech.pro/tutorial/1349/phonegap-and-angularjs-notification-service)
 * [Developing a mobile app with Phonegap, AngularJS and ExpressJS Part I] (http://abou-kone.com/2013/07/17/developing-a-mobile-app-with-phonegap-angularjs-and-expressjs-part-i/)
 
-## Text editor bundles
-
+## Text editor bundles/IDE Stuff
 * [Sublime text 2 package](https://github.com/angular-ui/AngularJS-sublime-package)
 * [VIM UltiSnip & Snipmate Snippets for AngularJS](https://github.com/matthewsimo/angular-vim-snippets)
+* [Running JavaScript tests with Karma in WebStorm 7] (http://blog.jetbrains.com/webstorm/2013/10/running-javascript-tests-with-karma-in-webstorm-7/)
