@@ -25,6 +25,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2. I will also lis
 * [Web Application Development With AngularJS] (http://www.packtpub.com/angularjs-web-application-development/book)
 * [Developing An AngularJS Edge] (http://bleedingedgepress.com/our-books/developing-an-angularjs-edge/)
 * [AngularJS Directives] (http://www.packtpub.com/angularjs-directives/book)
+* [ng-book] (http://www.ng-book.com/)
 
 ## Videos
 * [Egghead.io](http://www.egghead.io/) — 44 videos of about 4 minutes each — [source code](https://github.com/msfrisbie/egghead-angularjs)
@@ -156,6 +157,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2. I will also lis
 * [Removing the Unneeded Watches] (http://angular-tips.com/blog/2013/08/removing-the-unneeded-watches/)
 * [Angular - $compile: How it works, How to use it.] (http://www.benlesh.com/2013/08/angular-compile-how-it-works-how-to-use.html)
 * [A Glimpse of Angular.js $scope via Example] (http://ruoyusun.com/2013/08/24/a-glimpse-of-angularjs-scope-via-example.html)
+* [Share state between controllers in AngularJS] (https://variadic.me/posts/2013-10-15-share-state-between-controllers-in-angularjs.html)
 
 ## Dependency Injection
 * [The "Magic" behind AngularJS Dependency Injection] (http://www.alexrothenberg.com/2013/02/11/the-magic-behind-angularjs-dependency-injection.html)
@@ -195,6 +197,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2. I will also lis
 * [Creating an AngularJS Directive from one of your existing plugins/scripts] (http://toddmotto.com/creating-an-angularjs-directive-from-one-of-your-existing-plugins-scripts/)
 * [Angular.js directives – Difference between controller and link] (http://jasonmore.net/angular-js-directives-difference-controller-link/)
 * [AngularJS Directives Tutorial] (http://www.befundoo.com/university/tutorials/angularjs-directives-tutorial/)
+* [AngularJS Directive Design Made Easy] (http://seanhess.github.io/2013/10/14/angularjs-directive-design.html)
 
 ## Services/Providers
 * [Angular service or factory?] (http://iffycan.blogspot.com/2013/05/angular-service-or-factory.html)
@@ -286,6 +289,8 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2. I will also lis
 * [Unit Testing - Controllers] (http://www.benlesh.com/2013/05/angularjs-unit-testing-controllers.html)
 * [Mocking Server Dependencies in JavaScript and AngularJS] (http://flippinawesome.org/2013/09/09/mocking-server-dependencies-in-javascript-and-angularjs/)
 * [Advanced Testing and Debugging in AngularJS] (http://www.yearofmoo.com/2013/09/advanced-testing-and-debugging-in-angularjs.html)
+* [Unit Testing Best Practices in AngularJS] (http://andyshora.com/unit-testing-best-practices-angularjs.html)
+* [Decorating your tests in AngularJS] (http://blogs.mulesoft.org/angularjs-using-decorators-for-unit-testing/)
 
 ## RESTful Stuff
 * [Using RESTful Controllers In An AngularJS Resource] (http://www.bennadel.com/blog/2433-Using-RESTful-Controllers-In-An-AngularJS-Resource.htm)
@@ -319,6 +324,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2. I will also lis
 * [Building an AngularJS Dialog Service] (http://weblogs.asp.net/dwahlin/archive/2013/08/19/building-an-angularjs-dialog-service.aspx)
 * [**Preparing for Animations in Angular 1.2.0] (http://www.johnpapa.net/preparing-for-animations-in-angular-1-2-0/)
 * [**Replacing jQuery.slideDown() with ngAnimate in AngularJS 1.2.0] (https://www.exratione.com/2013/09/replacing-jqueryslidedown-with-nganimate-in-angularjs-120/)
+* [AngularJS: Blurred image directive] (http://veamospues.wordpress.com/2013/10/13/angularjs-blurred-image-directive/)
 
 
 ## Integration With Other Languages/Frameworks
