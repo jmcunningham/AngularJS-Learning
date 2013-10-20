@@ -5,7 +5,8 @@ Eine Ansammlung von deutschen Blog Posts, Artikeln, Büchern, Videos, etc. zum T
 AngularJS.
 
 ## Bücher
-Ein deutsches Buch zu diesem Thema entsteht zur Zeit bei dem [dpunkt.verlag](http://dpunkt.de/), geschrieben von [Robin Böhm](https://twitter.com/roobijn) und [Philipp Tarasiewicz](https://twitter.com/justphilmusic)
+* Ein deutsches Buch zu diesem Thema entsteht zur Zeit bei dem [dpunkt.verlag](http://dpunkt.de/), geschrieben von [Robin Böhm](https://twitter.com/roobijn) und [Philipp Tarasiewicz](https://twitter.com/justphilmusic)
+* [AngularJS-Online-Buch](http://angularjs.de/buch)
 
 ## Blogs
 
@@ -19,3 +20,4 @@ Ein deutsches Buch zu diesem Thema entsteht zur Zeit bei dem [dpunkt.verlag](htt
 * [Testen deiner AngularJS Anwendung mit Jasmine](http://angularjs.de/artikel/angularjs-test)
 * [ng-repeat: Der Teufel im Schafspelz](http://angularjs.de/artikel/angularjs-ng-repeat)
 * [I18n in AngularJS Anwendungen einfach gemacht](http://angularjs.de/artikel/angularjs-i18n-ng-translate)
+* [angular-translate - i18n für Angular Apps](http://www.neoskop.de/blog/angular-translate)
