@@ -338,6 +338,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2. I will also lis
 * [Making Google Maps Components with AngularJS] (http://wbyoko.co/angularjs/angularjs-google-maps-components.html)
 * [Sync Multiple AngularJS Apps Without Server via PouchDB] (http://mircozeiss.com/sync-multiple-angularjs-apps-without-server-via-pouchdb/)
 * [Building Offline Applications With AngularJS and PouchDB] (http://mircozeiss.com/building-offline-applications-with-angularjs-and-pouchdb/)
+* [How to integrate AngularJS with Rails 4] (https://shellycloud.com/blog/2013/10/how-to-integrate-angularjs-with-rails-4)
  
 ## Hosted Backends
 * [Parse.com boilerplate for building large, complex AngularJS apps](http://brandid.github.io/parse-angular-demo/#/features)
