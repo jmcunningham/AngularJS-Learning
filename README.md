@@ -198,6 +198,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2. I will also lis
 * [Angular.js directives – Difference between controller and link] (http://jasonmore.net/angular-js-directives-difference-controller-link/)
 * [AngularJS Directives Tutorial] (http://www.befundoo.com/university/tutorials/angularjs-directives-tutorial/)
 * [AngularJS Directive Design Made Easy] (http://seanhess.github.io/2013/10/14/angularjs-directive-design.html)
+* [Refactoring to AngularJS Directive] (http://suhairhassan.com/2013/10/21/refactoring-to-angularjs-directive.html)
 
 ## Services/Providers
 * [Angular service or factory?] (http://iffycan.blogspot.com/2013/05/angular-service-or-factory.html)
@@ -207,6 +208,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2. I will also lis
 * [Understanding Service Types] (http://angular-tips.com/blog/2013/08/understanding-service-types/)
 * [Understanding angular $http interceptors] (http://djds4rce.wordpress.com/2013/08/13/understanding-angular-http-interceptors/)
 * [Differences Between Providers In AngularJS] (http://blog.xebia.com/2013/09/01/differences-between-providers-in-angularjs/)
+* [Angular's Modules: Factory, Service, Value, oh my!] (https://docs.google.com/document/d/1gkDp8HJU5Hdgse6d0Ol0_nsi9MQulVTbRCkEThW0RRY/edit#)
 
 ## Routing
 * [How to defer route definition in an AngularJS web app] (http://blog.brunoscopelliti.com/how-to-defer-route-definition-in-an-angularjs-web-app)
