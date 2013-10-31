@@ -329,6 +329,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2. I will also lis
 * [**Preparing for Animations in Angular 1.2.0] (http://www.johnpapa.net/preparing-for-animations-in-angular-1-2-0/)
 * [**Replacing jQuery.slideDown() with ngAnimate in AngularJS 1.2.0] (https://www.exratione.com/2013/09/replacing-jqueryslidedown-with-nganimate-in-angularjs-120/)
 * [AngularJS: Blurred image directive] (http://veamospues.wordpress.com/2013/10/13/angularjs-blurred-image-directive/)
+* [Create a “load more” widget using AngularJS, Ajax and Bootstrap 3] (http://julienrenaux.fr/2013/10/27/create-a-load-more-widget-using-angularjs-ajax-and-bootstrap-3/)
 
 
 ## Integration With Other Languages/Frameworks
