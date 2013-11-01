@@ -20,3 +20,7 @@ AngularJS
 
 ## Видео
 
+* [AngularJS приложение: опыт и ошибки](https://www.youtube.com/watch?v=zP2O2c31gdM)
+* [Web Development with AngularJS. Часть 1)](https://www.youtube.com/watch?v=w3cPZYyBI_I)
+* [Web Development with AngularJS. Часть 2)](https://www.youtube.com/watch?v=6EplQ3FTAn0)
+* [Angular.js опыт использования, проблемы и решения](https://www.youtube.com/watch?v=xN3hMPIijz0)
