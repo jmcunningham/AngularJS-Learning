@@ -100,6 +100,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2. I will also lis
 * [Enhancing AngularJS $log using Decorators] (http://solutionoptimist.com/2013/10/07/enhance-log-using-angularjs-decorators/)
 * [Logging Client-Side Errors With AngularJS And Stacktrace.js] (http://www.bennadel.com/blog/2542-Logging-Client-Side-Errors-With-AngularJS-And-Stacktrace-js.htm)
 * [Form Autocomplete and Remember Password with AngularJS] (http://timothy.userapp.io/post/63412334209/form-autocomplete-and-remember-password-with-angularjs)
+* [Optimizing AngularJS: 1200ms to 35ms](http://blog.scalyr.com/2013/10/31/angularjs-1200ms-to-35ms/)
 
 ## Introductions/Beginning AngularJS (also look at the multipart articles)
 * [Getting Started With AngularJS] (http://www.adobe.com/devnet/html5/articles/getting-started-with-angularjs.html)
