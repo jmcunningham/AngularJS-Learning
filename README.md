@@ -256,7 +256,8 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2. I will also lis
 * [In depth form validation](http://www.ng-newsletter.com/posts/validations.html)
 * [Ng-model and custom form validation] (http://jeremymarc.github.io/2013/08/20/ng-model-and-custom-form-validation/)
 * [Angular JS Ajax dropdowns, date picker and saving data] (http://www.amitavroy.com/justread/content/articles/angular-js-ajax-dropdowns-date-picker-and-saving-data)
-* [The concepts of AngularJS Forms] (http://mrbool.com/the-concepts-of-angularjs-forms/29117) 
+* [The concepts of AngularJS Forms] (http://mrbool.com/the-concepts-of-angularjs-forms/29117)
+* [GitHub Like Signup Form With AngularJS and Bootstrap V3](http://mircozeiss.com/github-like-signup-form-with-angularjs-and-bootstrap-v3/)
 
 ## Authentication
 * [Deal with users authentication in an AngularJS web app] (http://blog.brunoscopelliti.com/deal-with-users-authentication-in-an-angularjs-web-app)
