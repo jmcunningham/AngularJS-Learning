@@ -15,6 +15,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2. I will also lis
 * [**5 Cool New Features in AngularJS 1.2] (http://www.neevtech.com/blog/2013/08/17/5-cool-features-in-angularjs-1-2/)
 * [**Replacing jQuery.slideDown() with ngAnimate in AngularJS 1.2.0] (https://www.exratione.com/2013/09/replacing-jqueryslidedown-with-nganimate-in-angularjs-120/)
 * [**Getting Ready for AngularJS 1.2] (http://wildermuth.com/2013/9/18/Getting_Ready_for_AngularJS_1_2)
+* [**Migrating to Angular 1.2] (http://docs.angularjs.org/guide/migration)
 
 ## Books
 * [AngularJS] (http://shop.oreilly.com/product/0636920028055.do)
@@ -28,7 +29,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2. I will also lis
 * [ng-book] (http://www.ng-book.com/)
 
 ## Videos
-* [Egghead.io](http://www.egghead.io/) — 44 videos of about 4 minutes each — [source code](https://github.com/msfrisbie/egghead-angularjs)
+* [Egghead.io](http://www.egghead.io/) — [source code](https://github.com/msfrisbie/egghead-angularjs)
 * [Video Tutorial: AngularJS Fundamentals in 60-ish Minutes](http://weblogs.asp.net/dwahlin/archive/2013/04/12/video-tutorial-angularjs-fundamentals-in-60-ish-minutes.aspx) — 1:10:50
 * [AngularJS YouTube Page](http://www.youtube.com/user/angularjs) — several videos, mostly presentations of 1h or more
 * [Intro to Angular JS](http://www.youtube.com/watch?v=8ILQOFAgaXE) — 50:05
@@ -224,6 +225,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2. I will also lis
 * [Angular UI router](http://angular-ui.github.io/ui-router/sample/#/)
 * [The basics of using ui-router with AngularJS] (http://joelhooks.com/blog/2013/07/22/the-basics-of-using-ui-router-with-angularjs/)
 * [**AngularJS Routing Changes] (http://weblogs.asp.net/dwahlin/archive/2013/08/14/angularjs-routing-changes.aspx)
+* [Cancelling Route Navigation in AngularJS Controllers] (http://weblogs.asp.net/dwahlin/archive/2013/11/07/cancelling-route-navigation-in-angularjs-controllers.aspx)
 
 ## Promises/Deferred
 * [Enhancing Angular Promises: Returning new promise of field or method called from original promise’s result] (http://www.blogeek.com.ar/2013/05/02/enhancing-angular-promises-returning-new-promise-of-field-or-method-called-from-original-promises-result/)
