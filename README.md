@@ -207,6 +207,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2. I will also lis
 * [AngularJS Directives Tutorial] (http://www.befundoo.com/university/tutorials/angularjs-directives-tutorial/)
 * [AngularJS Directive Design Made Easy] (http://seanhess.github.io/2013/10/14/angularjs-directive-design.html)
 * [Refactoring to AngularJS Directive] (http://suhairhassan.com/2013/10/21/refactoring-to-angularjs-directive.html)
+* [Use jQuery Plugin With AngularJS the Easy (Lazy) Way] (http://iarouse.com/blog/2013/11/14/use-jquery-plugin-with-angularjs-the-easy-lazy-way/)
 
 ## Services/Providers
 * [Angular service or factory?] (http://iffycan.blogspot.com/2013/05/angular-service-or-factory.html)
