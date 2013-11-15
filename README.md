@@ -139,13 +139,14 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2. I will also lis
 * Introduction to AngularJS [Part 1](http://www.raweng.com/blog/2013/01/30/introduction-to-angularjs-part-1/), [Part 2](http://www.raweng.com/blog/2013/05/16/introduction-to-angularjs-part-2/)
 * AngularJS In Depth: [Part 1](http://suhairhassan.com/2013/06/07/angularjs-in-depth-part-1.html), [Part 2: Filters](http://suhairhassan.com/2013/07/25/angularjs-in-depth-part-2.html)
 * [The 7 steps to becoming and AngularJS expert](http://www.ng-newsletter.com/posts/beginner2expert-how_to_start.html), [Part 2: Scopes](http://www.ng-newsletter.com/posts/beginner2expert-scopes.html), [Part 3: Data-binding](http://www.ng-newsletter.com/posts/beginner2expert-data-binding.html), [Part 4 and 5: Expressions and directives](http://www.ng-newsletter.com/posts/beginner2expert-directives.html), [Part 6: Services](http://www.ng-newsletter.com/posts/beginner2expert-services.html)
-* AngularJS Overview: [1:Getting started with AngularJS](http://msmvps.com/blogs/theproblemsolver/archive/2013/04/05/getting-started-with-angularjs.aspx), [2:Creating an AngularJS Controller](http://msmvps.com/blogs/theproblemsolver/archive/2013/04/10/creating-an-angularjs-controller.aspx), [3:The AngularJS $scope is not the MVC Model](http://msmvps.com/blogs/theproblemsolver/archive/2013/04/15/the-angularjs-scope-is-not-the-mvc-model.aspx), [4:Using repeating elements in AngularJS](http://msmvps.com/blogs/theproblemsolver/archive/2013/05/10/using-repeating-elements-in-angularjs.aspx), [5:Filtering the data in an AngularJS ngRepeat element](http://msmvps.com/blogs/theproblemsolver/archive/2013/05/13/filtering-the-data-in-an-angularjs-ngrepeat-element.aspx), [6:Using the #AngularJS FormController to control form submission](http://msmvps.com/blogs/theproblemsolver/archive/2013/08/19/using-the-angularjs-formcontroller-to-control-form-submission.aspx), [7:Creating an #AngularJS Directive](http://msmvps.com/blogs/theproblemsolver/archive/2013/08/29/creating-an-angularjs-directive.aspx), [8:Using the DOM in an AngularJS application](http://msmvps.com/blogs/theproblemsolver/archive/2013/09/05/using-the-dom-in-an-angularjs-application.aspx)
+* AngularJS Overview: [1:Getting started with AngularJS](http://msmvps.com/blogs/theproblemsolver/archive/2013/04/05/getting-started-with-angularjs.aspx), [2:Creating an AngularJS Controller](http://msmvps.com/blogs/theproblemsolver/archive/2013/04/10/creating-an-angularjs-controller.aspx), [3:The AngularJS $scope is not the MVC Model](http://msmvps.com/blogs/theproblemsolver/archive/2013/04/15/the-angularjs-scope-is-not-the-mvc-model.aspx), [4:Using repeating elements in AngularJS](http://msmvps.com/blogs/theproblemsolver/archive/2013/05/10/using-repeating-elements-in-angularjs.aspx), [5:Filtering the data in an AngularJS ngRepeat element](http://msmvps.com/blogs/theproblemsolver/archive/2013/05/13/filtering-the-data-in-an-angularjs-ngrepeat-element.aspx), [6:Using the #AngularJS FormController to control form submission](http://msmvps.com/blogs/theproblemsolver/archive/2013/08/19/using-the-angularjs-formcontroller-to-control-form-submission.aspx), [7:Creating an #AngularJS Directive](http://msmvps.com/blogs/theproblemsolver/archive/2013/08/29/creating-an-angularjs-directive.aspx), [8:Using the DOM in an AngularJS application](http://msmvps.com/blogs/theproblemsolver/archive/2013/09/05/using-the-dom-in-an-angularjs-application.aspx), [9:To SPA or Not to SPA](http://msmvps.com/blogs/theproblemsolver/archive/2013/10/23/to-spa-or-not-to-spa.aspx)
 * Building a Google Calendar Booking App with MongoDB, ExpressJS, AngularJS, and Node.js [Part 1](http://www.jonathanbroquist.com/blog/2013/10/building-a-google-calendar-booking-app-with-mongodb-expressjs-angularjs-and-node-js-part-1/)
 * Creating Extensible Widgets: [Part 1: jQuery to AngularJS in 30 seconds] (http://blog.thousandeyes.com/creating-extensible-widgets-part-1-jquery-to-angularjs/), [Part 2: AngularJS Directive Controllers] (http://blog.thousandeyes.com/creating-extensible-widgets-part-2-angularjs-directive-controllers/)
 
 ## Sample Apps
 * [A Shopping Cart Application Built with AngularJS] (http://www.codeproject.com/Articles/576246/A-Shopping-Cart-Application-Built-with-AngularJS)
 * [Build a feed reader with the Google feed API and AngularJS] (http://cacodaemon.de/index.php?id=51)
+* [Learning AngularJS by Example – The Customer Manager Application] (http://weblogs.asp.net/dwahlin/archive/2013/10/25/learning-angularjs-by-example-the-customer-manager-application.aspx)
 
 ## Scopes & Compile
 * [AngularJS and scope.$apply] (http://jimhoskins.com/2012/12/17/angularjs-and-apply.html)
@@ -208,6 +209,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2. I will also lis
 * [AngularJS Directive Design Made Easy] (http://seanhess.github.io/2013/10/14/angularjs-directive-design.html)
 * [Refactoring to AngularJS Directive] (http://suhairhassan.com/2013/10/21/refactoring-to-angularjs-directive.html)
 * [Use jQuery Plugin With AngularJS the Easy (Lazy) Way] (http://iarouse.com/blog/2013/11/14/use-jquery-plugin-with-angularjs-the-easy-lazy-way/)
+* [Defer DOM Tree Binding In AngularJS With Delayed Transclusion] (http://www.bennadel.com/blog/2557-Defer-DOM-Tree-Binding-In-AngularJS-With-Delayed-Transclusion.htm)
 
 ## Services/Providers
 * [Angular service or factory?] (http://iffycan.blogspot.com/2013/05/angular-service-or-factory.html)
@@ -340,6 +342,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2. I will also lis
 * [AngularJS: Blurred image directive] (http://veamospues.wordpress.com/2013/10/13/angularjs-blurred-image-directive/)
 * [Create a “load more” widget using AngularJS, Ajax and Bootstrap 3] (http://julienrenaux.fr/2013/10/27/create-a-load-more-widget-using-angularjs-ajax-and-bootstrap-3/)
 * [ngInfiniteScroll] (http://binarymuse.github.io/ngInfiniteScroll/index.html)
+* [jQuery UI Datepicker with AngularJS] (http://www.abequar.net/jquery-ui-datepicker-with-angularjs/)
 
 
 ## Integration With Other Languages/Frameworks
