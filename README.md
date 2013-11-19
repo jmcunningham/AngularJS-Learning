@@ -45,6 +45,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2. I will also lis
 * [Realtime Web Apps With AngularJS & Firebase] (http://www.youtube.com/watch?v=C7ZI7z7qnHU)
 * [Getting MEAN With MongoDB and AngularJS](https://www.youtube.com/watch?v=XwSFg8nqBFA)
 * [A comparison of the two-way binding in AngularJS, EmberJS and KnockoutJS](http://www.youtube.com/watch?v=mVjpwia1YN4)
+* [Angular Best Practices](http://pluralsight.com/training/courses/TableOfContents?courseName=angular-best-practices&highlight=) - 64 videos(paid)
 
 ## Courses
 
