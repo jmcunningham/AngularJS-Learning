@@ -122,6 +122,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2. I will also lis
 * [Filtering with AngularJS] (http://www.kidsil.net/2013/09/filtering-with-angularjs/)
 * [Ultimate guide to learning AngularJS in one day] (http://toddmotto.com/ultimate-guide-to-learning-angular-js-in-one-day/)
 * [7 Ways to be Successful with AngularJS] (http://learnangularjs.net/2013/10/24/7-ways-to-be-successful-with-angularjs/)
+* [Submitting AJAX Forms: The AngularJS Way](http://scotch.io/tutorials/javascript/submitting-ajax-forms-the-angularjs-way)
 
 ## Lessons Learned
 * [Lessons Learned: A Year with a Large AngularJS Project] (http://joelhooks.com/blog/2013/05/22/lessons-learned-kicking-off-an-angularjs-project/)
