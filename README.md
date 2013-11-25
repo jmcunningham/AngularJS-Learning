@@ -273,6 +273,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2. I will also lis
 * [Angular JS Ajax dropdowns, date picker and saving data] (http://www.amitavroy.com/justread/content/articles/angular-js-ajax-dropdowns-date-picker-and-saving-data)
 * [The concepts of AngularJS Forms] (http://mrbool.com/the-concepts-of-angularjs-forms/29117)
 * [GitHub Like Signup Form With AngularJS and Bootstrap V3](http://mircozeiss.com/github-like-signup-form-with-angularjs-and-bootstrap-v3/)
+* [Submitting AJAX Forms: The AngularJS Way](http://scotch.io/tutorials/javascript/submitting-ajax-forms-the-angularjs-way) 
 
 ## Authentication
 * [Deal with users authentication in an AngularJS web app] (http://blog.brunoscopelliti.com/deal-with-users-authentication-in-an-angularjs-web-app)
