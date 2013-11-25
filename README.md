@@ -214,6 +214,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2. I will also lis
 * [Use jQuery Plugin With AngularJS the Easy (Lazy) Way] (http://iarouse.com/blog/2013/11/14/use-jquery-plugin-with-angularjs-the-easy-lazy-way/)
 * [Defer DOM Tree Binding In AngularJS With Delayed Transclusion] (http://www.bennadel.com/blog/2557-Defer-DOM-Tree-Binding-In-AngularJS-With-Delayed-Transclusion.htm)
 * Understanding AngularJS Directives: [Part 1:  Ng-repeat and Compile](http://liamkaufman.com/blog/2013/05/13/understanding-angularjs-directives-part1-ng-repeat-and-compile/), [Part 2: ngView](http://liamkaufman.com/blog/2013/11/11/understanding-angularjs-directives-part2-ng-view/)
+* [Advanced Directives: Combining AngularJS with existing Components] (http://henriquat.re/directives/advanced-directives-combining-angular-with-existing-components-and-jquery/angularAndJquery.html)
 
 ## Services/Providers
 * [Angular service or factory?] (http://iffycan.blogspot.com/2013/05/angular-service-or-factory.html)
