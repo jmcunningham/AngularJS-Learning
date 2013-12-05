@@ -50,6 +50,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2. I will also lis
 ## Courses
 
 * [Thinkster.io - A better way to learn AngularJS](http://www.thinkster.io/) - Free course on AngularJS
+* [Interactive AngularJS tutorials](http://ng-tutorial.mgechev.com/)
 
 ## Help
 * [StackOverflow] (http://stackoverflow.com/questions/tagged/angularjs)
@@ -356,6 +357,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2. I will also lis
 * [Create a “load more” widget using AngularJS, Ajax and Bootstrap 3] (http://julienrenaux.fr/2013/10/27/create-a-load-more-widget-using-angularjs-ajax-and-bootstrap-3/)
 * [ngInfiniteScroll] (http://binarymuse.github.io/ngInfiniteScroll/index.html)
 * [jQuery UI Datepicker with AngularJS] (http://www.abequar.net/jquery-ui-datepicker-with-angularjs/)
+* [TimeSelector/TimePicker Directive] (http://www.whatibroke.com/?p=899)
 
 
 ## Integration With Other Languages/Frameworks
