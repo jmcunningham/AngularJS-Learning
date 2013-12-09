@@ -46,6 +46,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2. I will also lis
 * [Getting MEAN With MongoDB and AngularJS](https://www.youtube.com/watch?v=XwSFg8nqBFA)
 * [A comparison of the two-way binding in AngularJS, EmberJS and KnockoutJS](http://www.youtube.com/watch?v=mVjpwia1YN4)
 * [Angular Best Practices](http://pluralsight.com/training/courses/TableOfContents?courseName=angular-best-practices&highlight=) - 64 videos(paid)
+* [Neosavvy's Angular & Jasmine Screencast Series](http://www.youtube.com/channel/UCdaEMffiYgTf_E7uTMxM4og/videos) - 16 videos of about 2-3 minutes each
 
 ## Courses
 
@@ -277,7 +278,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2. I will also lis
 * [Angular JS Ajax dropdowns, date picker and saving data] (http://www.amitavroy.com/justread/content/articles/angular-js-ajax-dropdowns-date-picker-and-saving-data)
 * [The concepts of AngularJS Forms] (http://mrbool.com/the-concepts-of-angularjs-forms/29117)
 * [GitHub Like Signup Form With AngularJS and Bootstrap V3](http://mircozeiss.com/github-like-signup-form-with-angularjs-and-bootstrap-v3/)
-* [Submitting AJAX Forms: The AngularJS Way](http://scotch.io/tutorials/javascript/submitting-ajax-forms-the-angularjs-way) 
+* [Submitting AJAX Forms: The AngularJS Way](http://scotch.io/tutorials/javascript/submitting-ajax-forms-the-angularjs-way)
 * [Create a Reusable AngularJS Input Form Component] (http://blog.revolunet.com/blog/2013/11/28/create-resusable-angularjs-input-component/)
 * [Form Navigator With Instant Feedback in AngularJS] (http://www.codeorbits.com/blog/2013/11/26/form-navigator-with-real-time-feedback-in-angularjs/)
 
