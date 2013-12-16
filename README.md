@@ -126,6 +126,8 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2. I will also lis
 * [7 Ways to be Successful with AngularJS] (http://learnangularjs.net/2013/10/24/7-ways-to-be-successful-with-angularjs/)
 * [Creating a Single Page Todo App with Node and Angular](http://scotch.io/tutorials/javascript/creating-a-single-page-todo-app-with-node-and-angular)
 * [Learn AngularJS With These 5 Practical Examples] (http://tutorialzine.com/2013/08/learn-angularjs-5-examples)
+* [Considering Speed and Slowness in AngularJS] (https://www.exratione.com/2013/12/considering-speed-and-slowness-in-angularjs/)
+* [Environment Specific Configuration in AngularJS Using Grunt] (http://newtriks.com/2013/11/29/environment-specific-configuration-in-angularjs-using-grunt/)
 
 ## Lessons Learned
 * [Lessons Learned: A Year with a Large AngularJS Project] (http://joelhooks.com/blog/2013/05/22/lessons-learned-kicking-off-an-angularjs-project/)
@@ -322,6 +324,9 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2. I will also lis
 * [Advanced Testing and Debugging in AngularJS] (http://www.yearofmoo.com/2013/09/advanced-testing-and-debugging-in-angularjs.html)
 * [Unit Testing Best Practices in AngularJS] (http://andyshora.com/unit-testing-best-practices-angularjs.html)
 * [Decorating your tests in AngularJS] (http://blogs.mulesoft.org/angularjs-using-decorators-for-unit-testing/)
+* [How to Unit Test Controllers In AngularJS Without Setting Your Hair On Fire] (http://nathanleclaire.com/blog/2013/12/13/how-to-unit-test-controllers-in-angularjs-without-setting-your-hair-on-fire/)
+* [Testing AngularJS directive templates with Jasmine and Karma] (http://daginge.com/technology/2013/12/14/testing-angular-templates-with-jasmine-and-karma/)
+* [Unit and End to End Testing in AngularJS] (http://www.sitepoint.com/unit-and-e2e-testing-in-angularjs/)
 
 ## RESTful Stuff
 * [Using RESTful Controllers In An AngularJS Resource] (http://www.bennadel.com/blog/2433-Using-RESTful-Controllers-In-An-AngularJS-Resource.htm)
