@@ -369,6 +369,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2. I will also lis
 * [TimeSelector/TimePicker Directive] (http://www.whatibroke.com/?p=899)
 * [Photo Gallery with AngularJS and CSS3] (http://www.script-tutorials.com/photo-gallery-with-angularjs-and-css3/)
 * [A Scalable Approach to Page Transitions in AngularJS] (http://phillippuleo.com/articles/scalable-approach-page-transitions-angularjs)
+* [Staggering Animations in AngularJS] (http://www.yearofmoo.com/2013/12/staggering-animations-in-angularjs.html)
 
 
 ## Integration With Other Languages/Frameworks
