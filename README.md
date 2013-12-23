@@ -328,6 +328,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2. I will also lis
 * [Testing AngularJS directive templates with Jasmine and Karma] (http://daginge.com/technology/2013/12/14/testing-angular-templates-with-jasmine-and-karma/)
 * [Unit and End to End Testing in AngularJS] (http://www.sitepoint.com/unit-and-e2e-testing-in-angularjs/)
 * **[Testing AngularJS Apps with Protractor] (http://blog.envylabs.com/post/61403296076/testing-angularjs-apps-with-protractor)
+* [Getting started unit-testing Angular] (http://www.ng-newsletter.com/advent2013/#!/day/19)
 
 ## RESTful Stuff
 * [Using RESTful Controllers In An AngularJS Resource] (http://www.bennadel.com/blog/2433-Using-RESTful-Controllers-In-An-AngularJS-Resource.htm)
