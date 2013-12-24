@@ -128,6 +128,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2. I will also lis
 * [Learn AngularJS With These 5 Practical Examples] (http://tutorialzine.com/2013/08/learn-angularjs-5-examples)
 * [Considering Speed and Slowness in AngularJS] (https://www.exratione.com/2013/12/considering-speed-and-slowness-in-angularjs/)
 * [Environment Specific Configuration in AngularJS Using Grunt] (http://newtriks.com/2013/11/29/environment-specific-configuration-in-angularjs-using-grunt/)
+* [Enhancing AngularJS Logging using Decorators] (http://solutionoptimist.com/2013/10/07/enhance-angularjs-logging-using-decorators/)
 
 ## Lessons Learned
 * [Lessons Learned: A Year with a Large AngularJS Project] (http://joelhooks.com/blog/2013/05/22/lessons-learned-kicking-off-an-angularjs-project/)
