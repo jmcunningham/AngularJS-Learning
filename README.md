@@ -107,6 +107,8 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2. I will also lis
 * [Optimizing AngularJS: 1200ms to 35ms](http://blog.scalyr.com/2013/10/31/angularjs-1200ms-to-35ms/)
 * [Creating A RequireJS Service For AngularJS Applications] (http://www.bennadel.com/blog/2551-Creating-A-RequireJS-Service-For-AngularJS-Applications.htm)
 * [Loading AngularJS Components After Your Application Has Been Bootstrapped] (http://www.bennadel.com/blog/2553-Loading-AngularJS-Components-After-Your-Application-Has-Been-Bootstrapped.htm)
+* [Load a module on demand with AngularJS] (http://blog.getelementsbyidea.com/load-a-module-on-demand-with-angularjs/)
+* [Environment Specific Configuration in AngularJS Using Grunt] (http://newtriks.com/2013/11/29/environment-specific-configuration-in-angularjs-using-grunt/)
 
 ## Introductions/Beginning AngularJS (also look at the multipart articles)
 * [Getting Started With AngularJS] (http://www.adobe.com/devnet/html5/articles/getting-started-with-angularjs.html)
@@ -176,6 +178,8 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2. I will also lis
 * [A Glimpse of Angular.js $scope via Example] (http://ruoyusun.com/2013/08/24/a-glimpse-of-angularjs-scope-via-example.html)
 * [Share state between controllers in AngularJS] (https://variadic.me/posts/2013-10-15-share-state-between-controllers-in-angularjs.html)
 * [Make Your Own AngularJS, Part 1: Scopes And Digest] (http://teropa.info/blog/2013/11/03/make-your-own-angular-part-1-scopes-and-digest.html)
+* [Scope $watch() vs. $watchCollection() In AngularJS] (http://www.bennadel.com/blog/2566-Scope-watch-vs-watchCollection-In-AngularJS.htm)
+* [A Tale of Frankenstein and Binding to Service Values in Angular.js] (http://stsc3000.github.io/blog/2013/10/26/a-tale-of-frankenstein-and-binding-to-service-values-in-angular-dot-js/)
 
 ## Dependency Injection
 * [The "Magic" behind AngularJS Dependency Injection] (http://www.alexrothenberg.com/2013/02/11/the-magic-behind-angularjs-dependency-injection.html)
@@ -222,6 +226,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2. I will also lis
 * [Defer DOM Tree Binding In AngularJS With Delayed Transclusion] (http://www.bennadel.com/blog/2557-Defer-DOM-Tree-Binding-In-AngularJS-With-Delayed-Transclusion.htm)
 * Understanding AngularJS Directives: [Part 1:  Ng-repeat and Compile](http://liamkaufman.com/blog/2013/05/13/understanding-angularjs-directives-part1-ng-repeat-and-compile/), [Part 2: ngView](http://liamkaufman.com/blog/2013/11/11/understanding-angularjs-directives-part2-ng-view/)
 * [Advanced Directives: Combining AngularJS with existing Components] (http://henriquat.re/directives/advanced-directives-combining-angular-with-existing-components-and-jquery/angularAndJquery.html)
+* [**Changes In Transclude() Function Availability In AngularJS 1.2] (http://www.bennadel.com/blog/2561-Changes-In-Transclude-Function-Availability-In-AngularJS-1-2.htm)
 
 ## Services/Providers
 * [Angular service or factory?] (http://iffycan.blogspot.com/2013/05/angular-service-or-factory.html)
@@ -253,6 +258,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2. I will also lis
 * [Using Promises in AngularJS Views] (http://markdalgleish.com/2013/06/using-promises-in-angularjs-views/)
 * [Using AngularJS Promises] (http://liamkaufman.com/blog/2013/09/09/using-angularjs-promises/)
 * [Show route only after all promises are resolved] (http://blog.brunoscopelliti.com/show-route-only-after-all-promises-are-resolved)
+* [The AngularJs Promise Anti-Pattern That Makes Me Cry] (http://terussell85.github.io/blog/2013/12/23/the-angularjs-promise-anti-pattern-that-makes-me-cry/)
 
 ## Forms
 * [Form Validation the AngularJS Way] (http://blog.brunoscopelliti.com/form-validation-the-angularjs-way)
@@ -310,6 +316,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2. I will also lis
 * [Modular AngularJS App Design] (http://clintberry.com/2013/modular-angularjs-application-design/)
 * [Using RequireJS with AngularJS DI] (http://solutionoptimist.com/2013/09/30/requirejs-angularjs-dependency-injection/)
 * [Structuring AngularJS Code] (http://weblogs.asp.net/dwahlin/archive/2013/12/01/structuring-angularjs-code.aspx)
+* [Loading AngularJS Components With RequireJS After Application Bootstrap] (http://www.bennadel.com/blog/2554-Loading-AngularJS-Components-With-RequireJS-After-Application-Bootstrap.htm)
 
 ## Testing
 * [Full-Spectrum Testing with AngularJS and Testacular] (http://www.yearofmoo.com/2013/01/full-spectrum-testing-with-angularjs-and-testacular.html)
@@ -373,6 +380,8 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2. I will also lis
 * [Photo Gallery with AngularJS and CSS3] (http://www.script-tutorials.com/photo-gallery-with-angularjs-and-css3/)
 * [A Scalable Approach to Page Transitions in AngularJS] (http://phillippuleo.com/articles/scalable-approach-page-transitions-angularjs)
 * [Staggering Animations in AngularJS] (http://www.yearofmoo.com/2013/12/staggering-animations-in-angularjs.html)
+* [Build a Sweet Photo Slider with AngularJS Animate] {http://onehungrymind.com/build-sweet-photo-slider-angularjs-animate/}
+* [Build a Sweet AngularJS Photo Slider Pt 2 with ngTouch] (http://onehungrymind.com/build-sweet-angularjs-photo-slider-pt-2-ngtouch/)
 
 
 ## Integration With Other Languages/Frameworks
