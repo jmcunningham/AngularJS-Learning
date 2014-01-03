@@ -250,6 +250,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2. I will also lis
 * [AngularJS Routing And Views Tutorial With Example](http://viralpatel.net/blogs/angularjs-routing-and-views-tutorial-with-example)
 * [Single Page Apps with AngularJS Routing and Templating](http://scotch.io/tutorials/javascript/single-page-apps-with-angularjs-routing-and-templating)
 * [AngularJS: Timing Multiple $resource Resolves in ngRoute and ui-router] (http://phillippuleo.com/articles/angularjs-timing-multiple-resource-resolves-ngroute-and-ui-router)
+* [Advanced routing and resolves] (https://medium.com/opinionated-angularjs/a2fcbf874a1c)
 
 ## Promises/Deferred
 * [Enhancing Angular Promises: Returning new promise of field or method called from original promise’s result] (http://www.blogeek.com.ar/2013/05/02/enhancing-angular-promises-returning-new-promise-of-field-or-method-called-from-original-promises-result/)
