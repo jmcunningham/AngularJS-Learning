@@ -155,6 +155,8 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2. I will also lis
 * Building a Google Calendar Booking App with MongoDB, ExpressJS, AngularJS, and Node.js [Part 1](http://www.jonathanbroquist.com/blog/2013/10/building-a-google-calendar-booking-app-with-mongodb-expressjs-angularjs-and-node-js-part-1/), [Part 2](http://blog.jonathanbroquist.com/building-a-google-calendar-booking-app-with-mongodb-expressjs-angularjs-and-node-js-part-2/)
 * Creating Extensible Widgets: [Part 1: jQuery to AngularJS in 30 seconds] (http://blog.thousandeyes.com/creating-extensible-widgets-part-1-jquery-to-angularjs/), [Part 2: AngularJS Directive Controllers] (http://blog.thousandeyes.com/creating-extensible-widgets-part-2-angularjs-directive-controllers/)
 * Build a Sweet Photo Slider with AngularJS Animate: [Part 1](http://onehungrymind.com/build-sweet-photo-slider-angularjs-animate/), [Part 2:](http://onehungrymind.com/build-sweet-angularjs-photo-slider-pt-2-ngtouch/)
+* A Practical Guide to AngularJS Directives: [Part 1](http://www.sitepoint.com/practical-guide-angularjs-directives/), [Part 2](http://www.sitepoint.com/practical-guide-angularjs-directives-part-two/)
+* AngularJS Tutorial by Jakob Jenkov: [Introduction](http://tutorials.jenkov.com/angularjs/index.html), [Views & Directives](http://tutorials.jenkov.com/angularjs/views-and-directives.html), [Events](http://tutorials.jenkov.com/angularjs/events.html), [AJAX](http://tutorials.jenkov.com/angularjs/ajax.html)
 
 ## Sample Apps
 * [A Shopping Cart Application Built with AngularJS] (http://www.codeproject.com/Articles/576246/A-Shopping-Cart-Application-Built-with-AngularJS)
@@ -229,6 +231,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2. I will also lis
 * Understanding AngularJS Directives: [Part 1:  Ng-repeat and Compile](http://liamkaufman.com/blog/2013/05/13/understanding-angularjs-directives-part1-ng-repeat-and-compile/), [Part 2: ngView](http://liamkaufman.com/blog/2013/11/11/understanding-angularjs-directives-part2-ng-view/)
 * [Advanced Directives: Combining AngularJS with existing Components] (http://henriquat.re/directives/advanced-directives-combining-angular-with-existing-components-and-jquery/angularAndJquery.html)
 * [**Changes In Transclude() Function Availability In AngularJS 1.2] (http://www.bennadel.com/blog/2561-Changes-In-Transclude-Function-Availability-In-AngularJS-1-2.htm)
+* [Leveraging Directives To Reduce $Watch'ers In Angular] (http://frontendandvodka.com/watchers-when-performance-is-key/)
 
 ## Services/Providers
 * [Angular service or factory?] (http://iffycan.blogspot.com/2013/05/angular-service-or-factory.html)
@@ -296,6 +299,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2. I will also lis
 * [Submitting AJAX Forms: The AngularJS Way](http://scotch.io/tutorials/javascript/submitting-ajax-forms-the-angularjs-way)
 * [Create a Reusable AngularJS Input Form Component] (http://blog.revolunet.com/blog/2013/11/28/create-resusable-angularjs-input-component/)
 * [Form Navigator With Instant Feedback in AngularJS] (http://www.codeorbits.com/blog/2013/11/26/form-navigator-with-real-time-feedback-in-angularjs/)
+* [AngularJS Form Validation] (http://scotch.io/tutorials/javascript/angularjs-form-validation)
 
 ## Authentication
 * [Deal with users authentication in an AngularJS web app] (http://blog.brunoscopelliti.com/deal-with-users-authentication-in-an-angularjs-web-app)
