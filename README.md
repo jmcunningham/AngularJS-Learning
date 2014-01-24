@@ -48,7 +48,8 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2. I will also lis
 * [A comparison of the two-way binding in AngularJS, EmberJS and KnockoutJS](http://www.youtube.com/watch?v=mVjpwia1YN4)
 * [Angular Best Practices](http://pluralsight.com/training/courses/TableOfContents?courseName=angular-best-practices&highlight=) - 64 videos(paid)
 * [Neosavvy's Angular & Jasmine Screencast Series](http://www.youtube.com/channel/UCdaEMffiYgTf_E7uTMxM4og/videos) - 16 videos of about 2-3 minutes each
-* * [AngularJS Videos Collection in Youtube](http://www.youtube.com/channel/UCNhQ8pYS9U1EbwCx42NKaYQ) — Collection of Videos from Various websites.
+* [AngularJS Videos Collection in Youtube](http://www.youtube.com/channel/UCNhQ8pYS9U1EbwCx42NKaYQ) — Collection of Videos from Various websites.
+
 ## Courses
 
 * [Thinkster.io - A better way to learn AngularJS](http://www.thinkster.io/) - Free course on AngularJS
