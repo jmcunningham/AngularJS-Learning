@@ -5,7 +5,7 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS. Th
 
 NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2. I will also list them below in their own heading for now, since many of you will likely want to quickly see what is new in Angular 1.2. Once the dust settles, or the 1.2 section gets too big, I will remove it. But for now, the Angular 1.2 links can be found in two places.
 
-### Table of Contants
+### Table of Contents
 [New in Angular 1.2](#new-in-angular-12)  
 [Books](#books)  
 [Videos](#videos)  
