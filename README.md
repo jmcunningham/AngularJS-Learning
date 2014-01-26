@@ -5,6 +5,36 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS. Th
 
 NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2. I will also list them below in their own heading for now, since many of you will likely want to quickly see what is new in Angular 1.2. Once the dust settles, or the 1.2 section gets too big, I will remove it. But for now, the Angular 1.2 links can be found in two places.
 
+### Table of Contants
+[New in Angular 1.2](#new-in-angular-12)  
+[Books](#books)  
+[Videos](#videos)  
+[Courses](#courses)  
+[Help](#help)  
+[General Topics](#general-topics)  
+[Introductions/Beginning AngularJS](#introductionsbeginning-angularjs-also-look-at-the-multipart-articles)  
+[Lessons Learned](#lessons-learned)  
+[Multipart Articles](#multipart-articles)  
+[Sample Apps](sample-apps)  
+[Scopes & Compile](#scopes--compile)  
+[Dependency Injection](#dependency-injection)  
+[Directives](#directives)  
+[Services/Providers](#servicesproviders)  
+[Routing](#routing)  
+[Promises/Deferred](#promisesdeferred)  
+[Forms](#forms)  
+[Authentication](#authentication)  
+[Colletions](#collections--ngrepeat-stuff)  
+[Code Organization](#code-organization)  
+[Testing](#testing)  
+[RESTful Stuff](#restful-stuff)  
+[Localization](#localization)  
+[UI Stuff](#ui-stuff)  
+[Integration with Other Languages/Frameworks](#integration-with-other-languagesframeworks)  
+[Hosted Backends](#integration-with-other-languagesframeworks)  
+[Mobile](#mobile)  
+[Test Editor Bundles](#text-editor-bundleside-stuff)  
+
 ## New In Angular 1.2
 * [**AngularJS 1.2 & Beyond] (http://www.youtube.com/watch?v=W13qDdJDHp8&feature=youtu.be)
 * [**Error Message Minification with MinErr] (http://kensheedlo.com/2013/08/15/error-message-minification-with-minerr.html)
