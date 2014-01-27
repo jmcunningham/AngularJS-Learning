@@ -33,7 +33,9 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2. I will also lis
 [Integration with Other Languages/Frameworks](#integration-with-other-languagesframeworks)  
 [Hosted Backends](#integration-with-other-languagesframeworks)  
 [Mobile](#mobile)  
+[Popular Third-Party Modules](#popular-third-party-modules)  
 [Test Editor Bundles](#text-editor-bundleside-stuff)  
+[Development Tools](#development-tools)  
 
 ## New In Angular 1.2
 * [**AngularJS 1.2 & Beyond] (http://www.youtube.com/watch?v=W13qDdJDHp8&feature=youtu.be)
