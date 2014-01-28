@@ -382,6 +382,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2. I will also lis
 * [Unit and End to End Testing in AngularJS] (http://www.sitepoint.com/unit-and-e2e-testing-in-angularjs/)
 * **[Testing AngularJS Apps with Protractor] (http://blog.envylabs.com/post/61403296076/testing-angularjs-apps-with-protractor)
 * [Getting started unit-testing Angular] (http://www.ng-newsletter.com/advent2013/#!/day/19)
+* [Mock Unit Testing a AngularJS Local Storage Service with Karma and Jasmine] (http://ngokevin.com/blog/angular-unit-testing/)
 
 ## RESTful Stuff
 * [Using RESTful Controllers In An AngularJS Resource] (http://www.bennadel.com/blog/2433-Using-RESTful-Controllers-In-An-AngularJS-Resource.htm)
