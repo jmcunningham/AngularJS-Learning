@@ -326,6 +326,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2. I will also lis
 * [Form Navigator With Instant Feedback in AngularJS] (http://www.codeorbits.com/blog/2013/11/26/form-navigator-with-real-time-feedback-in-angularjs/)
 * [AngularJS Form Validation] (http://scotch.io/tutorials/javascript/angularjs-form-validation)
 * [Processing Forms in AngularJS] (https://www.lullabot.com/blog/article/processing-forms-angularjs)
+* [Object Equivalency and Select Options in AngularJS ("Why Isn't the Correct Option Selected?")] (http://www.thoughtdelimited.org/thoughts/post.cfm/object-equivalency-and-select-options-in-angularjs-why-isn-t-the-correct-option-selected)
 
 ## Authentication
 * [Deal with users authentication in an AngularJS web app] (http://blog.brunoscopelliti.com/deal-with-users-authentication-in-an-angularjs-web-app)
@@ -376,6 +377,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2. I will also lis
 * **[Testing AngularJS Apps with Protractor] (http://blog.envylabs.com/post/61403296076/testing-angularjs-apps-with-protractor)
 * [Getting started unit-testing Angular] (http://www.ng-newsletter.com/advent2013/#!/day/19)
 * [Mock Unit Testing a AngularJS Local Storage Service with Karma and Jasmine] (http://ngokevin.com/blog/angular-unit-testing/)
+* [AngularJS End to End Testing With Protractor - Easy Set Up With Yeoman, Grunt, Bower] (http://www.codeorbits.com/blog/2014/01/26/angularjs-end-to-end-testing-with-protractor-easy-set-up-with-yeoman/)
 
 ## RESTful Stuff
 * [Using RESTful Controllers In An AngularJS Resource] (http://www.bennadel.com/blog/2433-Using-RESTful-Controllers-In-An-AngularJS-Resource.htm)
