@@ -420,7 +420,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2. I will also lis
 * [Photo Gallery with AngularJS and CSS3] (http://www.script-tutorials.com/photo-gallery-with-angularjs-and-css3/)
 * [A Scalable Approach to Page Transitions in AngularJS] (http://phillippuleo.com/articles/scalable-approach-page-transitions-angularjs)
 * [Staggering Animations in AngularJS] (http://www.yearofmoo.com/2013/12/staggering-animations-in-angularjs.html)
-* [Build a Sweet Photo Slider with AngularJS Animate] {http://onehungrymind.com/build-sweet-photo-slider-angularjs-animate/}
+* [Build a Sweet Photo Slider with AngularJS Animate](http://onehungrymind.com/build-sweet-photo-slider-angularjs-animate/)
 * [Build a Sweet AngularJS Photo Slider Pt 2 with ngTouch] (http://onehungrymind.com/build-sweet-angularjs-photo-slider-pt-2-ngtouch/)
 
 
