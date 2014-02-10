@@ -272,6 +272,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2. I will also lis
 * [Angular's Modules: Factory, Service, Value, oh my!] (https://docs.google.com/document/d/1gkDp8HJU5Hdgse6d0Ol0_nsi9MQulVTbRCkEThW0RRY/edit#)
 * [Angular Constants, Values, Factories, Services, Providers and Decorators, Oh My!] (http://www.mikeobrien.net/blog/angular-consts-values-services-factories-and-providers-oh-my/)
 * [AngularJS Service / Factory Tutorial With Example] (http://viralpatel.net/blogs/angularjs-service-factory-tutorial/)
+* [Service Providers in AngularJS and Logger Implementation] (http://www.webdeveasy.com/service-providers-in-angularjs-and-logger-implementation/)
 
 ## Routing
 * [How to defer route definition in an AngularJS web app] (http://blog.brunoscopelliti.com/how-to-defer-route-definition-in-an-angularjs-web-app)
