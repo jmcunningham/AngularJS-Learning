@@ -445,6 +445,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2. I will also lis
 * [Using Breeze JS with Angular to consume Web API OData] (http://sravi-kiran.blogspot.com/2013/11/UsingBreezeJsToConsumeAspNetWebApiODataInAnAngularJsApplication.html)
 * [A better way of using SignalR with Angular JS] (http://sravi-kiran.blogspot.com/2013/09/ABetterWayOfUsingAspNetSignalRWithAngularJs.html)
 * [AngularJS Tutorial: Learn to Rapidly Build Real-time Web Apps with Firebase](http://www.thinkster.io/pick/eHPCs7s87O/angularjs-tutorial-learn-to-rapidly-build-real-time-web-apps-with-firebase)
+* [Using AngularJS with Django](http://glynjackson.org/weblog/entry/django-angular.html)
 
 ## Hosted Backends
 * [Parse.com boilerplate for building large, complex AngularJS apps](http://brandid.github.io/parse-angular-demo/#/features)
