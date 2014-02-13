@@ -24,7 +24,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2. I will also lis
 [Promises/Deferred](#promisesdeferred)  
 [Forms](#forms)  
 [Authentication](#authentication)  
-[Colletions](#collections--ngrepeat-stuff)  
+[Collections](#collections--ngrepeat-stuff)  
 [Code Organization](#code-organization)  
 [Testing](#testing)  
 [RESTful Stuff](#restful-stuff)  
@@ -81,6 +81,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2. I will also lis
 * [Angular Best Practices](http://pluralsight.com/training/courses/TableOfContents?courseName=angular-best-practices&highlight=) - 64 videos(paid)
 * [Neosavvy's Angular & Jasmine Screencast Series](http://www.youtube.com/channel/UCdaEMffiYgTf_E7uTMxM4og/videos) - 16 videos of about 2-3 minutes each
 * [AngularJS Videos Collection in Youtube](http://www.youtube.com/channel/UCNhQ8pYS9U1EbwCx42NKaYQ) — Collection of Videos from Various websites.
+* [ng-conf YouTube Page](http://www.youtube.com/user/ngconfvideos) — YouTube channel with all the presentations given at the Angular Conference in January 2014.
 
 ## Courses
 
