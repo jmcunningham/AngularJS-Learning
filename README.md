@@ -276,6 +276,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2. I will also lis
 * [Angular Constants, Values, Factories, Services, Providers and Decorators, Oh My!] (http://www.mikeobrien.net/blog/angular-consts-values-services-factories-and-providers-oh-my/)
 * [AngularJS Service / Factory Tutorial With Example] (http://viralpatel.net/blogs/angularjs-service-factory-tutorial/)
 * [Service Providers in AngularJS and Logger Implementation] (http://www.webdeveasy.com/service-providers-in-angularjs-and-logger-implementation/)
+* [Object-oriented AngularJS Services] (http://blog.revolunet.com/blog/2014/02/14/angularjs-services-inheritance/)
 
 ## Routing
 * [How to defer route definition in an AngularJS web app] (http://blog.brunoscopelliti.com/how-to-defer-route-definition-in-an-angularjs-web-app)
@@ -385,6 +386,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2. I will also lis
 * [Getting started unit-testing Angular] (http://www.ng-newsletter.com/advent2013/#!/day/19)
 * [Mock Unit Testing a AngularJS Local Storage Service with Karma and Jasmine] (http://ngokevin.com/blog/angular-unit-testing/)
 * [AngularJS End to End Testing With Protractor - Easy Set Up With Yeoman, Grunt, Bower] (http://www.codeorbits.com/blog/2014/01/26/angularjs-end-to-end-testing-with-protractor-easy-set-up-with-yeoman/)
+* [Unit Testing an AngularJS Directive] (http://blog.revolunet.com/blog/2013/12/05/unit-testing-angularjs-directive/)
 
 ## RESTful Stuff
 * [Using RESTful Controllers In An AngularJS Resource] (http://www.bennadel.com/blog/2433-Using-RESTful-Controllers-In-An-AngularJS-Resource.htm)
