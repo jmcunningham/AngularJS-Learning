@@ -214,6 +214,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2. I will also lis
 * [Scope $watch() vs. $watchCollection() In AngularJS] (http://www.bennadel.com/blog/2566-Scope-watch-vs-watchCollection-In-AngularJS.htm)
 * [A Tale of Frankenstein and Binding to Service Values in Angular.js] (http://stsc3000.github.io/blog/2013/10/26/a-tale-of-frankenstein-and-binding-to-service-values-in-angular-dot-js/)
 * [AngularJS Scopes: An Introduction] (http://blog.carbonfive.com/2014/02/11/angularjs-scopes-an-introduction/)
+* [Angle Brackets, Rifle Scopes] (http://blog.ponyfoo.com/2014/02/14/angle-brackets-rifle-scopes)
 
 ## Dependency Injection
 * [The "Magic" behind AngularJS Dependency Injection] (http://www.alexrothenberg.com/2013/02/11/the-magic-behind-angularjs-dependency-injection.html)
@@ -387,6 +388,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2. I will also lis
 * [Mock Unit Testing a AngularJS Local Storage Service with Karma and Jasmine] (http://ngokevin.com/blog/angular-unit-testing/)
 * [AngularJS End to End Testing With Protractor - Easy Set Up With Yeoman, Grunt, Bower] (http://www.codeorbits.com/blog/2014/01/26/angularjs-end-to-end-testing-with-protractor-easy-set-up-with-yeoman/)
 * [Unit Testing an AngularJS Directive] (http://blog.revolunet.com/blog/2013/12/05/unit-testing-angularjs-directive/)
+* [Protractor - Testing Angular and Non Angular Sites] (http://ng-learn.org/2014/02/Protractor_Testing_With_Angular_And_Non_Angular_Sites/)
 
 ## RESTful Stuff
 * [Using RESTful Controllers In An AngularJS Resource] (http://www.bennadel.com/blog/2433-Using-RESTful-Controllers-In-An-AngularJS-Resource.htm)
