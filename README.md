@@ -15,7 +15,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2. I will also lis
 [Introductions/Beginning AngularJS](#introductionsbeginning-angularjs-also-look-at-the-multipart-articles)  
 [Lessons Learned](#lessons-learned)  
 [Multipart Articles](#multipart-articles)  
-[Sample Apps](sample-apps)  
+[Sample Apps](#sample-apps)  
 [Scopes & Compile](#scopes--compile)  
 [Dependency Injection](#dependency-injection)  
 [Directives](#directives)  
