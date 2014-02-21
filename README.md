@@ -266,6 +266,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2. I will also lis
 * [Leveraging Directives To Reduce $Watch'ers In Angular] (http://frontendandvodka.com/watchers-when-performance-is-key/)
 * [Creating Semantic, Reusable Directives in AngularJS](http://jaysoo.ca/2014/01/20/semantic-angularjs-directives/)
 * [Angle Brackets, Synergistic Directives] (http://blog.ponyfoo.com/2014/02/19/angle-brackets-synergistic-directives)
+* [Transclusion in Angular] (http://engineering.nulogy.com/posts/transclusion-in-angular/)
 
 ## Services/Providers
 * [Angular service or factory?] (http://iffycan.blogspot.com/2013/05/angular-service-or-factory.html)
