@@ -283,6 +283,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2. I will also lis
 * [AngularJS Service / Factory Tutorial With Example] (http://viralpatel.net/blogs/angularjs-service-factory-tutorial/)
 * [Service Providers in AngularJS and Logger Implementation] (http://www.webdeveasy.com/service-providers-in-angularjs-and-logger-implementation/)
 * [Object-oriented AngularJS Services] (http://blog.revolunet.com/blog/2014/02/14/angularjs-services-inheritance/)
+* [Service Providers in AngularJS and Logger Implementation](http://www.webdeveasy.com/service-providers-in-angularjs-and-logger-implementation/) 
 
 ## Routing
 * [How to defer route definition in an AngularJS web app] (http://blog.brunoscopelliti.com/how-to-defer-route-definition-in-an-angularjs-web-app)
@@ -305,6 +306,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2. I will also lis
 * [Using AngularJS Promises] (http://liamkaufman.com/blog/2013/09/09/using-angularjs-promises/)
 * [Show route only after all promises are resolved] (http://blog.brunoscopelliti.com/show-route-only-after-all-promises-are-resolved)
 * [The AngularJs Promise Anti-Pattern That Makes Me Cry] (http://terussell85.github.io/blog/2013/12/23/the-angularjs-promise-anti-pattern-that-makes-me-cry/)
+* [Promises & Design Patterns in AngularJS](http://blog.xebia.com/2014/02/23/promises-and-design-patterns-in-angularjs/)
 
 ## Forms
 * [Form Validation the AngularJS Way] (http://blog.brunoscopelliti.com/form-validation-the-angularjs-way)
