@@ -60,6 +60,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2. I will also lis
 * [AngularJS Directives] (http://www.packtpub.com/angularjs-directives/book)
 * [ng-book] (http://www.ng-book.com/)
 * [Build Your Own AngularJS] (http://teropa.info/build-your-own-angular/)
+* [Dependency Injection with AngularJS](http://www.packtpub.com/dependency-injection-angularjs/book)
 
 ## Videos
 * [Egghead.io](http://www.egghead.io/) — [source code](https://github.com/msfrisbie/egghead-angularjs)
