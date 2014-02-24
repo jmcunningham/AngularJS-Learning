@@ -393,6 +393,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2. I will also lis
 * [AngularJS End to End Testing With Protractor - Easy Set Up With Yeoman, Grunt, Bower] (http://www.codeorbits.com/blog/2014/01/26/angularjs-end-to-end-testing-with-protractor-easy-set-up-with-yeoman/)
 * [Unit Testing an AngularJS Directive] (http://blog.revolunet.com/blog/2013/12/05/unit-testing-angularjs-directive/)
 * [Protractor - Testing Angular and Non Angular Sites] (http://ng-learn.org/2014/02/Protractor_Testing_With_Angular_And_Non_Angular_Sites/)
+* [TDD Basics with Angular.js and Jasmine](http://www.slideshare.net/iquark/tdd-basics-with-angular-and-jasmine)
 
 ## RESTful Stuff
 * [Using RESTful Controllers In An AngularJS Resource] (http://www.bennadel.com/blog/2433-Using-RESTful-Controllers-In-An-AngularJS-Resource.htm)
