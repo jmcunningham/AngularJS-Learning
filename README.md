@@ -141,6 +141,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2. I will also lis
 * [Load a module on demand with AngularJS] (http://blog.getelementsbyidea.com/load-a-module-on-demand-with-angularjs/)
 * [Environment Specific Configuration in AngularJS Using Grunt] (http://newtriks.com/2013/11/29/environment-specific-configuration-in-angularjs-using-grunt/)
 * [Creating a Slide Show Plugin With AngularJS](http://www.sitepoint.com/creating-slide-show-plugin-angularjs/)
+* [Wallop Slider in AngularJS](http://andyshora.com/wallop-slider-angularjs-css.html)
 
 ## Introductions/Beginning AngularJS (also look at the multipart articles)
 * [Getting Started With AngularJS] (http://www.adobe.com/devnet/html5/articles/getting-started-with-angularjs.html)
