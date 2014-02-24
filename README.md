@@ -339,6 +339,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2. I will also lis
 * [AngularJS Form Validation] (http://scotch.io/tutorials/javascript/angularjs-form-validation)
 * [Processing Forms in AngularJS] (https://www.lullabot.com/blog/article/processing-forms-angularjs)
 * [Object Equivalency and Select Options in AngularJS ("Why Isn't the Correct Option Selected?")] (http://www.thoughtdelimited.org/thoughts/post.cfm/object-equivalency-and-select-options-in-angularjs-why-isn-t-the-correct-option-selected)
+* [Validation in angular.js ng-repeat](http://www.mikitamanko.com/blog/2014/02/11/validation-in-angular-js-ng-repeat/)
 
 ## Authentication
 * [Deal with users authentication in an AngularJS web app] (http://blog.brunoscopelliti.com/deal-with-users-authentication-in-an-angularjs-web-app)
