@@ -6,7 +6,6 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS. Th
 NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2. I will also list them below in their own heading for now, since many of you will likely want to quickly see what is new in Angular 1.2. Once the dust settles, or the 1.2 section gets too big, I will remove it. But for now, the Angular 1.2 links can be found in two places.
 
 ### Table of Contents
-[New in Angular 1.2](#new-in-angular-12)  
 [Books](#books)  
 [Videos](#videos)  
 [Courses](#courses)  
@@ -36,18 +35,6 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2. I will also lis
 [Popular Third-Party Modules](#popular-third-party-modules)  
 [Test Editor Bundles](#text-editor-bundleside-stuff)  
 [Development Tools](#development-tools)  
-
-## New In Angular 1.2
-* [**AngularJS 1.2 & Beyond] (http://www.youtube.com/watch?v=W13qDdJDHp8&feature=youtu.be)
-* [**Error Message Minification with MinErr] (http://kensheedlo.com/2013/08/15/error-message-minification-with-minerr.html)
-* [**AngularJS Routing Changes] (http://weblogs.asp.net/dwahlin/archive/2013/08/14/angularjs-routing-changes.aspx)
-* [**AngularJS Missing Directives: Focus & Blur] (http://blog.jasoncust.com/2013/08/angularjs-missing-directives-focus-blur_14.html)
-* [**Remastered Animation in AngularJS 1.2] (http://www.yearofmoo.com/2013/08/remastered-animation-in-angularjs-1-2.html)
-* [**Preparing for Animations in Angular 1.2.0] (http://www.johnpapa.net/preparing-for-animations-in-angular-1-2-0/)
-* [**5 Cool New Features in AngularJS 1.2] (http://www.neevtech.com/blog/2013/08/17/5-cool-features-in-angularjs-1-2/)
-* [**Replacing jQuery.slideDown() with ngAnimate in AngularJS 1.2.0] (https://www.exratione.com/2013/09/replacing-jqueryslidedown-with-nganimate-in-angularjs-120/)
-* [**Getting Ready for AngularJS 1.2] (http://wildermuth.com/2013/9/18/Getting_Ready_for_AngularJS_1_2)
-* [**Migrating to Angular 1.2] (http://docs.angularjs.org/guide/migration)
 
 ## Books
 * [AngularJS] (http://shop.oreilly.com/product/0636920028055.do)
@@ -412,6 +399,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2. I will also lis
 * [Localizing Your AngularJS Apps] (http://codingsmackdown.tv/blog/2013/04/23/localizing-your-angularjs-apps-update/)
 * [Internazionalization (i18n) with AngularJS] (http://blog.brunoscopelliti.com/internazionalization-i18n-with-angularjs)
 * [AngularJS And i18n] (https://coderwall.com/p/uyrtpq)
+* [Easy global i18n angularJS language translations for your Angular app] (http://www.ng-newsletter.com/posts/angular-translate.html)
 
 ## UI Stuff
 * [Angular UI suite (including some subprojects)](http://angular-ui.github.io/)
