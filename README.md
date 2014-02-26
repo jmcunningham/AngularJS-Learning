@@ -127,8 +127,6 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2. I will also lis
 * [Loading AngularJS Components After Your Application Has Been Bootstrapped] (http://www.bennadel.com/blog/2553-Loading-AngularJS-Components-After-Your-Application-Has-Been-Bootstrapped.htm)
 * [Load a module on demand with AngularJS] (http://blog.getelementsbyidea.com/load-a-module-on-demand-with-angularjs/)
 * [Environment Specific Configuration in AngularJS Using Grunt] (http://newtriks.com/2013/11/29/environment-specific-configuration-in-angularjs-using-grunt/)
-* [Creating a Slide Show Plugin With AngularJS](http://www.sitepoint.com/creating-slide-show-plugin-angularjs/)
-* [Wallop Slider in AngularJS](http://andyshora.com/wallop-slider-angularjs-css.html)
 * [What’s the Role of the Server in Single Page Applications (SPAs)?](http://weblogs.asp.net/dwahlin/archive/2014/02/18/what-s-the-role-of-the-server-in-single-page-applications-spas.aspx)
 
 ## Introductions/Beginning AngularJS (also look at the multipart articles)
@@ -387,6 +385,8 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2. I will also lis
 * [Unit Testing an AngularJS Directive] (http://blog.revolunet.com/blog/2013/12/05/unit-testing-angularjs-directive/)
 * [Protractor - Testing Angular and Non Angular Sites] (http://ng-learn.org/2014/02/Protractor_Testing_With_Angular_And_Non_Angular_Sites/)
 * [TDD Basics with Angular.js and Jasmine](http://www.slideshare.net/iquark/tdd-basics-with-angular-and-jasmine)
+* [Test Filters in AngularJS] (http://www.ecofic.com/about/blog/test-filters-in-angularjs)
+
 
 ## RESTful Stuff
 * [Using RESTful Controllers In An AngularJS Resource] (http://www.bennadel.com/blog/2433-Using-RESTful-Controllers-In-An-AngularJS-Resource.htm)
@@ -432,6 +432,11 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2. I will also lis
 * [Staggering Animations in AngularJS] (http://www.yearofmoo.com/2013/12/staggering-animations-in-angularjs.html)
 * [Build a Sweet Photo Slider with AngularJS Animate](http://onehungrymind.com/build-sweet-photo-slider-angularjs-animate/)
 * [Build a Sweet AngularJS Photo Slider Pt 2 with ngTouch] (http://onehungrymind.com/build-sweet-angularjs-photo-slider-pt-2-ngtouch/)
+* [Creating a Slide Show Plugin With AngularJS](http://www.sitepoint.com/creating-slide-show-plugin-angularjs/)
+* [Wallop Slider in AngularJS](http://andyshora.com/wallop-slider-angularjs-css.html)
+* [Easy Animations For AngularJS With Animate.css] (http://odetocode.com/blogs/scott/archive/2014/02/25/easy-animations-for-angularjs-with-animate-css.aspx)
+* [Conditionally Apply a CSS Class with AngularJS] (http://www.ecofic.com/about/blog/conditionally-apply-a-css-class-with-angularjs)
+
 
 
 ## Integration With Other Languages/Frameworks
