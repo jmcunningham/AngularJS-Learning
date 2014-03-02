@@ -390,6 +390,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2. I will also lis
 * [Protractor - Testing Angular and Non Angular Sites] (http://ng-learn.org/2014/02/Protractor_Testing_With_Angular_And_Non_Angular_Sites/)
 * [TDD Basics with Angular.js and Jasmine](http://www.slideshare.net/iquark/tdd-basics-with-angular-and-jasmine)
 * [Test Filters in AngularJS] (http://www.ecofic.com/about/blog/test-filters-in-angularjs)
+* [Creating an Eclipse UI to run AngularJS e2e tests using Karma](http://blog.diniscruz.com/2014/02/creating-eclipse-ui-to-run-angularjs.html?)
 
 
 ## RESTful Stuff
