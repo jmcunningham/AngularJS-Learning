@@ -5,12 +5,18 @@ Aqui encontram-se links para blog posts, artigos, vídeos, etc para aprender Ang
 
 Vamos tentar manter aqui conteúdo "real" (e não apenas pequenos parágrafos sem início/meio/fim).
 
-## Vídeos
+## Vídeo Tutoriais
 * [Introdução ao AngularJS] (https://www.youtube.com/watch?v=iCQ3qic_nGg)
 * [Tunando o browser com o AngularJS] (https://www.youtube.com/watch?v=Ph9hVLTmF2E)
+* [Iniciando com AngularJS - Implementando um carrinho de compras] (https://www.youtube.com/watch?v=aICbo3f5wzY)
+* [Iniciando com AngularJS - Data bindings] (https://www.youtube.com/watch?v=wZnoyGQV9hE)
+
+## Palestras
+* [Angular JS, você precisa conhecer] (https://www.youtube.com/watch?v=PbQn2AKsou0)
 * [Realtime com AngularJS e SocketIO] (https://www.youtube.com/watch?v=5zcmBZ6mksM)
 
 ## Melhores práticas
 * [Melhores práticas: iniciando uma aplicação AngularJS] (http://cironunes.github.io/angularjs-melhores-praticas-parte-I-bootstrap/)
 * [Melhores práticas: carregamento de scripts] (http://cironunes.github.io/angularjs-melhores-praticas-parte-II-carregamento/)
+* [AngularJs Design Patterns – Melhores práticas] (http://javascriptbrasil.com/2013/04/25/angularjs-design-patterns-melhores-praticas/)
 
