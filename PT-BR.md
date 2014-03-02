@@ -7,7 +7,7 @@ Vamos tentar manter aqui conteúdo "real" (e não apenas pequenos parágrafos se
 
 ## Vídeos
 * [Introdução ao AngularJS] (https://www.youtube.com/watch?v=iCQ3qic_nGg)
-* [Tunando o browse com o AngularJS] (https://www.youtube.com/watch?v=Ph9hVLTmF2E)
+* [Tunando o browser com o AngularJS] (https://www.youtube.com/watch?v=Ph9hVLTmF2E)
 * [Realtime com AngularJS e SocketIO] (https://www.youtube.com/watch?v=5zcmBZ6mksM)
 
 ## Melhores práticas
