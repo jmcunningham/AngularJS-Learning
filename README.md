@@ -129,6 +129,8 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2. I will also lis
 * [Environment Specific Configuration in AngularJS Using Grunt] (http://newtriks.com/2013/11/29/environment-specific-configuration-in-angularjs-using-grunt/)
 * [What’s the Role of the Server in Single Page Applications (SPAs)?](http://weblogs.asp.net/dwahlin/archive/2014/02/18/what-s-the-role-of-the-server-in-single-page-applications-spas.aspx)
 * [Making Angular.js realtime with Websockets](http://blog.pusher.com/making-angular-js-realtime-with-pusher/)
+* [Rich Object Models and Angular.js] (http://blog.shinetech.com/2014/02/04/rich-object-models-and-angular-js/)
+* [Rich Object Models and Angular: Identity Maps] (http://blog.shinetech.com/2014/02/28/rich-object-models-and-angular-identity-maps/)
 
 ## Introductions/Beginning AngularJS (also look at the multipart articles)
 * [Getting Started With AngularJS] (http://www.adobe.com/devnet/html5/articles/getting-started-with-angularjs.html)
@@ -393,6 +395,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2. I will also lis
 * [TDD Basics with Angular.js and Jasmine](http://www.slideshare.net/iquark/tdd-basics-with-angular-and-jasmine)
 * [Test Filters in AngularJS] (http://www.ecofic.com/about/blog/test-filters-in-angularjs)
 * [Creating an Eclipse UI to run AngularJS e2e tests using Karma](http://blog.diniscruz.com/2014/02/creating-eclipse-ui-to-run-angularjs.html?)
+* [AngularJS Unit Testing Series] (http://angular-tips.com/blog/2014/02/introduction-to-unit-test-toc/)
 
 
 ## RESTful Stuff
