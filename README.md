@@ -210,6 +210,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2. I will also lis
 * [A Tale of Frankenstein and Binding to Service Values in Angular.js] (http://stsc3000.github.io/blog/2013/10/26/a-tale-of-frankenstein-and-binding-to-service-values-in-angular-dot-js/)
 * [AngularJS Scopes: An Introduction] (http://blog.carbonfive.com/2014/02/11/angularjs-scopes-an-introduction/)
 * [Angle Brackets, Rifle Scopes] (http://blog.ponyfoo.com/2014/02/14/angle-brackets-rifle-scopes)
+* [Mastering the Scope of the Directives in AngularJS](http://www.undefinednull.com/2014/02/11/mastering-the-scope-of-a-directive-in-angularjs/)
 
 ## Dependency Injection
 * [The "Magic" behind AngularJS Dependency Injection] (http://www.alexrothenberg.com/2013/02/11/the-magic-behind-angularjs-dependency-injection.html)
