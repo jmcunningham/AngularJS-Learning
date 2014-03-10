@@ -131,6 +131,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2. I will also lis
 * [Making Angular.js realtime with Websockets](http://blog.pusher.com/making-angular-js-realtime-with-pusher/)
 * [Rich Object Models and Angular.js] (http://blog.shinetech.com/2014/02/04/rich-object-models-and-angular-js/)
 * [Rich Object Models and Angular: Identity Maps] (http://blog.shinetech.com/2014/02/28/rich-object-models-and-angular-identity-maps/)
+* [Interceptors in AngularJS and Useful Examples] (http://www.webdeveasy.com/interceptors-in-angularjs-and-useful-examples/)
 
 ## Introductions/Beginning AngularJS (also look at the multipart articles)
 * [Getting Started With AngularJS] (http://www.adobe.com/devnet/html5/articles/getting-started-with-angularjs.html)
