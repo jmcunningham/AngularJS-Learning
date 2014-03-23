@@ -364,7 +364,12 @@
 * [PhoneGap And AngularJS: Notification Service] (http://tech.pro/tutorial/1349/phonegap-and-angularjs-notification-service)
 * [Developing a mobile app with Phonegap, AngularJS and ExpressJS Part I] (http://abou-kone.com/2013/07/17/developing-a-mobile-app-with-phonegap-angularjs-and-expressjs-part-i/)
 
-## 編譯器/開發工具 Text editor bundles/IDE Stuff
+## 編譯器 Text editor bundles/IDE Stuff
 * [Sublime text 2 package](https://github.com/angular-ui/AngularJS-sublime-package)
 * [VIM UltiSnip & Snipmate Snippets for AngularJS](https://github.com/matthewsimo/angular-vim-snippets)
-* [Running JavaScript tests with Karma in WebStorm 7] (http://blog.jetbrains.com/webstorm/2013/10/running-javascript-tests-with-karma-in-webstorm-7/)
+* [Running JavaScript tests with Karma in WebStorm 7] (http://blog.jetbrains.com/webstorm/2013/10/running-javascript-tests-with-karma-in-webstorm-7/) 
+* [Visual Studio](http://www.microsoft.com/visualstudio)
+
+## 開發工具
+* [AngularJS Batarang Chrome 擴展](HTTPs://github.com/angular/angularjs-batarang)
+* [從JSON或者restful API生成JavaScript和HTML，使用AngularJS和JQuery](HTTP://spascaffold.azurewebsites.net/AngularJSScaffold)
