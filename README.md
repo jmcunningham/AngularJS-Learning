@@ -498,6 +498,8 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2. I will also lis
 * [Sublime text 2 package](https://github.com/angular-ui/AngularJS-sublime-package)
 * [VIM UltiSnip & Snipmate Snippets for AngularJS](https://github.com/matthewsimo/angular-vim-snippets)
 * [Running JavaScript tests with Karma in WebStorm 7] (http://blog.jetbrains.com/webstorm/2013/10/running-javascript-tests-with-karma-in-webstorm-7/)
+* [Visual Studio](http://www.microsoft.com/visualstudio)
 
 ## Development Tools
 * [AngularJS Batarang Chrome Extension](https://github.com/angular/angularjs-batarang)
+* [Scaffolding JSON or restful API to JavaScript and HTML using AngularJS and JQuery](http://spascaffold.azurewebsites.net/AngularJSScaffold)
