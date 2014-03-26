@@ -3,7 +3,7 @@ AngularJS-Learning
 
 A bunch of links to blog posts, articles, videos, etc for learning AngularJS. This list is in its early stages. Feel free to submit a pull request if you have some links/resources to add. Also, I try to verify that the articles below have some real content (i.e. aren't 2 paragraph blog posts with little information) to ensure I'm not listing "fluff" pieces. If you have an idea for a better way to organize these links, please let me know. As I find similar posts in the "General Topics" section, I will break them out into their own categories.
 
-NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2. I will also list them below in their own heading for now, since many of you will likely want to quickly see what is new in Angular 1.2. Once the dust settles, or the 1.2 section gets too big, I will remove it. But for now, the Angular 1.2 links can be found in two places.
+NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2. 
 
 ### Table of Contents
 [Books](#books)  
@@ -48,6 +48,9 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2. I will also lis
 * [ng-book] (http://www.ng-book.com/)
 * [Build Your Own AngularJS] (http://teropa.info/build-your-own-angular/)
 * [Dependency Injection with AngularJS](http://www.packtpub.com/dependency-injection-angularjs/book)
+* [Learning Web Development with Bootstrap and Angular: RAW] (http://www.packtpub.com/learning-web-development-with-bootstrap-and-angular/book)
+* [AngularJS Design Patterns] (http://www.packtpub.com/angularjs-design-patterns/book)
+* [AngularJS Web application development Blueprints : RAW] (http://www.packtpub.com/angularjs-web-application-development-blueprints/book)
 
 ## Videos
 * [Egghead.io](http://www.egghead.io/) — [source code](https://github.com/msfrisbie/egghead-angularjs)
@@ -215,6 +218,8 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2. I will also lis
 * [AngularJS Scopes: An Introduction] (http://blog.carbonfive.com/2014/02/11/angularjs-scopes-an-introduction/)
 * [Angle Brackets, Rifle Scopes] (http://blog.ponyfoo.com/2014/02/14/angle-brackets-rifle-scopes)
 * [Mastering the Scope of the Directives in AngularJS](http://www.undefinednull.com/2014/02/11/mastering-the-scope-of-a-directive-in-angularjs/)
+* [5 Guidelines For Avoiding Scope Soup in Angular] (http://www.technofattie.com/2014/03/21/five-guidelines-for-avoiding-scope-soup-in-angular.html)
+* [Speeding up AngularJS's $digest loop] (https://coderwall.com/p/d_aisq)
 
 ## Dependency Injection
 * [The "Magic" behind AngularJS Dependency Injection] (http://www.alexrothenberg.com/2013/02/11/the-magic-behind-angularjs-dependency-injection.html)
