@@ -349,6 +349,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2.
 * [Object Equivalency and Select Options in AngularJS ("Why Isn't the Correct Option Selected?")] (http://www.thoughtdelimited.org/thoughts/post.cfm/object-equivalency-and-select-options-in-angularjs-why-isn-t-the-correct-option-selected)
 * [Validation in angular.js ng-repeat](http://www.mikitamanko.com/blog/2014/02/11/validation-in-angular-js-ng-repeat/)
 * [Handling Checkboxes and Radio Buttons in Angular Forms] (http://scotch.io/tutorials/javascript/handling-checkboxes-and-radio-buttons-in-angular-forms)
+* [HTML Forms in AngularJS](http://www.sitepoint.com/html-forms-angularjs/)
 
 ## Authentication
 * [Deal with users authentication in an AngularJS web app] (http://blog.brunoscopelliti.com/deal-with-users-authentication-in-an-angularjs-web-app)
