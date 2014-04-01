@@ -79,6 +79,8 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2.
 
 * [Thinkster.io - A better way to learn AngularJS](http://www.thinkster.io/) - Free course on AngularJS
 * [Interactive AngularJS tutorials](http://ng-tutorial.mgechev.com/)
+* [AngularJS JumpStart with Dan Wahlin] (https://www.udemy.com/angularjs-jumpstart/?sl=E0EYdlw9RBMALEwzBwZX)
+* [Tuts+: Hands-on Angular] (https://tutsplus.com/course/hands-on-angular/)
 
 ## Help
 * [StackOverflow] (http://stackoverflow.com/questions/tagged/angularjs)
@@ -272,6 +274,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2.
 * [Angle Brackets, Synergistic Directives] (http://blog.ponyfoo.com/2014/02/19/angle-brackets-synergistic-directives)
 * [Transclusion in Angular] (http://engineering.nulogy.com/posts/transclusion-in-angular/)
 * [Designing AngularJS Directives] (http://engineering.nulogy.com/posts/designing-angularjs-directives/)
+* [How to integrate your UI Widgets with AngularJS] (http://blog.mobiscroll.com/how-to-integrate-your-ui-widgets-with-angularjs/)
 
 ## Services/Providers
 * [Angular service or factory?] (http://iffycan.blogspot.com/2013/05/angular-service-or-factory.html)
