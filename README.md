@@ -51,7 +51,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2.
 * [Learning Web Development with Bootstrap and Angular: RAW] (http://www.packtpub.com/learning-web-development-with-bootstrap-and-angular/book)
 * [AngularJS Design Patterns] (http://www.packtpub.com/angularjs-design-patterns/book)
 * [AngularJS Web application development Blueprints : RAW] (http://www.packtpub.com/angularjs-web-application-development-blueprints/book)
-* [Developing an AngularJS Edge](http://my.safaribooksonline.com/book/programming/javascript/9781939902009)
+* [Practical AngularJS](https://leanpub.com/Practical_AngularJS)
 
 ## Videos
 * [Egghead.io](http://www.egghead.io/) — [source code](https://github.com/msfrisbie/egghead-angularjs)
