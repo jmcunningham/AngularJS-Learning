@@ -35,6 +35,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2.
 [Popular Third-Party Modules](#popular-third-party-modules)  
 [Test Editor Bundles](#text-editor-bundleside-stuff)  
 [Development Tools](#development-tools)  
+[Boilerplates](#boilerplates)  
 
 ## Books
 * [AngularJS] (http://shop.oreilly.com/product/0636920028055.do)
