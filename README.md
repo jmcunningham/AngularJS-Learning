@@ -513,3 +513,6 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2.
 ## Development Tools
 * [AngularJS Batarang Chrome Extension](https://github.com/angular/angularjs-batarang)
 * [Scaffolding JSON or restful API to JavaScript and HTML using AngularJS and JQuery](http://spascaffold.azurewebsites.net/AngularJSScaffold)
+
+## Boilerplates
+* [KOAN Stack (Koa, Angular, Node, Mongo, WebSockets)](https://github.com/soygul/koan)
