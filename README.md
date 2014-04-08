@@ -278,6 +278,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2.
 * [Transclusion in Angular] (http://engineering.nulogy.com/posts/transclusion-in-angular/)
 * [Designing AngularJS Directives] (http://engineering.nulogy.com/posts/designing-angularjs-directives/)
 * [How to integrate your UI Widgets with AngularJS] (http://blog.mobiscroll.com/how-to-integrate-your-ui-widgets-with-angularjs/)
+* [Writing More Maintainable Angular.js Directives] (http://www.codelord.net/2014/03/30/writing-more-maintainable-angular-dot-js-directives/)
 
 ## Services/Providers
 * [Angular service or factory?] (http://iffycan.blogspot.com/2013/05/angular-service-or-factory.html)
@@ -307,6 +308,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2.
 * [AngularJS: Timing Multiple $resource Resolves in ngRoute and ui-router] (http://phillippuleo.com/articles/angularjs-timing-multiple-resource-resolves-ngroute-and-ui-router)
 * [Advanced routing and resolves] (https://medium.com/opinionated-angularjs/a2fcbf874a1c)
 * [AngularJS Routing Using UI-Router] (http://scotch.io/tutorials/javascript/angular-routing-using-ui-router)
+* [Extending Dynamic View Loading for CRUD actions in AngularJS] (http://circuitbomb.com/anjularjs-extending-dynamic-view-loading-crud-actions/)
 
 ## Promises/Deferred
 * [Enhancing Angular Promises: Returning new promise of field or method called from original promise’s result] (http://www.blogeek.com.ar/2013/05/02/enhancing-angular-promises-returning-new-promise-of-field-or-method-called-from-original-promises-result/)
@@ -414,6 +416,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2.
 * [Test Filters in AngularJS] (http://www.ecofic.com/about/blog/test-filters-in-angularjs)
 * [Creating an Eclipse UI to run AngularJS e2e tests using Karma](http://blog.diniscruz.com/2014/02/creating-eclipse-ui-to-run-angularjs.html?)
 * [AngularJS Unit Testing Series] (http://angular-tips.com/blog/2014/02/introduction-to-unit-test-toc/)
+* [A Tip for Angular Unit Tests with Promises] (http://brianmcd.com/2014/03/27/a-tip-for-angular-unit-tests-with-promises.html)
 
 
 ## RESTful Stuff
