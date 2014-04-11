@@ -141,6 +141,8 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2.
 * [Rich Object Models and Angular: Identity Maps] (http://blog.shinetech.com/2014/02/28/rich-object-models-and-angular-identity-maps/)
 * [Interceptors in AngularJS and Useful Examples] (http://www.webdeveasy.com/interceptors-in-angularjs-and-useful-examples/)
 * ['Resolve' in AngularJS Routes, Explained as Story](http://www.undefinednull.com/2014/02/17/resolve-in-angularjs-routes-explained-as-story/)
+* [Get Your Hands Dirty Refactoring in AngularJS] (http://blog.safaribooksonline.com/2014/04/08/refactoring-angularjs-get-hands-filthy/)
+* [Angular model objects with JavaScript classes] (https://medium.com/opinionated-angularjs/2e6a067c73bc)
 
 ## Introductions/Beginning AngularJS (also look at the multipart articles)
 * [Getting Started With AngularJS] (http://www.adobe.com/devnet/html5/articles/getting-started-with-angularjs.html)
