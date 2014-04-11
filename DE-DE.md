@@ -21,3 +21,4 @@ AngularJS.
 * [ng-repeat: Der Teufel im Schafspelz](http://angularjs.de/artikel/angularjs-ng-repeat)
 * [I18n in AngularJS Anwendungen einfach gemacht](http://angularjs.de/artikel/angularjs-i18n-ng-translate)
 * [angular-translate - i18n für Angular Apps](http://www.neoskop.de/blog/angular-translate)
+* [Webanwendungen mit AngularJS] (http://www.heise.de/developer/artikel/Webanwendungen-mit-AngularJS-1955101.html)
