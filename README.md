@@ -174,6 +174,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2.
 * [AngularJS tips and tricks for neophytes and the all-around curious developer.] (http://www.bytesforthought.com/angularjs-tips/)
 * [4 Smooth AngularJS Application Tips] (http://nathanleclaire.com/blog/2014/01/04/5-smooth-angularjs-application-tips/)
 * [AngularJS tips and tricks for neophytes and the all-around curious developer] (http://www.bytesforthought.com/angularjs-tips/)
+* [Get Your Hands Dirty Refactoring in AngularJS] (http://blog.safaribooksonline.com/2014/04/08/refactoring-angularjs-get-hands-filthy/)
 
 ## Multipart Articles
 * Getting Started with elasticsearch and AngularJS: [Part1 - Searching] (http://www.fullscale.co/blog/2013/02/28/getting_started_with_elasticsearch_and_AngularJS_searching.html), [Part 2: Faceting] (http://www.fullscale.co/blog/2013/03/07/getting_started_with_elasticsearch_and-AngularJS_faceting.html), [Part 3: Visualization] (http://www.fullscale.co/blog/2013/03/20/getting_started_with_elasticsearch_and_AngularJS_d3.html)
@@ -419,6 +420,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2.
 * [Creating an Eclipse UI to run AngularJS e2e tests using Karma](http://blog.diniscruz.com/2014/02/creating-eclipse-ui-to-run-angularjs.html?)
 * [AngularJS Unit Testing Series] (http://angular-tips.com/blog/2014/02/introduction-to-unit-test-toc/)
 * [A Tip for Angular Unit Tests with Promises] (http://brianmcd.com/2014/03/27/a-tip-for-angular-unit-tests-with-promises.html)
+* [Writing Tests and Stomping Bugs in AngularJS] (http://blog.safaribooksonline.com/2014/04/01/writing-tests-stomping-bugs-angularjs/)
 
 
 ## RESTful Stuff
