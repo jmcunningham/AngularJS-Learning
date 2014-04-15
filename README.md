@@ -361,6 +361,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2.
 * [Validation in angular.js ng-repeat](http://www.mikitamanko.com/blog/2014/02/11/validation-in-angular-js-ng-repeat/)
 * [Handling Checkboxes and Radio Buttons in Angular Forms] (http://scotch.io/tutorials/javascript/handling-checkboxes-and-radio-buttons-in-angular-forms)
 * [HTML Forms in AngularJS](http://www.sitepoint.com/html-forms-angularjs/)
+* [Common Problems (And Solutions) When Using Select Elements With Angular.JS](http://gurustop.net/blog/2014/01/28/common-problems-and-solutions-when-using-select-elements-with-angular-js-ng-options-initial-selection/)
 
 ## Authentication
 * [Deal with users authentication in an AngularJS web app] (http://blog.brunoscopelliti.com/deal-with-users-authentication-in-an-angularjs-web-app)
