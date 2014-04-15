@@ -421,6 +421,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2.
 * [AngularJS Unit Testing Series] (http://angular-tips.com/blog/2014/02/introduction-to-unit-test-toc/)
 * [A Tip for Angular Unit Tests with Promises] (http://brianmcd.com/2014/03/27/a-tip-for-angular-unit-tests-with-promises.html)
 * [Writing Tests and Stomping Bugs in AngularJS] (http://blog.safaribooksonline.com/2014/04/01/writing-tests-stomping-bugs-angularjs/)
+* [Unit Testing Services in AngularJS for Fun and for Profit] (http://nathanleclaire.com/blog/2014/04/12/unit-testing-services-in-angularjs-for-fun-and-for-profit/)
 
 
 ## RESTful Stuff
