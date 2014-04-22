@@ -175,6 +175,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2.
 * [4 Smooth AngularJS Application Tips] (http://nathanleclaire.com/blog/2014/01/04/5-smooth-angularjs-application-tips/)
 * [AngularJS tips and tricks for neophytes and the all-around curious developer] (http://www.bytesforthought.com/angularjs-tips/)
 * [Get Your Hands Dirty Refactoring in AngularJS] (http://blog.safaribooksonline.com/2014/04/08/refactoring-angularjs-get-hands-filthy/)
+* [5 AngularJS Antipatterns & Pitfalls] (http://nathanleclaire.com/blog/2014/04/19/5-angularjs-antipatterns-and-pitfalls/)
 
 ## Multipart Articles
 * Getting Started with elasticsearch and AngularJS: [Part1 - Searching] (http://www.fullscale.co/blog/2013/02/28/getting_started_with_elasticsearch_and_AngularJS_searching.html), [Part 2: Faceting] (http://www.fullscale.co/blog/2013/03/07/getting_started_with_elasticsearch_and-AngularJS_faceting.html), [Part 3: Visualization] (http://www.fullscale.co/blog/2013/03/20/getting_started_with_elasticsearch_and_AngularJS_d3.html)
@@ -380,6 +381,8 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2.
 * [Grouping Nested ngRepeat Lists In AngularJS] (http://www.bennadel.com/blog/2456-Grouping-Nested-ngRepeat-Lists-In-AngularJS.htm)
 * [Using ngController With ngRepeat In AngularJS] (http://www.bennadel.com/blog/2450-Using-ngController-With-ngRepeat-In-AngularJS.htm)
 * [Rendering DOM Elements With ngRepeat In AngularJS] (http://www.bennadel.com/blog/2443-Rendering-DOM-Elements-With-ngRepeat-In-AngularJS.htm)
+* [Improving ng-repeat Performance with “track by”] (http://www.codelord.net/2014/04/15/improving-ng-repeat-performance-with-track-by/)
+
 
 ## Code Organization
 * [Building Huuuuuge Apps with AngularJS] (http://briantford.com/blog/huuuuuge-angular-apps.html)
@@ -474,6 +477,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2.
 * [Wallop Slider in AngularJS](http://andyshora.com/wallop-slider-angularjs-css.html)
 * [Easy Animations For AngularJS With Animate.css] (http://odetocode.com/blogs/scott/archive/2014/02/25/easy-animations-for-angularjs-with-animate-css.aspx)
 * [Conditionally Apply a CSS Class with AngularJS] (http://www.ecofic.com/about/blog/conditionally-apply-a-css-class-with-angularjs)
+* [Animating AngularJS Apps: ngView] (http://scotch.io/tutorials/javascript/animating-angularjs-apps-ngview)
 
 
 
