@@ -325,6 +325,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2.
 * [Show route only after all promises are resolved] (http://blog.brunoscopelliti.com/show-route-only-after-all-promises-are-resolved)
 * [The AngularJs Promise Anti-Pattern That Makes Me Cry] (http://terussell85.github.io/blog/2013/12/23/the-angularjs-promise-anti-pattern-that-makes-me-cry/)
 * [Promises & Design Patterns in AngularJS](http://blog.xebia.com/2014/02/23/promises-and-design-patterns-in-angularjs/)
+* [Canceling $http Requests in AngularJS] (http://odetocode.com/blogs/scott/archive/2014/04/24/canceling-http-requests-in-angularjs.aspx)
 
 ## Forms
 * [Form Validation the AngularJS Way] (http://blog.brunoscopelliti.com/form-validation-the-angularjs-way)
@@ -428,6 +429,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2.
 * [A Tip for Angular Unit Tests with Promises] (http://brianmcd.com/2014/03/27/a-tip-for-angular-unit-tests-with-promises.html)
 * [Writing Tests and Stomping Bugs in AngularJS] (http://blog.safaribooksonline.com/2014/04/01/writing-tests-stomping-bugs-angularjs/)
 * [Unit Testing Services in AngularJS for Fun and for Profit] (http://nathanleclaire.com/blog/2014/04/12/unit-testing-services-in-angularjs-for-fun-and-for-profit/)
+* [Getting Started With Protractor And Page Objects For AngularJS E2E Testing] (http://gaslight.co/blog/getting-started-with-protractor-and-page-objects-for-angularjs-e2e-testing)
 
 
 ## RESTful Stuff
