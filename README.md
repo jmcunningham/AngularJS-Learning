@@ -299,7 +299,8 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2.
 * [AngularJS Service / Factory Tutorial With Example] (http://viralpatel.net/blogs/angularjs-service-factory-tutorial/)
 * [Service Providers in AngularJS and Logger Implementation] (http://www.webdeveasy.com/service-providers-in-angularjs-and-logger-implementation/)
 * [Object-oriented AngularJS Services] (http://blog.revolunet.com/blog/2014/02/14/angularjs-services-inheritance/)
-* [Service Providers in AngularJS and Logger Implementation](http://www.webdeveasy.com/service-providers-in-angularjs-and-logger-implementation/) 
+* [Service Providers in AngularJS and Logger Implementation] (http://www.webdeveasy.com/service-providers-in-angularjs-and-logger-implementation/) 
+* [AngularJS: Factory vs Service vs Provider] (http://tylermcginnis.com/angularjs-factory-vs-service-vs-provider/)
 
 ## Routing
 * [How to defer route definition in an AngularJS web app] (http://blog.brunoscopelliti.com/how-to-defer-route-definition-in-an-angularjs-web-app)
