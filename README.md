@@ -173,7 +173,6 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2.
 * [How to build a large Angular.js application] (https://gocardless.com/blog/building-a-large-angular-application/)
 * [AngularJS tips and tricks for neophytes and the all-around curious developer.] (http://www.bytesforthought.com/angularjs-tips/)
 * [4 Smooth AngularJS Application Tips] (http://nathanleclaire.com/blog/2014/01/04/5-smooth-angularjs-application-tips/)
-* [AngularJS tips and tricks for neophytes and the all-around curious developer] (http://www.bytesforthought.com/angularjs-tips/)
 * [Get Your Hands Dirty Refactoring in AngularJS] (http://blog.safaribooksonline.com/2014/04/08/refactoring-angularjs-get-hands-filthy/)
 * [5 AngularJS Antipatterns & Pitfalls] (http://nathanleclaire.com/blog/2014/04/19/5-angularjs-antipatterns-and-pitfalls/)
 
