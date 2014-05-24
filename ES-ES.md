@@ -14,7 +14,7 @@ Los temas se organizarán por categorías (vídeo, libro...). Si crees que hay u
     * - [Un vistazo a ASP.NET Web API](http://youtu.be/gYNV9Couw0I)
     * - [Un vistazo a AngularJS](http://youtu.be/ROFYPESiWpY)
 
-## Conceptors generales
+## Conceptos generales
 
 * [Servicios, Inyección de Dependencias y Módulos](http://blog.koalite.com/2013/05/angularjs-servicios-inyeccion-de-dependencias-y-modulos/)
 * [Directivas y Filtros](http://blog.koalite.com/2013/06/angularjs-directivas-y-filtros/)
