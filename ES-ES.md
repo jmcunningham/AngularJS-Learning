@@ -21,3 +21,6 @@ Los temas se organizarán por categorías (vídeo, libro, ...). Si crees que hay
 * [Conceptos Básicos](http://blog.koalite.com/2013/05/angularjs-conceptos-basicos/)
 * [Tests Unitarios y de Extremo a Extremo](http://blog.koalite.com/2013/06/angularjs-tests-unitarios-y-de-extremo-a-extremo/)
 * [Flujo de trabajo: Yo, Bower, Grunt](https://github.com/jacarma/ngpro/wiki)
+* [Ejemplos básicos](http://chuwiki.chuidiang.org/index.php?title=Ejemplos_Basicos_con_AngularJS)
+* [Directivas](http://chuwiki.chuidiang.org/index.php?title=Directivas_con_AngularJS)
+* [Comunicación con el servidor](http://chuwiki.chuidiang.org/index.php?title=Comunicar_AngularJS_con_el_Servidor)
