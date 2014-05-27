@@ -371,6 +371,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2.
 * [HTML Forms in AngularJS](http://www.sitepoint.com/html-forms-angularjs/)
 * [Common Problems (And Solutions) When Using Select Elements With Angular.JS](http://gurustop.net/blog/2014/01/28/common-problems-and-solutions-when-using-select-elements-with-angular-js-ng-options-initial-selection/)
 * [Using CSRF protection with Express and AngularJS](http://www.mircozeiss.com/using-csrf-with-express-and-angular/)
+* ["Add more element" form with Angular](http://blog.chorip.am/articles/add-more-form-style-the-nice-way-with-angularjs/)
 
 ## Authentication
 * [Deal with users authentication in an AngularJS web app] (http://blog.brunoscopelliti.com/deal-with-users-authentication-in-an-angularjs-web-app)
