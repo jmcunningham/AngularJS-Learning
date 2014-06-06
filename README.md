@@ -169,6 +169,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2.
 * [Environment Specific Configuration in AngularJS Using Grunt] (http://newtriks.com/2013/11/29/environment-specific-configuration-in-angularjs-using-grunt/)
 * [Enhancing AngularJS Logging using Decorators](http://solutionoptimist.com/2013/10/07/enhance-angularjs-logging-using-decorators/)
 * [Picking Up Angular, build a twitter-like application](https://github.com/deontologician/pipr/blob/master/tut.org)
+* [Exception Handling in an AngularJS Web Application] (http://blog.loadimpact.com/2014/06/03/exception-handling-in-an-angularjs-web-application-tutorial/)
 
 ## Lessons Learned
 * [Lessons Learned: A Year with a Large AngularJS Project] (http://joelhooks.com/blog/2013/05/22/lessons-learned-kicking-off-an-angularjs-project/)
@@ -490,7 +491,8 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2.
 * [Easy Animations For AngularJS With Animate.css] (http://odetocode.com/blogs/scott/archive/2014/02/25/easy-animations-for-angularjs-with-animate-css.aspx)
 * [Conditionally Apply a CSS Class with AngularJS] (http://www.ecofic.com/about/blog/conditionally-apply-a-css-class-with-angularjs)
 * [Animating AngularJS Apps: ngView] (http://scotch.io/tutorials/javascript/animating-angularjs-apps-ngview)
-* [Creating Asynchronous Alerts, Prompts, And Confirms In AngularJS] (http://www.bennadel.com/blog/2632-creating-asynchronous-alerts-prompts-and-confirms-in-angularjs.htm)
+* [Creating Asynchronous Alerts, Prompts, And Confirms In AngularJS] (http://www.bennadel.com/blog/2632-creating-asynchronous-alerts-prompts-and-confirms-in-angularjs.htm
+* [Build an animated AngularJS website] (http://www.creativebloq.com/javascript/build-animated-angularjs-website-61411891)
 
 
 
