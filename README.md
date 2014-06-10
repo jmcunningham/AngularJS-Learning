@@ -455,6 +455,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2.
 * [Internazionalization (i18n) with AngularJS] (http://blog.brunoscopelliti.com/internazionalization-i18n-with-angularjs)
 * [AngularJS And i18n] (https://coderwall.com/p/uyrtpq)
 * [Easy global i18n angularJS language translations for your Angular app] (http://www.ng-newsletter.com/posts/angular-translate.html)
+* [INTERNATIONALIZATION WITH ANGULARJS](http://blog.trifork.com/2014/04/10/internationalization-with-angularjs/)
 
 ## UI Stuff
 * [Angular UI suite (including some subprojects)](http://angular-ui.github.io/)
