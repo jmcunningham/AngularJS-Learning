@@ -21,4 +21,10 @@ AngularJS.
 * [ng-repeat: Der Teufel im Schafspelz](http://angularjs.de/artikel/angularjs-ng-repeat)
 * [I18n in AngularJS Anwendungen einfach gemacht](http://angularjs.de/artikel/angularjs-i18n-ng-translate)
 * [angular-translate - i18n für Angular Apps](http://www.neoskop.de/blog/angular-translate)
-* [Webanwendungen mit AngularJS] (http://www.heise.de/developer/artikel/Webanwendungen-mit-AngularJS-1955101.html)
+* [Webanwendungen mit AngularJS](http://www.heise.de/developer/artikel/Webanwendungen-mit-AngularJS-1955101.html)
+* [AngularJS Tutorial - AngularJS in 1 Tag lernen](http://www.flyacts.com/blog/angularjs-tutorial-angularjs-in-1-tag-lernen/)
+* [AngularJS - Schnelleinstieg](http://regenrek.at/blog/angularjs-schnelleinstieg-deutsch/)
+
+## Twitter
+
+* [AngularJS Germany - @angularjs_de](https://twitter.com/angularjs_de)
