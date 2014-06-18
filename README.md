@@ -148,6 +148,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2.
 * [How to use ngMessages in AngularJS] (http://www.yearofmoo.com/2014/05/how-to-use-ngmessages-in-angularjs.html)
 * [Digging into Angular’s “Controller as” syntax] (http://toddmotto.com/digging-into-angulars-controller-as-syntax/)
 * [Everything about custom filters in AngularJS](http://toddmotto.com/everything-about-custom-filters-in-angular-js/)
+* [Frictionless data preloading in AngularJS](http://www.garbl.es/angularjs/preload/2014/06/07/frictionless-data-preloading-in-angularjs/)
 
 ## Introductions/Beginning AngularJS (also look at the multipart articles)
 * [Getting Started With AngularJS] (http://www.adobe.com/devnet/html5/articles/getting-started-with-angularjs.html)
