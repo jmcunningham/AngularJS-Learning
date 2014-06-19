@@ -151,6 +151,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2.
 * [Digging into Angular’s “Controller as” syntax] (http://toddmotto.com/digging-into-angulars-controller-as-syntax/)
 * [Everything about custom filters in AngularJS](http://toddmotto.com/everything-about-custom-filters-in-angular-js/)
 * [Understanding Angular’s $scope and $rootScope event system $emit, $broadcast and $on ](http://toddmotto.com/all-about-angulars-emit-broadcast-on-publish-subscribing/)
+* [Frictionless data preloading in AngularJS](http://www.garbl.es/angularjs/preload/2014/06/07/frictionless-data-preloading-in-angularjs/)
 
 ## Introductions/Beginning AngularJS (also look at the multipart articles)
 * [Getting Started With AngularJS] (http://www.adobe.com/devnet/html5/articles/getting-started-with-angularjs.html)
