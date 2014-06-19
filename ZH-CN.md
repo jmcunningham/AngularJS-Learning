@@ -47,13 +47,13 @@ AngularJS
 ## Angular 1.2 的新功能
 * [**AngularJS 1.2 & Beyond] (http://www.youtube.com/watch?v=W13qDdJDHp8&feature=youtu.be)
 * [**Error Message Minification with MinErr] (http://kensheedlo.com/2013/08/15/error-message-minification-with-minerr.html)
-* [**AngularJS Routing Changes] (http://weblogs.asp.net/dwahlin/archive/2013/08/14/angularjs-routing-changes.aspx)
-* [**AngularJS Missing Directives: Focus & Blur] (http://blog.jasoncust.com/2013/08/angularjs-missing-directives-focus-blur_14.html)
+* [**AngularJS路由的变化] (http://weblogs.asp.net/dwahlin/archive/2013/08/14/angularjs-routing-changes.aspx)
+* [**AngularJS缺失的指令: Focus & Blur] (http://blog.jasoncust.com/2013/08/angularjs-missing-directives-focus-blur_14.html)
 * [**Remastered Animation in AngularJS 1.2] (http://www.yearofmoo.com/2013/08/remastered-animation-in-angularjs-1-2.html)
 * [**Preparing for Animations in Angular 1.2.0] (http://www.johnpapa.net/preparing-for-animations-in-angular-1-2-0/)
-* [**5 Cool New Features in AngularJS 1.2] (http://www.neevtech.com/blog/2013/08/17/5-cool-features-in-angularjs-1-2/)
-* [**Replacing jQuery.slideDown() with ngAnimate in AngularJS 1.2.0] (https://www.exratione.com/2013/09/replacing-jqueryslidedown-with-nganimate-in-angularjs-120/)
-* [**Getting Ready for AngularJS 1.2] (http://wildermuth.com/2013/9/18/Getting_Ready_for_AngularJS_1_2)
+* [**AngularJS 1.2中的5个超酷新特性] (http://www.neevtech.com/blog/2013/08/17/5-cool-features-in-angularjs-1-2/)
+* [**在AngularJS 1.2.0中使用ngAnimate替代jQuery.slideDown()] (https://www.exratione.com/2013/09/replacing-jqueryslidedown-with-nganimate-in-angularjs-120/)
+* [**为AngularJS 1.2做好准备] (http://wildermuth.com/2013/9/18/Getting_Ready_for_AngularJS_1_2)
 
 ## 书籍 Books
 * [AngularJS] (http://shop.oreilly.com/product/0636920028055.do)
