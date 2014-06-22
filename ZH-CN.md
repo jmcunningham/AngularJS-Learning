@@ -89,6 +89,11 @@ AngularJS
 * [用 AngularJS 和 Firebase 开发实时程序] (http://www.youtube.com/watch?v=C7ZI7z7qnHU)
 * [MongoDB 和 AngularJS， MEAN 堆](https://www.youtube.com/watch?v=XwSFg8nqBFA)
 * [AngularJS, EmberJS 和 KnockoutJS 双向绑定的比较](http://www.youtube.com/watch?v=mVjpwia1YN4)
+* [Angular最佳实践](http://pluralsight.com/training/courses/TableOfContents?courseName=angular-best-practices&highlight=) - 64 videos(paid)
+* [Neosavvy的 Angular & Jasmine 视频系列](http://www.youtube.com/channel/UCdaEMffiYgTf_E7uTMxM4og/videos) - 16 videos of about 2-3 minutes each
+* [AngularJS 视频集合](http://www.youtube.com/channel/UCNhQ8pYS9U1EbwCx42NKaYQ) — Collection of Videos from Various websites.
+* [ng-conf YouTube 页面](http://www.youtube.com/user/ngconfvideos) — YouTube channel with all the presentations given at the Angular Conference in January 2014.
+* [通过50个例子学习 Angular.js  (第1部分)] (https://www.youtube.com/watch?v=TRrL5j3MIvo&feature=youtu.be)
 
 ## 在线课程 Courses
 
