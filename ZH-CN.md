@@ -98,6 +98,12 @@ AngularJS
 ## 在线课程 Courses
 
 * [Thinkster.io - 学习 AngularJS 更好的方法](http://www.thinkster.io/) - 免費的線上 AngularJS 課程 
+* [AngularJS互动教程](http://ng-tutorial.mgechev.com/)
+* [和Dan Wahlin一起学习AngularJS] (https://www.udemy.com/angularjs-jumpstart/?sl=E0EYdlw9RBMALEwzBwZX)
+* [Tuts+: 开始使用 Angular] (https://tutsplus.com/course/hands-on-angular/)
+* [Code School Shaping Up with Angular.js](https://www.codeschool.com/courses/shaping-up-with-angular-js)
+* [Lynda Up and Running with AngularJS](http://www.lynda.com/AngularJS-tutorials/Up-Running-AngularJS/154414-2.html)
+* [Codecademy AngularJs](http://www.codecademy.com/courses/javascript-advanced-en-2hJ3J/0/1)
 
 ## 帮助 Help
 * [StackOverflow] (http://stackoverflow.com/questions/tagged/angularjs)
