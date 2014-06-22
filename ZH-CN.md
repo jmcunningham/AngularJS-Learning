@@ -65,6 +65,12 @@ AngularJS
 * [发现自己的 AngularJS 优势] (http://bleedingedgepress.com/our-books/developing-an-angularjs-edge/)
 * [AngularJS Directives] (http://www.packtpub.com/angularjs-directives/book)
 * [ng-book] (http://www.ng-book.com/)
+* [打造你的AngularJS] (http://teropa.info/build-your-own-angular/)
+* [AngularJS依赖注入](http://www.packtpub.com/dependency-injection-angularjs/book)
+* [通过Bootstrap和AngularJS学习Web开发] (http://www.packtpub.com/learning-web-development-with-bootstrap-and-angular/book)
+* [AngularJS 设计模式] (http://www.packtpub.com/angularjs-design-patterns/book)
+* [AngularJS 网路应用开发蓝图] (http://www.packtpub.com/angularjs-web-application-development-blueprints/book)
+* [实用 AngularJS](https://leanpub.com/Practical_AngularJS)
 
 ## 影片 Videos
 * [Egghead.io](http://www.egghead.io/) — 44 videos of about 4 minutes each — [source code](https://github.com/msfrisbie/egghead-angularjs)
