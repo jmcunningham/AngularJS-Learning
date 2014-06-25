@@ -527,6 +527,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2.
 * [AngularJS Tutorial: Learn to Rapidly Build Real-time Web Apps with Firebase](http://www.thinkster.io/pick/eHPCs7s87O/angularjs-tutorial-learn-to-rapidly-build-real-time-web-apps-with-firebase)
 * [Using AngularJS with Django](http://glynjackson.org/weblog/entry/django-angular.html)
 * [Using AngularJS/Bootstrap as frontend and CakePHP as REST API producer](https://github.com/hantsy/angularjs-cakephp-sample/wiki)
+* [Laravel 4 & AngularJS E2E secured SPA](http://blog.neoxia.com/laravel4-and-angularjs/)
 
 ## Hosted Backends
 * [Parse.com boilerplate for building large, complex AngularJS apps](http://brandid.github.io/parse-angular-demo/#/features)
