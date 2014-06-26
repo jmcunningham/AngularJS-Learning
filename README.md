@@ -531,7 +531,9 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2.
 * [Using AngularJS with Django](http://glynjackson.org/weblog/entry/django-angular.html)
 * [Using AngularJS/Bootstrap as frontend and CakePHP as REST API producer](https://github.com/hantsy/angularjs-cakephp-sample/wiki)
 * [Creating Charting Directives Using AngularJS and D3.js](http://www.sitepoint.com/creating-charting-directives-using-angularjs-d3-js/)
+* [Laravel 4 & AngularJS E2E secured SPA](http://blog.neoxia.com/laravel4-and-angularjs/)
 
+ 
 ## Hosted Backends
 * [Parse.com boilerplate for building large, complex AngularJS apps](http://brandid.github.io/parse-angular-demo/#/features)
 * [Realtime database for your Angular app with Firebase] (https://github.com/firebase/angularFire)
