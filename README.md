@@ -53,6 +53,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2.
 * [AngularJS Design Patterns] (http://www.packtpub.com/angularjs-design-patterns/book)
 * [AngularJS Web application development Blueprints : RAW] (http://www.packtpub.com/angularjs-web-application-development-blueprints/book)
 * [Practical AngularJS](https://leanpub.com/Practical_AngularJS)
+* [AngularJS UI Development](http://www.packtpub.com/angularjs-ui-development/book)
 
 ## Videos
 * [Egghead.io](http://www.egghead.io/) — [source code](https://github.com/msfrisbie/egghead-angularjs)
