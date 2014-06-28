@@ -55,6 +55,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2.
 * [Practical AngularJS](https://leanpub.com/Practical_AngularJS)
 * [AngularJS UI Development](http://www.packtpub.com/angularjs-ui-development/book)
 * [D3 on AngularJS](https://leanpub.com/d3angularjs)
+* [Mastering AngularJS Directives](http://www.packtpub.com/mastering-angularjs-directives/book)
 
 ## Videos
 * [Egghead.io](http://www.egghead.io/) — [source code](https://github.com/msfrisbie/egghead-angularjs)
