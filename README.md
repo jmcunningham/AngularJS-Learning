@@ -385,6 +385,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2.
 * [Using CSRF protection with Express and AngularJS](http://www.mircozeiss.com/using-csrf-with-express-and-angular/)
 * ["Add more element" form with Angular](http://blog.chorip.am/articles/add-more-form-style-the-nice-way-with-angularjs/)
 * [AngularJS Multi-Step Form Using UI Router](http://scotch.io/tutorials/javascript/angularjs-multi-step-form-using-ui-router)
+* [Building Dynamic Angular Forms with ngRepeat and ngForm](http://scotch.io/tutorials/javascript/building-dynamic-angular-forms-with-ngrepeat-and-ngform)
 
 ## Authentication
 * [Deal with users authentication in an AngularJS web app] (http://blog.brunoscopelliti.com/deal-with-users-authentication-in-an-angularjs-web-app)
