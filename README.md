@@ -149,6 +149,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2.
 * [Understanding Angular’s $scope and $rootScope event system $emit, $broadcast and $on ](http://toddmotto.com/all-about-angulars-emit-broadcast-on-publish-subscribing/)
 * [Frictionless data preloading in AngularJS](http://www.garbl.es/angularjs/preload/2014/06/07/frictionless-data-preloading-in-angularjs/)
 * [Minimal Angular module/syntax approach using an IIFE](http://toddmotto.com/minimal-angular-module-syntax-approach-using-an-iife/)
+* [AngularJS & SEO - finally a piece of cake](https://weluse.de/blog/angularjs-seo-finally-a-piece-of-cake.html)
 
 ## Introductions/Beginning AngularJS (also look at the multipart articles)
 * [Getting Started With AngularJS] (http://www.adobe.com/devnet/html5/articles/getting-started-with-angularjs.html)
