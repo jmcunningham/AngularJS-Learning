@@ -242,6 +242,11 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2.
 * [Mastering the Scope of the Directives in AngularJS](http://www.undefinednull.com/2014/02/11/mastering-the-scope-of-a-directive-in-angularjs/)
 * [5 Guidelines For Avoiding Scope Soup in Angular] (http://www.technofattie.com/2014/03/21/five-guidelines-for-avoiding-scope-soup-in-angular.html)
 * [Speeding up AngularJS's $digest loop] (https://coderwall.com/p/d_aisq)
+* [Using Scope.$watch() To Watch Functions In AngularJS] (http://www.bennadel.com/blog/2658-using-scope-watch-to-watch-functions-in-angularjs.htm)
+* [Looking At $compile() And MaxPriority In AngularJS] (http://www.bennadel.com/blog/2651-looking-at-compile-and-maxpriority-in-angularjs.htm)
+* [Workflow Differences Between $scope.$watch() and Attributes.$observe() In AngularJS]  (http://www.bennadel.com/blog/2631-workflow-differences-between-scope-watch-and-attributes-observe-in-angularjs.htm)
+* [Looking At How scope.$evalAsync() Affects Performance In AngularJS Directives] (http://www.bennadel.com/blog/2635-looking-at-how-scope-evalasync-affects-performance-in-angularjs-directives.htm)
+* [$scope.$evalAsync() vs. $timeout() In AngularJS] (http://www.bennadel.com/blog/2605-scope-evalasync-vs-timeout-in-angularjs.htm)
 
 ## Dependency Injection
 * [The "Magic" behind AngularJS Dependency Injection] (http://www.alexrothenberg.com/2013/02/11/the-magic-behind-angularjs-dependency-injection.html)
@@ -298,6 +303,9 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2.
 * [Writing More Maintainable Angular.js Directives] (http://www.codelord.net/2014/03/30/writing-more-maintainable-angular-dot-js-directives/)
 * [Creating Custom AngularJS Directives Part I - Fundamentals](http://weblogs.asp.net/dwahlin/creating-custom-angularjs-directives-part-i-the-fundamentals)
 * [Creating Custom AngularJS Directives Part II - Isolate Scope](http://weblogs.asp.net/dwahlin/creating-custom-angularjs-directives-part-2-isolate-scope)
+* [Looking At Attribute Interpolation Workflow Changes In AngularJS] (http://www.bennadel.com/blog/2650-looking-at-attribute-interpolation-workflow-changes-in-angularjs.htm)
+* [Using Isolate Scope In Directives In AngularJS] (http://www.bennadel.com/blog/2646-using-isolate-scope-in-directives-in-angularjs.htm)
+* [Shadowing Isolate Scope Behaviors In AngularJS] (http://www.bennadel.com/blog/2647-shadowing-isolate-scope-behaviors-in-angularjs.htm)
 
 ## Services/Providers
 * [Angular service or factory?] (http://iffycan.blogspot.com/2013/05/angular-service-or-factory.html)
@@ -506,7 +514,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2.
 * [Animating AngularJS Apps: ngView] (http://scotch.io/tutorials/javascript/animating-angularjs-apps-ngview)
 * [Creating Asynchronous Alerts, Prompts, And Confirms In AngularJS] (http://www.bennadel.com/blog/2632-creating-asynchronous-alerts-prompts-and-confirms-in-angularjs.htm
 * [Build an animated AngularJS website] (http://www.creativebloq.com/javascript/build-animated-angularjs-website-61411891)
-
+* [https://medium.com/@mike360/animating-ng-view-on-route-change-in-angularjs-9490811d0470] (Animating ng-view on route change in AngularJS)
 
 
 ## Integration With Other Languages/Frameworks
