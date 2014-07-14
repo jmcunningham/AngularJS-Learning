@@ -155,6 +155,7 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS. Th
 * [Grouping Nested ngRepeat Lists In AngularJS] (http://www.bennadel.com/blog/2456-Grouping-Nested-ngRepeat-Lists-In-AngularJS.htm)
 * [Using ngController With ngRepeat In AngularJS] (http://www.bennadel.com/blog/2450-Using-ngController-With-ngRepeat-In-AngularJS.htm)
 * [Rendering DOM Elements With ngRepeat In AngularJS] (http://www.bennadel.com/blog/2443-Rendering-DOM-Elements-With-ngRepeat-In-AngularJS.htm)
+* [Keeping Angular “service” collection data in sync with controllers] (www.justinobney.com/keeping-angular-service-list-data-in-sync-among-multiple-controllers/)
 
 ## Code Organization
 * [Building Huuuuuge Apps with AngularJS] (http://briantford.com/blog/huuuuuge-angular-apps.html)
@@ -200,6 +201,7 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS. Th
 * [Automating AngularJS with Yeoman, Grunt & Bower] (http://newtriks.com/2013/06/11/automating-angularjs-with-yeoman-grunt-and-bower/)
 * [Writing Reusable AngularJS Components with Bower] (http://briantford.com/blog/angular-bower.html)
 * [Making Google Maps Components with AngularJS] (http://wbyoko.co/angularjs/angularjs-google-maps-components.html)
+* [Tips for using AngularJS in ASP.Net MVC] (http://www.justinobney.com/tips-for-using-angularjs-in-asp-net-mvc/)
  
 ## Hosted Backends
 * [Parse.com boilerplate for building large, complex AngularJS apps](http://brandid.github.io/parse-angular-demo/#/features)
