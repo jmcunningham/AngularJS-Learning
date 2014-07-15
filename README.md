@@ -460,6 +460,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2.
 * [Writing Tests and Stomping Bugs in AngularJS] (http://blog.safaribooksonline.com/2014/04/01/writing-tests-stomping-bugs-angularjs/)
 * [Unit Testing Services in AngularJS for Fun and for Profit] (http://nathanleclaire.com/blog/2014/04/12/unit-testing-services-in-angularjs-for-fun-and-for-profit/)
 * [Getting Started With Protractor And Page Objects For AngularJS E2E Testing] (http://gaslight.co/blog/getting-started-with-protractor-and-page-objects-for-angularjs-e2e-testing)
+* [Continuous Integration for AngularJS Applications with Jenkins](http://www.cardinalsolutions.com/cardinal/blog/custom-application-development/2014/07/continuous_integrati.html)
 
 
 ## RESTful Stuff
