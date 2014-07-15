@@ -323,6 +323,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2.
 * [Service Providers in AngularJS and Logger Implementation] (http://www.webdeveasy.com/service-providers-in-angularjs-and-logger-implementation/) 
 * [AngularJS: Factory vs Service vs Provider] (http://tylermcginnis.com/angularjs-factory-vs-service-vs-provider/)
 * [Building an AngularJS Modal Service](http://weblogs.asp.net/dwahlin/building-an-angularjs-modal-service)
+* [Keeping Angular “service” collection data in sync with controllers] (www.justinobney.com/keeping-angular-service-list-data-in-sync-among-multiple-controllers/)
 
 ## Routing
 * [How to defer route definition in an AngularJS web app] (http://blog.brunoscopelliti.com/how-to-defer-route-definition-in-an-angularjs-web-app)
@@ -537,6 +538,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2.
 * [Using AngularJS/Bootstrap as frontend and CakePHP as REST API producer](https://github.com/hantsy/angularjs-cakephp-sample/wiki)
 * [Creating Charting Directives Using AngularJS and D3.js](http://www.sitepoint.com/creating-charting-directives-using-angularjs-d3-js/)
 * [Laravel 4 & AngularJS E2E secured SPA](http://blog.neoxia.com/laravel4-and-angularjs/)
+* [Tips for using AngularJS in ASP.Net MVC] (http://www.justinobney.com/tips-for-using-angularjs-in-asp-net-mvc/)
 
  
 ## Hosted Backends
