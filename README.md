@@ -252,6 +252,10 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2.
 * [Workflow Differences Between $scope.$watch() and Attributes.$observe() In AngularJS]  (http://www.bennadel.com/blog/2631-workflow-differences-between-scope-watch-and-attributes-observe-in-angularjs.htm)
 * [Looking At How scope.$evalAsync() Affects Performance In AngularJS Directives] (http://www.bennadel.com/blog/2635-looking-at-how-scope-evalasync-affects-performance-in-angularjs-directives.htm)
 * [$scope.$evalAsync() vs. $timeout() In AngularJS] (http://www.bennadel.com/blog/2605-scope-evalasync-vs-timeout-in-angularjs.htm)
+* [Leverage Scope Creep! An in-depth tutorial on Angular.js Scope] (http://modernweb.com/2014/07/14/leverage-scope-creep-depth-tutorial-angular-js-scope/)
+* [Rethinking AngularJS Controllers] (http://toddmotto.com/rethinking-angular-js-controllers/)
+* [AngularJS: "Controller as" or "$scope"?] (http://codetunnel.com/angularjs-controller-as-or-scope/)
+* [AngularJS’s Controller As and the vm Variable] (http://www.johnpapa.net/angularjss-controller-as-and-the-vm-variable/)
 
 ## Dependency Injection
 * [The "Magic" behind AngularJS Dependency Injection] (http://www.alexrothenberg.com/2013/02/11/the-magic-behind-angularjs-dependency-injection.html)
@@ -467,6 +471,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2.
 * [Unit Testing Services in AngularJS for Fun and for Profit] (http://nathanleclaire.com/blog/2014/04/12/unit-testing-services-in-angularjs-for-fun-and-for-profit/)
 * [Getting Started With Protractor And Page Objects For AngularJS E2E Testing] (http://gaslight.co/blog/getting-started-with-protractor-and-page-objects-for-angularjs-e2e-testing)
 * [Continuous Integration for AngularJS Applications with Jenkins](http://www.cardinalsolutions.com/cardinal/blog/custom-application-development/2014/07/continuous_integrati.html)
+* [Unit Testing w/ AngularJS] (http://moduscreate.com/unit-testing-w-angularjs/)
 
 
 ## RESTful Stuff
