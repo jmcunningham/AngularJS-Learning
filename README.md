@@ -11,7 +11,8 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2.
 [Courses](#courses)  
 [Help](#help)  
 [General Topics](#general-topics)  
-[Introductions/Beginning AngularJS](#introductionsbeginning-angularjs-also-look-at-the-multipart-articles)  
+[Introductions/Beginning AngularJS](#introductionsbeginning-angularjs-also-look-at-the-multipart-articles)
+[Content Curation for 7 Days](#curation)
 [Lessons Learned](#lessons-learned)  
 [Multipart Articles](#multipart-articles)  
 [Sample Apps](#sample-apps)  
@@ -90,6 +91,9 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2.
 * [Code School Shaping Up with Angular.js](https://www.codeschool.com/courses/shaping-up-with-angular-js)
 * [Lynda Up and Running with AngularJS](http://www.lynda.com/AngularJS-tutorials/Up-Running-AngularJS/154414-2.html)
 * [Codecademy AngularJs](http://www.codecademy.com/courses/javascript-advanced-en-2hJ3J/0/1)
+
+## Curation
+* [AngularJS Content Curation for 7 Days + Demo](http://angularjs.runastartup.com)
 
 ## Help
 * [StackOverflow] (http://stackoverflow.com/questions/tagged/angularjs)
