@@ -192,6 +192,16 @@ AngularJS
 * [10个你需要开始用 AngularJS 的理由] (http://www.sitepoint.com/10-reasons-use-angularjs/)
 * [AngularJS 筛选器] (http://www.kidsil.net/2013/09/filtering-with-angularjs/)
 * [一天学会 AngularJS] (http://toddmotto.com/ultimate-guide-to-learning-angular-js-in-one-day/)
+* [7 种成功学习Angular的方法] (http://learnangularjs.net/2013/10/24/7-ways-to-be-successful-with-angularjs/)
+* [ 用Node and Angular创建单页应用](http://scotch.io/tutorials/javascript/creating-a-single-page-todo-app-with-node-and-angular)
+* [ 通过 5 个实例学习Angular] (http://tutorialzine.com/2013/08/learn-angularjs-5-examples)
+* [考虑的AngularJS的效率] (https://www.exratione.com/2013/12/considering-speed-and-slowness-in-angularjs/)
+* [Environment Specific Configuration in AngularJS Using Grunt] (http://newtriks.com/2013/11/29/environment-specific-configuration-in-angularjs-using-grunt/)
+* [用装饰来提升Angular日志](http://solutionoptimist.com/2013/10/07/enhance-angularjs-logging-using-decorators/)
+* [Picking Up Angular, build a twitter-like application](https://github.com/deontologician/pipr/blob/master/tut.org)
+* [AngularJS网页应用的异常处理] (http://blog.loadimpact.com/2014/06/03/exception-handling-in-an-angularjs-web-application-tutorial/)
+* [AngularJS 101: 从0开始学 Angular] (http://www.pubnub.com/blog/angularjs-101-from-zero-to-angular-in-seconds/)
+
 
 ## 使用及学习心得 Lessons Learned
 * [经验教训：一年一个大AngularJS项目] (http://joelhooks.com/blog/2013/05/22/lessons-learned-kicking-off-an-angularjs-project/)
