@@ -189,7 +189,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2.
 * [4 Smooth AngularJS Application Tips] (http://nathanleclaire.com/blog/2014/01/04/5-smooth-angularjs-application-tips/)
 * [Get Your Hands Dirty Refactoring in AngularJS] (http://blog.safaribooksonline.com/2014/04/08/refactoring-angularjs-get-hands-filthy/)
 * [5 AngularJS Antipatterns & Pitfalls] (http://nathanleclaire.com/blog/2014/04/19/5-angularjs-antipatterns-and-pitfalls/)
-* [Advanced UI, Plugins and Components in AngularJS] (http://slides.yearofmoo.com/fitc-spotlight-angularjs/index.html)
+* [Opinionated AngularJS styleguide for teams] (http://toddmotto.com/opinionated-angular-js-styleguide-for-teams/)
 
 ## Multipart Articles
 * Getting Started with elasticsearch and AngularJS: [Part1 - Searching] (http://www.fullscale.co/blog/2013/02/28/getting_started_with_elasticsearch_and_AngularJS_searching.html), [Part 2: Faceting] (http://www.fullscale.co/blog/2013/03/07/getting_started_with_elasticsearch_and-AngularJS_faceting.html), [Part 3: Visualization] (http://www.fullscale.co/blog/2013/03/20/getting_started_with_elasticsearch_and_AngularJS_d3.html)
@@ -472,6 +472,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2.
 * [Getting Started With Protractor And Page Objects For AngularJS E2E Testing] (http://gaslight.co/blog/getting-started-with-protractor-and-page-objects-for-angularjs-e2e-testing)
 * [Continuous Integration for AngularJS Applications with Jenkins](http://www.cardinalsolutions.com/cardinal/blog/custom-application-development/2014/07/continuous_integrati.html)
 * [Unit Testing w/ AngularJS] (http://moduscreate.com/unit-testing-w-angularjs/)
+* [AngularJS Unit Testing - For Real, Though] (http://quickleft.com/blog/angularjs-unit-testing-for-real-though)
 
 
 ## RESTful Stuff
@@ -527,6 +528,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2.
 * [Creating Asynchronous Alerts, Prompts, And Confirms In AngularJS] (http://www.bennadel.com/blog/2632-creating-asynchronous-alerts-prompts-and-confirms-in-angularjs.htm
 * [Build an animated AngularJS website] (http://www.creativebloq.com/javascript/build-animated-angularjs-website-61411891)
 * [https://medium.com/@mike360/animating-ng-view-on-route-change-in-angularjs-9490811d0470] (Animating ng-view on route change in AngularJS)
+* [Advanced UI, Plugins and Components in AngularJS] (http://slides.yearofmoo.com/fitc-spotlight-angularjs/index.html)
 
 
 ## Integration With Other Languages/Frameworks
