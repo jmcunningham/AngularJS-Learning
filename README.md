@@ -315,6 +315,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2.
 * [Looking At Attribute Interpolation Workflow Changes In AngularJS] (http://www.bennadel.com/blog/2650-looking-at-attribute-interpolation-workflow-changes-in-angularjs.htm)
 * [Using Isolate Scope In Directives In AngularJS] (http://www.bennadel.com/blog/2646-using-isolate-scope-in-directives-in-angularjs.htm)
 * [Shadowing Isolate Scope Behaviors In AngularJS] (http://www.bennadel.com/blog/2647-shadowing-isolate-scope-behaviors-in-angularjs.htm)
+* [Custom Directives In AngularJS](http://blog.hfarazm.com/category/angular-js/)
 
 ## Services/Providers
 * [Angular service or factory?] (http://iffycan.blogspot.com/2013/05/angular-service-or-factory.html)
