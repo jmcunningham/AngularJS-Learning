@@ -553,6 +553,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2.
 * [Creating Charting Directives Using AngularJS and D3.js](http://www.sitepoint.com/creating-charting-directives-using-angularjs-d3-js/)
 * [Laravel 4 & AngularJS E2E secured SPA](http://blog.neoxia.com/laravel4-and-angularjs/)
 * [Tips for using AngularJS in ASP.Net MVC] (http://www.justinobney.com/tips-for-using-angularjs-in-asp-net-mvc/)
+* [Form validation with AngularJS and Rails](http://blog.cesarandreu.com/posts/form_validation_with_angularjs_and_rails)
 
  
 ## Hosted Backends
