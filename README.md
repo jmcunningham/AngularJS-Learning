@@ -316,6 +316,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2.
 * [Using Isolate Scope In Directives In AngularJS] (http://www.bennadel.com/blog/2646-using-isolate-scope-in-directives-in-angularjs.htm)
 * [Shadowing Isolate Scope Behaviors In AngularJS] (http://www.bennadel.com/blog/2647-shadowing-isolate-scope-behaviors-in-angularjs.htm)
 * [Custom Directives In AngularJS](http://blog.hfarazm.com/category/angular-js/)
+* [Developing With AngularJS? Forget jQuery Exists.](http://tech.zumba.com/2014/08/02/angularjs-forget-jquery/)
 
 ## Services/Providers
 * [Angular service or factory?] (http://iffycan.blogspot.com/2013/05/angular-service-or-factory.html)
