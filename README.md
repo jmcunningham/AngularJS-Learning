@@ -155,6 +155,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2.
 * [Minimal Angular module/syntax approach using an IIFE](http://toddmotto.com/minimal-angular-module-syntax-approach-using-an-iife/)
 * [AngularJS & SEO - finally a piece of cake](https://weluse.de/blog/angularjs-seo-finally-a-piece-of-cake.html)
 * [Best Practices for Building Angular.js Apps](https://medium.com/@dickeyxxx/best-practices-for-building-angular-js-apps-266c1a4a6917)
+* [Building applications for Firefox OS using AngularJS](https://hacks.mozilla.org/2014/07/building-applications-for-firefox-os-using-angularjs/)
 
 ## Introductions/Beginning AngularJS (also look at the multipart articles)
 * [Getting Started With AngularJS] (http://www.adobe.com/devnet/html5/articles/getting-started-with-angularjs.html)
