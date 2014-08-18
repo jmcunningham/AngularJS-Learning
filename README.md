@@ -227,13 +227,9 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2.
 
 ## Scopes & Compile
 * [AngularJS and scope.$apply] (http://jimhoskins.com/2012/12/17/angularjs-and-apply.html)
-* [What are the nuances of scope prototypal / prototypical inheritance in AngularJS?] (http://stackoverflow.com/questions/14049480/what-are-the-nuances-of-scope-prototypal-prototypical-inheritance-in-angularjs)
 * [angularjs.org watch, on pub sub, and you.] (http://eburley.github.io/2013/01/31/angularjs-watch-pub-sub-best-practices.html)
-* [Use Ng-bind in AngularJS] (http://www.befundoo.com/blog/use-ng-bind-in-angularjs/)
 * [Unbinding $watch() Listeners In AngularJS] (http://www.bennadel.com/blog/2480-Unbinding-watch-Listeners-In-AngularJS.htm)
-* [Accessing $scope On The DOM Using AngularJS] (http://www.bennadel.com/blog/2457-Accessing-scope-On-The-DOM-Using-AngularJS.htm)
 * [Directive Link, $observe, And $watch Functions Execute Inside An AngularJS Context] (http://www.bennadel.com/blog/2449-Directive-Link-observe-And-watch-Functions-Execute-Inside-An-AngularJS-Context.htm)
-* [Hailing All Frequencies – Communicating in AngularJS with the Pub/Sub Design Pattern] (http://codingsmackdown.tv/blog/2013/04/29/hailing-all-frequencies-communicating-in-angularjs-with-the-pubsub-design-pattern/)
 * [Nested Scopes in AngularJS] (http://jimhoskins.com/2012/12/14/nested-scopes-in-angularjs.html)
 * [AngularJS: 6 Common Pitfalls Using Scopes] (http://thenittygritty.co/angularjs-pitfalls-using-scopes)
 * Scoping AngularJS Directives: [Part 1] (http://spectaclelabs.io/blog/2013/06/22/scoping-angularjs-directives-part-1/), [Part 2](http://spectaclelabs.io/blog/2013/06/23/scoping-angularjs-directives-part-2/)
