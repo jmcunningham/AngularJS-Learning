@@ -536,6 +536,8 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2.
 * [https://medium.com/@mike360/animating-ng-view-on-route-change-in-angularjs-9490811d0470] (Animating ng-view on route change in AngularJS)
 * [Advanced UI, Plugins and Components in AngularJS] (http://slides.yearofmoo.com/fitc-spotlight-angularjs/index.html)
 * [Adding CSS Animations to AngularJS Applications](www.sitepoint.com/adding-css-animations-angularjs-applications)
+* [JavaScript Animations in AngularJS Applications] (http://www.sitepoint.com/javascript-animations-angularjs-applications/)
+* [Getting Started with Mobile Angular UI] (http://www.sitepoint.com/getting-started-mobile-angular-ui/)
 
 
 ## Integration With Other Languages/Frameworks
