@@ -39,24 +39,26 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2.
 [Boilerplates](#boilerplates)  
 
 ## Books
-* [AngularJS] (http://shop.oreilly.com/product/0636920028055.do)
-* [Instant AngularJS Starter] (http://www.packtpub.com/angularjs-to-build-dynamic-web-applications/book)
-* [Recipes With AngularJS] (https://leanpub.com/recipes-with-angular-js)
-* [AngularJS In Action] (http://www.manning.com/bford/)
-* [AngularJS For .Net Developers] (http://henriquat.re/)
-* [Web Application Development With AngularJS] (http://www.packtpub.com/angularjs-web-application-development/book)
-* [Developing An AngularJS Edge] (http://bleedingedgepress.com/our-books/developing-an-angularjs-edge/)
-* [AngularJS Directives] (http://www.packtpub.com/angularjs-directives/book)
-* [ng-book] (http://www.ng-book.com/)
-* [Build Your Own AngularJS] (http://teropa.info/build-your-own-angular/)
-* [Dependency Injection with AngularJS](http://www.packtpub.com/dependency-injection-angularjs/book)
-* [Learning Web Development with Bootstrap and Angular: RAW] (http://www.packtpub.com/learning-web-development-with-bootstrap-and-angular/book)
-* [AngularJS Design Patterns] (http://www.packtpub.com/angularjs-design-patterns/book)
-* [AngularJS Web application development Blueprints : RAW] (http://www.packtpub.com/angularjs-web-application-development-blueprints/book)
-* [Practical AngularJS](https://leanpub.com/Practical_AngularJS)
-* [AngularJS UI Development](http://www.packtpub.com/angularjs-ui-development/book)
-* [D3 on AngularJS](https://leanpub.com/d3angularjs)
-* [Mastering AngularJS Directives](http://www.packtpub.com/mastering-angularjs-directives/book)
+| Title                                                                                                                                                   |                  Author                  |       Publisher      |    ng Version    | Last Update |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------|:----------------------------------------:|:--------------------:|:----------------:|:-----------:|
+| [AngularJS](http://shop.oreilly.com/product/0636920028055.do)                                                                                           | Brad Green, Shyam Seshadri               | O'Reilly             | v1.0.1 - v1.0.8  |   4/1/2013  |
+| [Instant AngularJS Starter](https://www.packtpub.com/web-development/instant-angularjs-starter-instant)                                                 | Dan Menard                               | Packt Publishing     | ?                |   2/1/2013  |
+| [Recipes With AngularJS](https://leanpub.com/recipes-with-angular-js)                                                                                   | Frederik Dietz                           | Leanpub              | v1.0.4           |  6/23/2013  |
+| [AngularJS In Action](http://www.manning.com/bford/)                                                                                                    | Brian Ford, Lukas Ruebbelke              | Manning Publications | v1.0.4 - v1.2.14 |     WIP     |
+| [AngularJS For .Net Developers](http://henriquat.re/)                                                                                                   | Ingo Rammer, Christian Weyer, Golo Roden | Self-published       | v1.0.3 - v1.06   |     WIP     |
+| [Mastering Web Application Development With AngularJS](https://www.packtpub.com/web-development/mastering-web-application-development-angularjs)        | Peter Bacon Darwin, Pawel Kozlowski      | Packt Publishing     | v1.0.2 - v1.0.7  |   8/1/2013  |
+| [Developing An AngularJS Edge](http://bleedingedgepress.com/our-books/developing-an-angularjs-edge/)                                                    | Christopher Hiller                       | Bleeding Edge Press  | v1.0.2 - v1.0.5  |  4/10/2013  |
+| [AngularJS Directives](https://www.packtpub.com/web-development/angularjs-directives)                                                                   | Alex Vanston                             | Packt Publishing     | v1.0.6 - v1.0.x  |   9/1/2013  |
+| [ng-book](https://www.ng-book.com)                                                                                                                      | Ari Lerner                               | Self-published       | v1.0.7 - v1.2.6  |  6/24/2014  |
+| [Build Your Own AngularJS](http://teropa.info/build-your-own-angular)                                                                                   | Tero Parviainen                          | Self-published       | v1.x             |     WIP     |
+| [Dependency Injection with AngularJS](https://www.packtpub.com/web-development/dependency-injection-angularjs)                                          | Alex Knol                                | Packt Publishing     | ?                |  12/1/2013  |
+| [Learning Web Development with Bootstrap and Angular: RAW](https://www.packtpub.com/web-development/learning-web-development-bootstrap-and-angular-raw) | Stephen Radford                          | Packt Publishing     | v1.2.x - v1.3    |     WIP     |
+| [AngularJS Essentials](https://www.packtpub.com/web-development/angularjs-essentials)                                                                   | Rodrigo Branas                           | Packt Publishing     | ?                |     WIP     |
+| [AngularJS Web application development Blueprints : RAW](https://www.packtpub.com/web-development/angularjs-web-application-development-blueprints-raw) | Vinci Rufus                              | Packt Publishing     | ?                |     WIP     |
+| [Practical AngularJS](https://leanpub.com/Practical_AngularJS)                                                                                          | Dinis Cruz                               | Leanpub              | v1.0.7 - v1.2.13 |     WIP     |
+| [AngularJS UI Development](https://www.packtpub.com/web-development/angularjs-ui-development)                                                           | Matthias Nehlsen, Amit Gharat            | Packt Publishing     | v1.2.22 - v1.2.x |     WIP     |
+| [D3 on AngularJS](https://leanpub.com/d3angularjs)                                                                                                      | Ari Lerner, Victor Powell                | Leanpub              | v1.0.7 - v1.2.11 |   6/6/2014  |
+| [Mastering AngularJS Directives](https://www.packtpub.com/application-development/mastering-angularjs-directives)                                       | Josh Kurz                                | Packt Publishing     | v1.2.2 - v1.2.16 |   6/1/2014  |
 
 ## Videos
 * [Egghead.io](http://www.egghead.io/) — [source code](https://github.com/msfrisbie/egghead-angularjs)
