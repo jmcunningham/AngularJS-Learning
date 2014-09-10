@@ -220,6 +220,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2.
 * AngularJs Bootstrap Components: [Part 1 : Building Popover Directive](http://subliminalsources.com/9/building-angularjs-bootstrap-components-popover-directive-part-1/), [Part 2 : Building Collapse(Accordion) Directive](http://subliminalsources.com/97/angularjs-bootstrap-components-part-2-building-collapse-accordion-directive/), [Part 3 : Building Tabs Directive](http://subliminalsources.com/175/angularjs-bootstrap-components-tutorials-part-3-building-tabs-directive/)
 * Building an Angular and Express App: [Part 1](http://start.jcolemorrison.com/building-an-angular-and-express-app-part-1/) , [Part 2](http://start.jcolemorrison.com/building-an-angular-and-express-app-part-2/)
 * Angular Directives: A Beginner's Guide [Part 1](http://blog.trifork.com/2014/04/17/angular-directives-a-beginners-guide-part-1)
+* [Building a blog using Flask and AngularJS Part 1](http://blog.john.mayonvolcanosoftware.com/building-a-blog-using-flask-and-angularjs-part-1/), [Building a blog using Flask and AngularJS Part 2](http://blog.john.mayonvolcanosoftware.com/building-a-blog-using-flask-and-angularjs-part-2/)
 
 ## Sample Apps
 * [A Shopping Cart Application Built with AngularJS] (http://www.codeproject.com/Articles/576246/A-Shopping-Cart-Application-Built-with-AngularJS)
