@@ -84,6 +84,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2.
 * [Introduction to Angular.js in 50 Examples (part 1)] (https://www.youtube.com/watch?v=TRrL5j3MIvo&feature=youtu.be)
 * [Real-Time Web Apps With AngularJS and Firebase](https://courses.tutsplus.com/courses/real-time-web-apps-with-angularjs-and-firebase) - Paid
 * [Launch a full product with AngularJS](http://www.angularcourse.com)
+* [Learn to build an application using Angular.js](http://campus.codeschool.com/courses/shaping-up-with-angular-js/intro)
 
 ## Courses
 
