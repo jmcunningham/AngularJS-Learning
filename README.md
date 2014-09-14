@@ -163,6 +163,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2.
 * [Building applications for Firefox OS using AngularJS](https://hacks.mozilla.org/2014/07/building-applications-for-firefox-os-using-angularjs/)
 * [Debugging AngularJS Apps from the Console](http://ionicframework.com/blog/angularjs-console/)
 * [50 Angular.js Examples](http://curran.github.io/screencasts/introToAngular/exampleViewer/#/)
+* [AngularJS DOM manipulation with jqLite](http://baljeetsingh.in/angularjs-dom-manipulation-jqlite-324/)
 
 ## Introductions/Beginning AngularJS (also look at the multipart articles)
 * [Getting Started With AngularJS] (http://www.adobe.com/devnet/html5/articles/getting-started-with-angularjs.html)
