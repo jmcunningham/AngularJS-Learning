@@ -440,7 +440,7 @@ AngularJS
 * [用 DreamFactory 开发 针对 Angular 的 CRUD 后端] (http://www.dreamfactory.com/angularjs-example)
 * [Firebase 和 Angular 三个双向数据绑定] (https://www.firebase.com/blog/2013-10-04-firebase-angular-data-binding.html)
 
-## 行动装置 Mobile
+## 移动装置 Mobile
 * [PhoneGap+AngularJS 快速入门指南] (http://devgirl.org/2013/06/10/quick-start-guide-phonegap-and-angularjs/)
 * [用 AngularJS 开发 PhoneGap 引用程序] (http://briantford.com/blog/angular-phonegap.html)
 * [PhoneGap 和 AngularJS: In App Browser] (http://tech.pro/tutorial/1357/phonegap-and-angularjs-in-app-browser)
