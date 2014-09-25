@@ -275,6 +275,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2.
 * [Defining Instantiatable Classes In The AngularJS Dependency Injection Framework] (http://www.bennadel.com/blog/2527-Defining-Instantiatable-Classes-In-The-AngularJS-Dependency-Injection-Framework.htm)
 * [Deconstructing AngularJS Injector] (http://neverfriday.com/2013/11/30/deconstructing-angularjs-injector/)
 * [AngularJS Dependency Injection - Demystified](http://anandmanisankar.com/posts/angularjs-dependency-injection-demystified/)
+* [Angular’s dependency injection annotation process](http://toddmotto.com/angular-js-dependency-injection-annotation-process/)
 
 ## Directives
 * [AngularJS directives and the computer science of JavaScript] (http://www.adobe.com/devnet/html5/articles/angularjs-directives-and-the-computer-science-of-javascript.html)
