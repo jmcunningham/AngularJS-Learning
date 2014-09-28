@@ -164,6 +164,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2.
 * [Debugging AngularJS Apps from the Console](http://ionicframework.com/blog/angularjs-console/)
 * [50 Angular.js Examples](http://curran.github.io/screencasts/introToAngular/exampleViewer/#/)
 * [AngularJS DOM manipulation with jqLite](http://baljeetsingh.in/angularjs-dom-manipulation-jqlite-324/)
+* [A Developer’s Guide to Perform SEO on AngularJS Web Apps](http://www.algoworks.com/blog/a-developers-guide-to-perform-seo-on-angularjs-web-apps/)
 
 ## Introductions/Beginning AngularJS (also look at the multipart articles)
 * [Getting Started With AngularJS] (http://www.adobe.com/devnet/html5/articles/getting-started-with-angularjs.html)
