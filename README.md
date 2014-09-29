@@ -88,6 +88,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2.
 
 ## Courses
 
+* [AngularJS Tutorial - Learn Angular by building a Gmail clone](http://www.thinkful.com/learn/angularjs-tutorial-build-a-gmail-clone) – Mini AngularJS course with video
 * [Thinkster.io - A better way to learn AngularJS](http://www.thinkster.io/) - Free course on AngularJS
 * [Interactive AngularJS tutorials](http://ng-tutorial.mgechev.com/)
 * [AngularJS JumpStart with Dan Wahlin] (https://www.udemy.com/angularjs-jumpstart/?sl=E0EYdlw9RBMALEwzBwZX)
