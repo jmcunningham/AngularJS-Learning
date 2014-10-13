@@ -13,7 +13,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2.
 [General Topics](#general-topics)  
 [Introductions/Beginning AngularJS](#introductionsbeginning-angularjs-also-look-at-the-multipart-articles)  
 [Curation](#curation)  
-[Best Practices/Style Guides](##best-practicesstyle-guides)  
+[Best Practices/Style Guides](#best-practicesstyle-guides)  
 [Lessons Learned](#lessons-learned)  
 [Boilerplates/Seed Projects](#boilerplatesseed-projects)  
 [Multipart Articles](#multipart-articles)  
