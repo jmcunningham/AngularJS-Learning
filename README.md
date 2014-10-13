@@ -3,6 +3,8 @@ AngularJS-Learning
 
 A bunch of links to blog posts, articles, videos, etc for learning AngularJS. Feel free to submit a pull request if you have some links/resources to add. Also, I try to verify that the articles below have some real content (i.e. aren't 2 paragraph blog posts with little information) to ensure I'm not listing "fluff" pieces. If you have an idea for a better way to organize these links, please let me know. As I find similar posts in the "General Topics" section, I will break them out into their own categories.
 
+I also blog about Angular and JavaScript topics at [my blog] (http://www.jmcunningham.net).
+
 NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2. 
 
 ### Table of Contents
@@ -196,6 +198,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2.
 * [AngularJS Tutorial: A Comprehensive 10,000 Word Guide](http://www.airpair.com/angularjs)
 
 ## Best Practices/Style Guides
+* [**My Personal Angular JS Best Practices Guide] (https://github.com/jmcunningham/angularjs-styleguide)
 * [Opinionated AngularJS styleguide for teams] (http://toddmotto.com/opinionated-angular-js-styleguide-for-teams/)
 * [AngularJS Style Guide](https://github.com/johnpapa/angularjs-styleguide) by John Papa: A starting point for AngularJS development teams to provide consistency through good practices.
 * [AngularJS Best Practices: Directory Structure](http://scotch.io/tutorials/javascript/angularjs-best-practices-directory-structure)
@@ -213,6 +216,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2.
 * [Speeding up AngularJS apps with simple optimizations](http://www.binpress.com/tutorial/speeding-up-angular-js-with-simple-optimizations/135)
 
 ## Boilerplates/Seed Projects
+* [**My Personal Angular JS Seed Project] (https://github.com/jmcunningham/angularBPSeed)
 * [KOAN Stack (Koa, Angular, Node, Mongo, WebSockets)](https://github.com/soygul/koan)
 
 ## Multipart Articles
