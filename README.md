@@ -1,7 +1,7 @@
 AngularJS-Learning
 ==================
 
-A bunch of links to blog posts, articles, videos, etc for learning AngularJS. This list is in its early stages. Feel free to submit a pull request if you have some links/resources to add. Also, I try to verify that the articles below have some real content (i.e. aren't 2 paragraph blog posts with little information) to ensure I'm not listing "fluff" pieces. If you have an idea for a better way to organize these links, please let me know. As I find similar posts in the "General Topics" section, I will break them out into their own categories.
+A bunch of links to blog posts, articles, videos, etc for learning AngularJS. Feel free to submit a pull request if you have some links/resources to add. Also, I try to verify that the articles below have some real content (i.e. aren't 2 paragraph blog posts with little information) to ensure I'm not listing "fluff" pieces. If you have an idea for a better way to organize these links, please let me know. As I find similar posts in the "General Topics" section, I will break them out into their own categories.
 
 NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2. 
 
@@ -12,10 +12,10 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2.
 [Help](#help)  
 [General Topics](#general-topics)  
 [Introductions/Beginning AngularJS](#introductionsbeginning-angularjs-also-look-at-the-multipart-articles)  
-[Curation](#curation)
-[Best Practices/Style Guides](#best-practicesstyle-guides)
-[Lessons Learned](#lessons-learned)
-[Boilerplates/Seed Projects](#boilerplatesseed-projects)
+[Curation](#curation)  
+[Best Practices/Style Guides](##best-practicesstyle-guides)  
+[Lessons Learned](#lessons-learned)  
+[Boilerplates/Seed Projects](#boilerplatesseed-projects)  
 [Multipart Articles](#multipart-articles)  
 [Sample Apps](#sample-apps)  
 [Scopes & Compile](#scopes--compile)  
