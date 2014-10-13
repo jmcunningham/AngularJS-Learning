@@ -203,6 +203,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2.
 * [Opinionated AngularJS styleguide for teams] (http://toddmotto.com/opinionated-angular-js-styleguide-for-teams/)
 * [AngularJS Style Guide](https://github.com/johnpapa/angularjs-styleguide) by John Papa: A starting point for AngularJS development teams to provide consistency through good practices.
 * [AngularJS Best Practices: Directory Structure](http://scotch.io/tutorials/javascript/angularjs-best-practices-directory-structure)
+* [AngularJS style guide used at GoCardless] (https://github.com/gocardless/angularjs-style-guide)
 
 ## Lessons Learned
 * [Lessons Learned: A Year with a Large AngularJS Project] (http://joelhooks.com/blog/2013/05/22/lessons-learned-kicking-off-an-angularjs-project/)
