@@ -207,6 +207,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2.
 * [Opinionated AngularJS styleguide for teams] (http://toddmotto.com/opinionated-angular-js-styleguide-for-teams/)
 * [Speeding up AngularJS apps with simple optimizations](http://www.binpress.com/tutorial/speeding-up-angular-js-with-simple-optimizations/135)
 * [AngularJS Style Guide](https://github.com/johnpapa/angularjs-styleguide) by John Papa: A starting point for AngularJS development teams to provide consistency through good practices.
+* [AngularJS Best Practices: Directory Structure](http://scotch.io/tutorials/javascript/angularjs-best-practices-directory-structure)
 
 ## Multipart Articles
 * Getting Started with elasticsearch and AngularJS: [Part1 - Searching] (http://www.fullscale.co/blog/2013/02/28/getting_started_with_elasticsearch_and_AngularJS_searching.html), [Part 2: Faceting] (http://www.fullscale.co/blog/2013/03/07/getting_started_with_elasticsearch_and-AngularJS_faceting.html), [Part 3: Visualization] (http://www.fullscale.co/blog/2013/03/20/getting_started_with_elasticsearch_and_AngularJS_d3.html)
