@@ -93,14 +93,15 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2.
 ## Courses
 
 * [AngularJS Tutorial - Learn Angular by building a Gmail clone](http://www.thinkful.com/learn/angularjs-tutorial-build-a-gmail-clone) – Mini AngularJS course with video
-* [Thinkster.io - A better way to learn AngularJS](http://www.thinkster.io/) - Free course on AngularJS
-* [Interactive AngularJS tutorials](http://ng-tutorial.mgechev.com/)
 * [AngularJS JumpStart with Dan Wahlin] (https://www.udemy.com/angularjs-jumpstart/?sl=E0EYdlw9RBMALEwzBwZX)
 * [Tuts+: Hands-on Angular] (https://tutsplus.com/course/hands-on-angular/)
 * [Code School Shaping Up with Angular.js](https://www.codeschool.com/courses/shaping-up-with-angular-js)
 * [Lynda Up and Running with AngularJS](http://www.lynda.com/AngularJS-tutorials/Up-Running-AngularJS/154414-2.html)
 * [Codecademy AngularJs](http://www.codecademy.com/courses/javascript-advanced-en-2hJ3J/0/1)
 * [Learn and Understand AngularJS](https://www.udemy.com/learn-angularjs/?couponCode=GITHUB1)
+* [Pluralsight: AngularJS Patterns: Clean Code] (http://www.pluralsight.com/courses/angularjs-patterns-clean-code)
+* [Pluralsight: AngularJS Line of Business Applications] (http://www.pluralsight.com/courses/angularjs-line-of-business-applications)
+* [Building Mobile Apps With the Ionic Framework and AngularJS] (http://www.pluralsight.com/courses/building-mobile-apps-ionic-framework-angularjs)
 
 ## Curation
 * [AngularJS Content Curation for 7 Days + Demo](http://angularjs.runastartup.com)
