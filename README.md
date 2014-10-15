@@ -5,7 +5,7 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS. Fe
 
 I also blog about Angular and JavaScript topics at [my blog] (http://www.jmcunningham.net).
 
-NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2. 
+NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.3. 
 
 ### Table of Contents
 [Books](#books)  
@@ -76,7 +76,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2.
 * [Show Me AngularJS (Tekpub)](http://tekpub.com/products/angular) — 8 videos (paid)
 * [Easier JavaScript Apps with AngularJS (Tuts+)](https://tutsplus.com/course/easier-js-apps-with-angular/) — 22 videos of about 5 minutes each, in 8 sections (paid)
 * [AngularJS Fundamentals (Pluralsight)] (http://pluralsight.com/training/Courses/TableOfContents/angularjs-fundamentals) - 6 hours 15 minutes total (paid)
-* [**AngularJS 1.2 & Beyond] (http://www.youtube.com/watch?v=W13qDdJDHp8&feature=youtu.be)
+* [AngularJS 1.2 & Beyond] (http://www.youtube.com/watch?v=W13qDdJDHp8&feature=youtu.be)
 * [Example Cases of AngularJS](http://www.youtube.com/playlist?list=PLfLN8Jd9-DVEQ0-PEnVeeUYyO0yg28mhN) - Growing list of 5 minute or less videos
 * [Realtime Web Apps With AngularJS & Firebase] (http://www.youtube.com/watch?v=C7ZI7z7qnHU)
 * [Getting MEAN With MongoDB and AngularJS](https://www.youtube.com/watch?v=XwSFg8nqBFA)
@@ -135,7 +135,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2.
 * [AngularJS Abstractions: Modules] (http://odetocode.com/blogs/scott/archive/2013/05/01/angularjs-abstractions-modules.aspx)
 * [Mixing Static Content With ngSwitch And ngSwitchWhen In AngularJS] (http://www.bennadel.com/blog/2507-Mixing-Static-Content-With-ngSwitch-And-ngSwitchWhen-In-AngularJS.htm)
 * [Building large apps with AngularJS] (http://pseudobry.com/building-large-apps-with-angularjs.html)
-* [**Error Message Minification with MinErr] (http://kensheedlo.com/2013/08/15/error-message-minification-with-minerr.html)
+* [Error Message Minification with MinErr] (http://kensheedlo.com/2013/08/15/error-message-minification-with-minerr.html)
 * [How to make your AngularJS app work in IE 8] (http://blog-it.hypoport.de/2013/08/24/how-to-make-your-angularjs-app-work-in-ie-8/)
 * [AngularJS Performance Tuning for Long Lists] (http://tech.small-improvements.com/2013/09/10/angularjs-performance-with-large-lists/)
 * [Responsive Website Using AngularJS] (http://www.innerhtml.com/responsive-website-using-angularjs.html)
@@ -199,7 +199,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2.
 * [AngularJS Tutorial: A Comprehensive 10,000 Word Guide](http://www.airpair.com/angularjs)
 
 ## Best Practices/Style Guides
-* [**My Personal Angular JS Best Practices Guide] (https://github.com/jmcunningham/angularjs-styleguide)
+* [***My Personal Angular JS Best Practices Guide] (https://github.com/jmcunningham/angularjs-styleguide)
 * [Opinionated AngularJS styleguide for teams] (http://toddmotto.com/opinionated-angular-js-styleguide-for-teams/)
 * [AngularJS Style Guide](https://github.com/johnpapa/angularjs-styleguide) by John Papa: A starting point for AngularJS development teams to provide consistency through good practices.
 * [AngularJS Best Practices: Directory Structure](http://scotch.io/tutorials/javascript/angularjs-best-practices-directory-structure)
@@ -218,7 +218,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2.
 * [Speeding up AngularJS apps with simple optimizations](http://www.binpress.com/tutorial/speeding-up-angular-js-with-simple-optimizations/135)
 
 ## Boilerplates/Seed Projects
-* [**My Personal Angular JS Seed Project] (https://github.com/jmcunningham/angularBPSeed)
+* [***My Personal Angular JS Seed Project] (https://github.com/jmcunningham/angularBPSeed)
 * [KOAN Stack (Koa, Angular, Node, Mongo, WebSockets)](https://github.com/soygul/koan)
 
 ## Multipart Articles
@@ -418,7 +418,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2.
 * [Twitter Bootstrap control-group directive for AngularJS] (http://aboutcode.net/2013/07/13/twitter-bootstrap-control-group-directive-for-angularjs.html)
 * [Preventing Duplicate Requests in AngularJS] (http://blog.codebrag.com/post/57412530001/preventing-duplicated-requests-in-angularjs)
 * [AngularJS Missing Directives: Native Form Resets] (http://blog.jasoncust.com/2013/08/angularjs-missing-directives-native.html)
-* [**AngularJS Missing Directives: Focus & Blur] (http://blog.jasoncust.com/2013/08/angularjs-missing-directives-focus-blur_14.html)
+* [AngularJS Missing Directives: Focus & Blur] (http://blog.jasoncust.com/2013/08/angularjs-missing-directives-focus-blur_14.html)
 * [Angular JS: Validating Form Elements in a Repeat] (http://www.benlesh.com/2013/03/angular-js-validating-form-elements-in.html)
 * [Angular JS: Custom Validation via Directives] (http://www.benlesh.com/2012/12/angular-js-custom-validation-via.html)
 * [Angular JS: Form Validation] (http://www.benlesh.com/2012/11/angular-js-form-validation.html)
@@ -441,7 +441,8 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2.
 * ["Add more element" form with Angular](http://blog.chorip.am/articles/add-more-form-style-the-nice-way-with-angularjs/)
 * [AngularJS Multi-Step Form Using UI Router](http://scotch.io/tutorials/javascript/angularjs-multi-step-form-using-ui-router)
 * [Building Dynamic Angular Forms with ngRepeat and ngForm](http://scotch.io/tutorials/javascript/building-dynamic-angular-forms-with-ngrepeat-and-ngform)
-* [Taming Forms in AnguarJS 1.3] (http://www.yearofmoo.com/2014/09/taming-forms-in-angularjs-1-3.html)
+* [**Taming Forms in AnguarJS 1.3] (http://www.yearofmoo.com/2014/09/taming-forms-in-angularjs-1-3.html)
+* [**Asynchronous form errors and messages in AngularJS] (http://jaysoo.ca/2014/10/14/async-form-errors-and-messages-in-angularjs/)
 
 ## Authentication
 * [Deal with users authentication in an AngularJS web app] (http://blog.brunoscopelliti.com/deal-with-users-authentication-in-an-angularjs-web-app)
@@ -542,11 +543,11 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2.
 * [AngularJS: Scroll Animations] (http://jjperezaguinaga.wordpress.com/2013/07/16/angularjs-scroll-animations/)
 * [Animating with AngularJS] (http://flippinawesome.org/2013/08/05/animating-with-angularjs/)
 * [Drag and Drop File Upload with AngularJS] (http://buildinternet.com/2013/08/drag-and-drop-file-upload-with-angularjs/)
-* [**Remastered Animation in AngularJS 1.2] (http://www.yearofmoo.com/2013/08/remastered-animation-in-angularjs-1-2.html)
+* [Remastered Animation in AngularJS 1.2] (http://www.yearofmoo.com/2013/08/remastered-animation-in-angularjs-1-2.html)
 * [Angular JS - Scrolling To An Element By Id] (http://www.benlesh.com/2013/02/angular-js-scrolling-to-element-by-id.html)
 * [Building an AngularJS Dialog Service] (http://weblogs.asp.net/dwahlin/archive/2013/08/19/building-an-angularjs-dialog-service.aspx)
-* [**Preparing for Animations in Angular 1.2.0] (http://www.johnpapa.net/preparing-for-animations-in-angular-1-2-0/)
-* [**Replacing jQuery.slideDown() with ngAnimate in AngularJS 1.2.0] (https://www.exratione.com/2013/09/replacing-jqueryslidedown-with-nganimate-in-angularjs-120/)
+* [Preparing for Animations in Angular 1.2.0] (http://www.johnpapa.net/preparing-for-animations-in-angular-1-2-0/)
+* [Replacing jQuery.slideDown() with ngAnimate in AngularJS 1.2.0] (https://www.exratione.com/2013/09/replacing-jqueryslidedown-with-nganimate-in-angularjs-120/)
 * [AngularJS: Blurred image directive] (http://veamospues.wordpress.com/2013/10/13/angularjs-blurred-image-directive/)
 * [Create a “load more” widget using AngularJS, Ajax and Bootstrap 3] (http://julienrenaux.fr/2013/10/27/create-a-load-more-widget-using-angularjs-ajax-and-bootstrap-3/)
 * [ngInfiniteScroll] (http://binarymuse.github.io/ngInfiniteScroll/index.html)
