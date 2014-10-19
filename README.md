@@ -62,6 +62,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.3.
 | [AngularJS: Novice to Ninja](https://learnable.com/books/angularjs-novice-to-ninja/) | Sandeep Panda | SitePoint | v1.3.0-beta.2 | 25/9/2014 |
 
 ## Videos
+* [The Angular Course - Launch a full product with AngularJS](https://www.angularcourse.com) - Over 7 hrs of HD video (Paid)
 * [Egghead.io](http://www.egghead.io/) — [source code](https://github.com/msfrisbie/egghead-angularjs)
 * [Video Tutorial: AngularJS Fundamentals in 60-ish Minutes](http://weblogs.asp.net/dwahlin/archive/2013/04/12/video-tutorial-angularjs-fundamentals-in-60-ish-minutes.aspx) — 1:10:50
 * [AngularJS YouTube Page](http://www.youtube.com/user/angularjs) — several videos, mostly presentations of 1h or more
@@ -84,11 +85,11 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.3.
 * [ng-conf YouTube Page](http://www.youtube.com/user/ngconfvideos) — YouTube channel with all the presentations given at the Angular Conference in January 2014.
 * [Introduction to Angular.js in 50 Examples (part 1)] (https://www.youtube.com/watch?v=TRrL5j3MIvo&feature=youtu.be)
 * [Real-Time Web Apps With AngularJS and Firebase](https://courses.tutsplus.com/courses/real-time-web-apps-with-angularjs-and-firebase) - Paid
-* [Launch a full product with AngularJS](http://www.angularcourse.com)
 * [Learn to build an application using Angular.js](http://campus.codeschool.com/courses/shaping-up-with-angular-js/intro)
 
 ## Courses
 
+* [The Angular Course - Launch a full product with AngularJS](https://www.angularcourse.com) - Over 7 hrs of HD video (Paid)
 * [AngularJS Tutorial - Learn Angular by building a Gmail clone](http://www.thinkful.com/learn/angularjs-tutorial-build-a-gmail-clone) – Mini AngularJS course with video
 * [AngularJS JumpStart with Dan Wahlin] (https://www.udemy.com/angularjs-jumpstart/?sl=E0EYdlw9RBMALEwzBwZX)
 * [Tuts+: Hands-on Angular] (https://tutsplus.com/course/hands-on-angular/)
