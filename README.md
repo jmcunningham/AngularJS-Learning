@@ -86,6 +86,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.3.
 * [Real-Time Web Apps With AngularJS and Firebase](https://courses.tutsplus.com/courses/real-time-web-apps-with-angularjs-and-firebase) - Paid
 * [Launch a full product with AngularJS](http://www.angularcourse.com)
 * [Learn to build an application using Angular.js](http://campus.codeschool.com/courses/shaping-up-with-angular-js/intro)
+* [Building a Web App From Scratch With AngularJS](http://code.tutsplus.com/courses/building-a-web-app-from-scratch-with-angularjs) - Paid
 
 ## Courses
 
