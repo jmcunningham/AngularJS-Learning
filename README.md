@@ -62,7 +62,6 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.3.
 | [AngularJS: Novice to Ninja](https://learnable.com/books/angularjs-novice-to-ninja/) | Sandeep Panda | SitePoint | v1.3.0-beta.2 | 25/9/2014 |
 
 ## Videos
-* [The Angular Course - Launch a full product with AngularJS](https://www.angularcourse.com) - Over 7 hrs of HD video (Paid)
 * [Egghead.io](http://www.egghead.io/) — [source code](https://github.com/msfrisbie/egghead-angularjs)
 * [Video Tutorial: AngularJS Fundamentals in 60-ish Minutes](http://weblogs.asp.net/dwahlin/archive/2013/04/12/video-tutorial-angularjs-fundamentals-in-60-ish-minutes.aspx) — 1:10:50
 * [AngularJS YouTube Page](http://www.youtube.com/user/angularjs) — several videos, mostly presentations of 1h or more
