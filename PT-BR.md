@@ -10,6 +10,7 @@ Vamos tentar manter aqui conteúdo "real" (e não apenas pequenos parágrafos se
 * [Aprenda AngularJS com estes 5 Exemplos Práticos] (http://javascriptbrasil.com/2013/10/23/aprenda-angularjs-com-estes-5-exemplos-praticos/)
 * [Guia Definitivo para Aprender AngularJS em Um Dia] (http://javascriptbrasil.com/2013/10/18/guia-definitivo-para-aprender-angularjs-em-um-dia/)
 * [Como criar abas com AngularJs?] (http://javascriptbrasil.com/2012/12/20/como-criar-abas-com-angularjs/)
+* [AngularJS para desenvolvedores jQuery] (http://blog.giorgiofellipe.com.br/tutorial/angularjs/javascript/2014/10/25/angularjs.html)
 
 ## Vídeo Tutoriais
 * [Introdução ao AngularJS] (https://www.youtube.com/watch?v=iCQ3qic_nGg)
