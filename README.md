@@ -171,6 +171,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.3.
 * [AngularJS DOM manipulation with jqLite](http://baljeetsingh.in/angularjs-dom-manipulation-jqlite-324/)
 * [A Developer’s Guide to Perform SEO on AngularJS Web Apps](http://www.algoworks.com/blog/a-developers-guide-to-perform-seo-on-angularjs-web-apps/)
 * [The Top 10 Mistakes AngularJS Developers Make](http://www.airpair.com/angularjs/posts/top-10-mistakes-angularjs-developers-make)
+* [How I've Improved My Angular Apps by Banning ng-controller ](http://teropa.info/blog/2014/10/24/how-ive-improved-my-angular-apps-by-banning-ng-controller.html)
 
 ## Introductions/Beginning AngularJS (also look at the multipart articles)
 * [Getting Started With AngularJS] (http://www.adobe.com/devnet/html5/articles/getting-started-with-angularjs.html)
