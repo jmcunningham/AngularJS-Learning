@@ -172,6 +172,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.3.
 * [A Developer’s Guide to Perform SEO on AngularJS Web Apps](http://www.algoworks.com/blog/a-developers-guide-to-perform-seo-on-angularjs-web-apps/)
 * [The Top 10 Mistakes AngularJS Developers Make](http://www.airpair.com/angularjs/posts/top-10-mistakes-angularjs-developers-make)
 * [How I've Improved My Angular Apps by Banning ng-controller ](http://teropa.info/blog/2014/10/24/how-ive-improved-my-angular-apps-by-banning-ng-controller.html)
+* **[EXPLORING ANGULAR 1.3 - ANGULAR-HINT](http://blog.thoughtram.io/angularjs/2014/11/06/exploring-angular-1.3-angular-hint.html)
 
 ## Introductions/Beginning AngularJS (also look at the multipart articles)
 * [Getting Started With AngularJS] (http://www.adobe.com/devnet/html5/articles/getting-started-with-angularjs.html)
