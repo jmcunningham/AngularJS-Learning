@@ -595,6 +595,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.3.
 * [Laravel 4 & AngularJS E2E secured SPA](http://blog.neoxia.com/laravel4-and-angularjs/)
 * [Tips for using AngularJS in ASP.Net MVC] (http://www.justinobney.com/tips-for-using-angularjs-in-asp-net-mvc/)
 * [Form validation with AngularJS and Rails](http://blog.cesarandreu.com/posts/form_validation_with_angularjs_and_rails)
+* [Building Web Applications with Django and AngularJS](https://thinkster.io/brewer/angular-django-tutorial/)
 
  
 ## Hosted Backends
