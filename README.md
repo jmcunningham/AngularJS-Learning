@@ -101,6 +101,8 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.3.
 * [Pluralsight: AngularJS Patterns: Clean Code] (http://www.pluralsight.com/courses/angularjs-patterns-clean-code)
 * [Pluralsight: AngularJS Line of Business Applications] (http://www.pluralsight.com/courses/angularjs-line-of-business-applications)
 * [Building Mobile Apps With the Ionic Framework and AngularJS] (http://www.pluralsight.com/courses/building-mobile-apps-ionic-framework-angularjs)
+* [AngularJS Tutorial: Learn to Build a Real-Time Reddit Clone](https://thinkster.io/angulartutorial/learn-to-build-realtime-webapps/)
+* [AngularJS Tutorial: Learn to Build Modern Web Apps with MEAN](https://thinkster.io/angulartutorial/mean-stack-tutorial/)
 
 ## Curation
 * [AngularJS Content Curation for 7 Days + Demo](http://angularjs.runastartup.com)
@@ -198,6 +200,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.3.
 * [Exception Handling in an AngularJS Web Application] (http://blog.loadimpact.com/2014/06/03/exception-handling-in-an-angularjs-web-application-tutorial/)
 * [AngularJS 101: From Zero to Angular in Seconds] (http://www.pubnub.com/blog/angularjs-101-from-zero-to-angular-in-seconds/)
 * [AngularJS Tutorial: A Comprehensive 10,000 Word Guide](http://www.airpair.com/angularjs)
+* [A Better Way to Learn AngularJS](https://thinkster.io/angulartutorial/a-better-way-to-learn-angularjs)
 
 ## Best Practices/Style Guides
 * [***My Personal Angular JS Best Practices Guide] (https://github.com/jmcunningham/angularjs-styleguide)
@@ -588,7 +591,6 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.3.
 * [How to integrate AngularJS with Rails 4] (https://shellycloud.com/blog/2013/10/how-to-integrate-angularjs-with-rails-4)
 * [Using Breeze JS with Angular to consume Web API OData] (http://sravi-kiran.blogspot.com/2013/11/UsingBreezeJsToConsumeAspNetWebApiODataInAnAngularJsApplication.html)
 * [A better way of using SignalR with Angular JS] (http://sravi-kiran.blogspot.com/2013/09/ABetterWayOfUsingAspNetSignalRWithAngularJs.html)
-* [AngularJS Tutorial: Learn to Rapidly Build Real-time Web Apps with Firebase](http://www.thinkster.io/pick/eHPCs7s87O/angularjs-tutorial-learn-to-rapidly-build-real-time-web-apps-with-firebase)
 * [Using AngularJS with Django](http://glynjackson.org/weblog/entry/django-angular.html)
 * [Using AngularJS/Bootstrap as frontend and CakePHP as REST API producer](https://github.com/hantsy/angularjs-cakephp-sample/wiki)
 * [Creating Charting Directives Using AngularJS and D3.js](http://www.sitepoint.com/creating-charting-directives-using-angularjs-d3-js/)
