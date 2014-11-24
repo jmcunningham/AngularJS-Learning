@@ -516,6 +516,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.3.
 * [Continuous Integration for AngularJS Applications with Jenkins](http://www.cardinalsolutions.com/cardinal/blog/custom-application-development/2014/07/continuous_integrati.html)
 * [Unit Testing w/ AngularJS] (http://moduscreate.com/unit-testing-w-angularjs/)
 * [AngularJS Unit Testing - For Real, Though] (http://quickleft.com/blog/angularjs-unit-testing-for-real-though)
+* [Testing AngularJS Apps Using Karma] (https://www.airpair.com/angularjs/posts/testing-angular-with-karma)
 
 
 ## RESTful Stuff
