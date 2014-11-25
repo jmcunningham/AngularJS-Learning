@@ -5,7 +5,7 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS. Fe
 
 I also blog about Angular and JavaScript topics at [my blog] (http://www.jmcunningham.net).
 
-NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.3. 
+NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.3. Google's post announcing the release of 1.3.0 is [here] (http://angularjs.blogspot.com/2014/10/angularjs-130-superluminal-nudge.html). And the [migration guide] (https://docs.angularjs.org/guide/migration#migrating-from-1-2-to-1-3) from 1.2 to 1.3.
 
 ### Table of Contents
 [Books](#books)  
@@ -175,7 +175,8 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.3.
 * [A Developer’s Guide to Perform SEO on AngularJS Web Apps](http://www.algoworks.com/blog/a-developers-guide-to-perform-seo-on-angularjs-web-apps/)
 * [The Top 10 Mistakes AngularJS Developers Make](http://www.airpair.com/angularjs/posts/top-10-mistakes-angularjs-developers-make)
 * [How I've Improved My Angular Apps by Banning ng-controller ](http://teropa.info/blog/2014/10/24/how-ive-improved-my-angular-apps-by-banning-ng-controller.html)
-* **[EXPLORING ANGULAR 1.3 - ANGULAR-HINT](http://blog.thoughtram.io/angularjs/2014/11/06/exploring-angular-1.3-angular-hint.html)
+* **[Exploring Angular 1.3 - Angular-Hint](http://blog.thoughtram.io/angularjs/2014/11/06/exploring-angular-1.3-angular-hint.html)
+* [**Exploring Angular 1.3 - Stateful Filters] (http://blog.thoughtram.io/angularjs/2014/11/19/exploring-angular-1.3-stateful-filters.html)
 
 ## Introductions/Beginning AngularJS (also look at the multipart articles)
 * [Getting Started With AngularJS] (http://www.adobe.com/devnet/html5/articles/getting-started-with-angularjs.html)
@@ -448,6 +449,9 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.3.
 * [Building Dynamic Angular Forms with ngRepeat and ngForm](http://scotch.io/tutorials/javascript/building-dynamic-angular-forms-with-ngrepeat-and-ngform)
 * [**Taming Forms in AnguarJS 1.3] (http://www.yearofmoo.com/2014/09/taming-forms-in-angularjs-1-3.html)
 * [**Asynchronous form errors and messages in AngularJS] (http://jaysoo.ca/2014/10/14/async-form-errors-and-messages-in-angularjs/)
+* [**$touched is the new $dirty – AngularJS Migration Guide 1.2 to 1.3] (http://blog.lingohub.com/developers/2014/10/angularjs-migration-guide-1-2-to-1-3/)
+* [**Exploring Angular 1.3 - One-Time Bindings] (http://blog.thoughtram.io/angularjs/2014/10/14/exploring-angular-1.3-one-time-bindings.html)
+* [**Exploring Angular 1.3 - ng-model-options] (http://blog.thoughtram.io/angularjs/2014/10/19/exploring-angular-1.3-ng-model-options.html)
 
 ## Authentication
 * [Deal with users authentication in an AngularJS web app] (http://blog.brunoscopelliti.com/deal-with-users-authentication-in-an-angularjs-web-app)
