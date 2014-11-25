@@ -177,6 +177,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.3. Google's post a
 * [How I've Improved My Angular Apps by Banning ng-controller ](http://teropa.info/blog/2014/10/24/how-ive-improved-my-angular-apps-by-banning-ng-controller.html)
 * **[Exploring Angular 1.3 - Angular-Hint](http://blog.thoughtram.io/angularjs/2014/11/06/exploring-angular-1.3-angular-hint.html)
 * [**Exploring Angular 1.3 - Stateful Filters] (http://blog.thoughtram.io/angularjs/2014/11/19/exploring-angular-1.3-stateful-filters.html)
+* [**ngEurope: what's new in Angular 1.3?] (http://petermorlion.blogspot.com/2014/10/ngeurope-whats-new-in-angular-13.html)
 
 ## Introductions/Beginning AngularJS (also look at the multipart articles)
 * [Getting Started With AngularJS] (http://www.adobe.com/devnet/html5/articles/getting-started-with-angularjs.html)
@@ -452,6 +453,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.3. Google's post a
 * [**$touched is the new $dirty – AngularJS Migration Guide 1.2 to 1.3] (http://blog.lingohub.com/developers/2014/10/angularjs-migration-guide-1-2-to-1-3/)
 * [**Exploring Angular 1.3 - One-Time Bindings] (http://blog.thoughtram.io/angularjs/2014/10/14/exploring-angular-1.3-one-time-bindings.html)
 * [**Exploring Angular 1.3 - ng-model-options] (http://blog.thoughtram.io/angularjs/2014/10/19/exploring-angular-1.3-ng-model-options.html)
+* [**Working with Validators and Messages in AngularJS] (http://odetocode.com/blogs/scott/archive/2014/10/16/working-with-validators-and-messages-in-angularjs.aspx)
 
 ## Authentication
 * [Deal with users authentication in an AngularJS web app] (http://blog.brunoscopelliti.com/deal-with-users-authentication-in-an-angularjs-web-app)
