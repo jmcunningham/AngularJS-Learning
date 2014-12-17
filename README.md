@@ -1,9 +1,11 @@
 AngularJS-Learning
 ==================
 
-A bunch of links to blog posts, articles, videos, etc for learning AngularJS. This list is in its early stages. Feel free to submit a pull request if you have some links/resources to add. Also, I try to verify that the articles below have some real content (i.e. aren't 2 paragraph blog posts with little information) to ensure I'm not listing "fluff" pieces. If you have an idea for a better way to organize these links, please let me know. As I find similar posts in the "General Topics" section, I will break them out into their own categories.
+A bunch of links to blog posts, articles, videos, etc for learning AngularJS. Feel free to submit a pull request if you have some links/resources to add. Also, I try to verify that the articles below have some real content (i.e. aren't 2 paragraph blog posts with little information) to ensure I'm not listing "fluff" pieces. If you have an idea for a better way to organize these links, please let me know. As I find similar posts in the "General Topics" section, I will break them out into their own categories.
 
-NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2. 
+I also blog about Angular and JavaScript topics at [my blog] (http://www.jmcunningham.net).
+
+NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.3. Google's post announcing the release of 1.3.0 is [here] (http://angularjs.blogspot.com/2014/10/angularjs-130-superluminal-nudge.html). And the [migration guide] (https://docs.angularjs.org/guide/migration#migrating-from-1-2-to-1-3) from 1.2 to 1.3.
 
 ### Table of Contents
 [Books](#books)  
@@ -12,8 +14,10 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2.
 [Help](#help)  
 [General Topics](#general-topics)  
 [Introductions/Beginning AngularJS](#introductionsbeginning-angularjs-also-look-at-the-multipart-articles)  
-[Content Curation for 7 Days](#curation)  
+[Curation](#curation)  
+[Best Practices/Style Guides](#best-practicesstyle-guides)  
 [Lessons Learned](#lessons-learned)  
+[Boilerplates/Seed Projects](#boilerplatesseed-projects)  
 [Multipart Articles](#multipart-articles)  
 [Sample Apps](#sample-apps)  
 [Scopes & Compile](#scopes--compile)  
@@ -36,18 +40,14 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2.
 [Popular Third-Party Modules](#popular-third-party-modules)  
 [Test Editor Bundles](#text-editor-bundleside-stuff)  
 [Development Tools](#development-tools)  
-[Boilerplates](#boilerplates)  
 
 ## Books
 | Title                                                                                                                                                   |                  Author                  |       Publisher      |    ng Version    | Last Update |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------|:----------------------------------------:|:--------------------:|:----------------:|:-----------:|
-| [AngularJS](http://shop.oreilly.com/product/0636920028055.do)                                                                                           | Brad Green, Shyam Seshadri               | O'Reilly             | v1.0.1 - v1.0.8  |   4/1/2013  |
-| [Instant AngularJS Starter](https://www.packtpub.com/web-development/instant-angularjs-starter-instant)                                                 | Dan Menard                               | Packt Publishing     | ?                |   2/1/2013  |
+| [AngularJS: Up & Running](http://shop.oreilly.com/product/0636920033486.do)                                                                                           | Brad Green, Shyam Seshadri               | O'Reilly             | v1.2.x  |   9/2014  |
 | [Recipes With AngularJS](https://leanpub.com/recipes-with-angular-js)                                                                                   | Frederik Dietz                           | Leanpub              | v1.0.4           |  6/23/2013  |
 | [AngularJS In Action](http://www.manning.com/bford/)                                                                                                    | Brian Ford, Lukas Ruebbelke              | Manning Publications | v1.0.4 - v1.2.14 |     WIP     |
-| [AngularJS For .Net Developers](http://henriquat.re/)                                                                                                   | Ingo Rammer, Christian Weyer, Golo Roden | Self-published       | v1.0.3 - v1.06   |     WIP     |
 | [Mastering Web Application Development With AngularJS](https://www.packtpub.com/web-development/mastering-web-application-development-angularjs)        | Peter Bacon Darwin, Pawel Kozlowski      | Packt Publishing     | v1.0.2 - v1.0.7  |   8/1/2013  |
-| [Developing An AngularJS Edge](http://bleedingedgepress.com/our-books/developing-an-angularjs-edge/)                                                    | Christopher Hiller                       | Bleeding Edge Press  | v1.0.2 - v1.0.5  |  4/10/2013  |
 | [AngularJS Directives](https://www.packtpub.com/web-development/angularjs-directives)                                                                   | Alex Vanston                             | Packt Publishing     | v1.0.6 - v1.0.x  |   9/1/2013  |
 | [ng-book](https://www.ng-book.com)                                                                                                                      | Ari Lerner                               | Self-published       | v1.0.7 - v1.2.6  |  6/24/2014  |
 | [Build Your Own AngularJS](http://teropa.info/build-your-own-angular)                                                                                   | Tero Parviainen                          | Self-published       | v1.x             |     WIP     |
@@ -60,6 +60,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2.
 | [D3 on AngularJS](https://leanpub.com/d3angularjs)                                                                                                      | Ari Lerner, Victor Powell                | Leanpub              | v1.0.7 - v1.2.11 |   6/6/2014  |
 | [Mastering AngularJS Directives](https://www.packtpub.com/application-development/mastering-angularjs-directives)                                       | Josh Kurz                                | Packt Publishing     | v1.2.2 - v1.2.16 |   6/1/2014  |
 | [AngularJS: Novice to Ninja](https://learnable.com/books/angularjs-novice-to-ninja/) | Sandeep Panda | SitePoint | v1.3.0-beta.2 | 25/9/2014 |
+| [Discover AngularJS](https://leanpub.com/discoverangularjs) | Adam Burak | leanpub | ? | 2014/11/10 |
 
 ## Videos
 * [Egghead.io](http://www.egghead.io/) — [source code](https://github.com/msfrisbie/egghead-angularjs)
@@ -73,7 +74,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2.
 * [Show Me AngularJS (Tekpub)](http://tekpub.com/products/angular) — 8 videos (paid)
 * [Easier JavaScript Apps with AngularJS (Tuts+)](https://tutsplus.com/course/easier-js-apps-with-angular/) — 22 videos of about 5 minutes each, in 8 sections (paid)
 * [AngularJS Fundamentals (Pluralsight)] (http://pluralsight.com/training/Courses/TableOfContents/angularjs-fundamentals) - 6 hours 15 minutes total (paid)
-* [**AngularJS 1.2 & Beyond] (http://www.youtube.com/watch?v=W13qDdJDHp8&feature=youtu.be)
+* [AngularJS 1.2 & Beyond] (http://www.youtube.com/watch?v=W13qDdJDHp8&feature=youtu.be)
 * [Example Cases of AngularJS](http://www.youtube.com/playlist?list=PLfLN8Jd9-DVEQ0-PEnVeeUYyO0yg28mhN) - Growing list of 5 minute or less videos
 * [Realtime Web Apps With AngularJS & Firebase] (http://www.youtube.com/watch?v=C7ZI7z7qnHU)
 * [Getting MEAN With MongoDB and AngularJS](https://www.youtube.com/watch?v=XwSFg8nqBFA)
@@ -84,20 +85,24 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2.
 * [ng-conf YouTube Page](http://www.youtube.com/user/ngconfvideos) — YouTube channel with all the presentations given at the Angular Conference in January 2014.
 * [Introduction to Angular.js in 50 Examples (part 1)] (https://www.youtube.com/watch?v=TRrL5j3MIvo&feature=youtu.be)
 * [Real-Time Web Apps With AngularJS and Firebase](https://courses.tutsplus.com/courses/real-time-web-apps-with-angularjs-and-firebase) - Paid
-* [Launch a full product with AngularJS](http://www.angularcourse.com)
 * [Learn to build an application using Angular.js](http://campus.codeschool.com/courses/shaping-up-with-angular-js/intro)
+* [Building a Web App From Scratch With AngularJS](http://code.tutsplus.com/courses/building-a-web-app-from-scratch-with-angularjs) - Paid
 
 ## Courses
 
+* [The Angular Course - Launch a full product with AngularJS](https://www.angularcourse.com) - Over 7 hrs of HD video (Paid)
 * [AngularJS Tutorial - Learn Angular by building a Gmail clone](http://www.thinkful.com/learn/angularjs-tutorial-build-a-gmail-clone) – Mini AngularJS course with video
-* [Thinkster.io - A better way to learn AngularJS](http://www.thinkster.io/) - Free course on AngularJS
-* [Interactive AngularJS tutorials](http://ng-tutorial.mgechev.com/)
 * [AngularJS JumpStart with Dan Wahlin] (https://www.udemy.com/angularjs-jumpstart/?sl=E0EYdlw9RBMALEwzBwZX)
 * [Tuts+: Hands-on Angular] (https://tutsplus.com/course/hands-on-angular/)
 * [Code School Shaping Up with Angular.js](https://www.codeschool.com/courses/shaping-up-with-angular-js)
 * [Lynda Up and Running with AngularJS](http://www.lynda.com/AngularJS-tutorials/Up-Running-AngularJS/154414-2.html)
 * [Codecademy AngularJs](http://www.codecademy.com/courses/javascript-advanced-en-2hJ3J/0/1)
 * [Learn and Understand AngularJS](https://www.udemy.com/learn-angularjs/?couponCode=GITHUB1)
+* [Pluralsight: AngularJS Patterns: Clean Code] (http://www.pluralsight.com/courses/angularjs-patterns-clean-code)
+* [Pluralsight: AngularJS Line of Business Applications] (http://www.pluralsight.com/courses/angularjs-line-of-business-applications)
+* [Building Mobile Apps With the Ionic Framework and AngularJS] (http://www.pluralsight.com/courses/building-mobile-apps-ionic-framework-angularjs)
+* [AngularJS Tutorial: Learn to Build a Real-Time Reddit Clone](https://thinkster.io/angulartutorial/learn-to-build-realtime-webapps/)
+* [AngularJS Tutorial: Learn to Build Modern Web Apps with MEAN](https://thinkster.io/angulartutorial/mean-stack-tutorial/)
 
 ## Curation
 * [AngularJS Content Curation for 7 Days + Demo](http://angularjs.runastartup.com)
@@ -131,7 +136,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2.
 * [AngularJS Abstractions: Modules] (http://odetocode.com/blogs/scott/archive/2013/05/01/angularjs-abstractions-modules.aspx)
 * [Mixing Static Content With ngSwitch And ngSwitchWhen In AngularJS] (http://www.bennadel.com/blog/2507-Mixing-Static-Content-With-ngSwitch-And-ngSwitchWhen-In-AngularJS.htm)
 * [Building large apps with AngularJS] (http://pseudobry.com/building-large-apps-with-angularjs.html)
-* [**Error Message Minification with MinErr] (http://kensheedlo.com/2013/08/15/error-message-minification-with-minerr.html)
+* [Error Message Minification with MinErr] (http://kensheedlo.com/2013/08/15/error-message-minification-with-minerr.html)
 * [How to make your AngularJS app work in IE 8] (http://blog-it.hypoport.de/2013/08/24/how-to-make-your-angularjs-app-work-in-ie-8/)
 * [AngularJS Performance Tuning for Long Lists] (http://tech.small-improvements.com/2013/09/10/angularjs-performance-with-large-lists/)
 * [Responsive Website Using AngularJS] (http://www.innerhtml.com/responsive-website-using-angularjs.html)
@@ -168,7 +173,13 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2.
 * [50 Angular.js Examples](http://curran.github.io/screencasts/introToAngular/exampleViewer/#/)
 * [AngularJS DOM manipulation with jqLite](http://baljeetsingh.in/angularjs-dom-manipulation-jqlite-324/)
 * [A Developer’s Guide to Perform SEO on AngularJS Web Apps](http://www.algoworks.com/blog/a-developers-guide-to-perform-seo-on-angularjs-web-apps/)
-
+* [The Top 10 Mistakes AngularJS Developers Make](http://www.airpair.com/angularjs/posts/top-10-mistakes-angularjs-developers-make)
+* [How I've Improved My Angular Apps by Banning ng-controller ](http://teropa.info/blog/2014/10/24/how-ive-improved-my-angular-apps-by-banning-ng-controller.html)
+* **[Exploring Angular 1.3 - Angular-Hint](http://blog.thoughtram.io/angularjs/2014/11/06/exploring-angular-1.3-angular-hint.html)
+* [**Exploring Angular 1.3 - Stateful Filters] (http://blog.thoughtram.io/angularjs/2014/11/19/exploring-angular-1.3-stateful-filters.html)
+* [**ngEurope: what's new in Angular 1.3?] (http://petermorlion.blogspot.com/2014/10/ngeurope-whats-new-in-angular-13.html)
+* [AngularJS: The Bad Parts](http://larseidnes.com/2014/11/05/angularjs-the-bad-parts/)
+* [The Top 5 Mistakes AngularJS Developers Make Part 3: Overusing $broadcast and $emit](http://csharperimage.jeremylikness.com/2014/12/the-top-5-mistakes-angularjs-developers.html)
 ## Introductions/Beginning AngularJS (also look at the multipart articles)
 * [Getting Started With AngularJS] (http://www.adobe.com/devnet/html5/articles/getting-started-with-angularjs.html)
 * [Everything you need to understand to start with AngularJS] (http://stephanebegaudeau.tumblr.com/post/48776908163/everything-you-need-to-understand-to-start-with)
@@ -191,6 +202,15 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2.
 * [Picking Up Angular, build a twitter-like application](https://github.com/deontologician/pipr/blob/master/tut.org)
 * [Exception Handling in an AngularJS Web Application] (http://blog.loadimpact.com/2014/06/03/exception-handling-in-an-angularjs-web-application-tutorial/)
 * [AngularJS 101: From Zero to Angular in Seconds] (http://www.pubnub.com/blog/angularjs-101-from-zero-to-angular-in-seconds/)
+* [AngularJS Tutorial: A Comprehensive 10,000 Word Guide](http://www.airpair.com/angularjs)
+* [A Better Way to Learn AngularJS](https://thinkster.io/angulartutorial/a-better-way-to-learn-angularjs)
+
+## Best Practices/Style Guides
+* [***My Personal Angular JS Best Practices Guide] (https://github.com/jmcunningham/angularjs-styleguide)
+* [Opinionated AngularJS styleguide for teams] (http://toddmotto.com/opinionated-angular-js-styleguide-for-teams/)
+* [AngularJS Style Guide](https://github.com/johnpapa/angularjs-styleguide) by John Papa: A starting point for AngularJS development teams to provide consistency through good practices.
+* [AngularJS Best Practices: Directory Structure](http://scotch.io/tutorials/javascript/angularjs-best-practices-directory-structure)
+* [AngularJS style guide used at GoCardless] (https://github.com/gocardless/angularjs-style-guide)
 
 ## Lessons Learned
 * [Lessons Learned: A Year with a Large AngularJS Project] (http://joelhooks.com/blog/2013/05/22/lessons-learned-kicking-off-an-angularjs-project/)
@@ -202,8 +222,11 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2.
 * [4 Smooth AngularJS Application Tips] (http://nathanleclaire.com/blog/2014/01/04/5-smooth-angularjs-application-tips/)
 * [Get Your Hands Dirty Refactoring in AngularJS] (http://blog.safaribooksonline.com/2014/04/08/refactoring-angularjs-get-hands-filthy/)
 * [5 AngularJS Antipatterns & Pitfalls] (http://nathanleclaire.com/blog/2014/04/19/5-angularjs-antipatterns-and-pitfalls/)
-* [Opinionated AngularJS styleguide for teams] (http://toddmotto.com/opinionated-angular-js-styleguide-for-teams/)
 * [Speeding up AngularJS apps with simple optimizations](http://www.binpress.com/tutorial/speeding-up-angular-js-with-simple-optimizations/135)
+
+## Boilerplates/Seed Projects
+* [***My Personal Angular JS Seed Project] (https://github.com/jmcunningham/angularBPSeed)
+* [KOAN Stack (Koa, Angular, Node, Mongo, WebSockets)](https://github.com/soygul/koan)
 
 ## Multipart Articles
 * Getting Started with elasticsearch and AngularJS: [Part1 - Searching] (http://www.fullscale.co/blog/2013/02/28/getting_started_with_elasticsearch_and_AngularJS_searching.html), [Part 2: Faceting] (http://www.fullscale.co/blog/2013/03/07/getting_started_with_elasticsearch_and-AngularJS_faceting.html), [Part 3: Visualization] (http://www.fullscale.co/blog/2013/03/20/getting_started_with_elasticsearch_and_AngularJS_d3.html)
@@ -227,6 +250,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2.
 * Building an Angular and Express App: [Part 1](http://start.jcolemorrison.com/building-an-angular-and-express-app-part-1/) , [Part 2](http://start.jcolemorrison.com/building-an-angular-and-express-app-part-2/)
 * Angular Directives: A Beginner's Guide [Part 1](http://blog.trifork.com/2014/04/17/angular-directives-a-beginners-guide-part-1)
 * [Building a blog using Flask and AngularJS Part 1](http://blog.john.mayonvolcanosoftware.com/building-a-blog-using-flask-and-angularjs-part-1/), [Building a blog using Flask and AngularJS Part 2](http://blog.john.mayonvolcanosoftware.com/building-a-blog-using-flask-and-angularjs-part-2/)
+* AngularJS: Looking Under the Hood: [Part 1](https://www.binpress.com/tutorial/angular-js-looking-under-the-hood/153), [Part 2](https://www.binpress.com/tutorial/angular-js-looking-under-the-hood/158)
 
 ## Sample Apps
 * [A Shopping Cart Application Built with AngularJS] (http://www.codeproject.com/Articles/576246/A-Shopping-Cart-Application-Built-with-AngularJS)
@@ -318,7 +342,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2.
 * [Defer DOM Tree Binding In AngularJS With Delayed Transclusion] (http://www.bennadel.com/blog/2557-Defer-DOM-Tree-Binding-In-AngularJS-With-Delayed-Transclusion.htm)
 * Understanding AngularJS Directives: [Part 1:  Ng-repeat and Compile](http://liamkaufman.com/blog/2013/05/13/understanding-angularjs-directives-part1-ng-repeat-and-compile/), [Part 2: ngView](http://liamkaufman.com/blog/2013/11/11/understanding-angularjs-directives-part2-ng-view/)
 * [Advanced Directives: Combining AngularJS with existing Components] (http://henriquat.re/directives/advanced-directives-combining-angular-with-existing-components-and-jquery/angularAndJquery.html)
-* [**Changes In Transclude() Function Availability In AngularJS 1.2] (http://www.bennadel.com/blog/2561-Changes-In-Transclude-Function-Availability-In-AngularJS-1-2.htm)
+* [Changes In Transclude() Function Availability In AngularJS 1.2] (http://www.bennadel.com/blog/2561-Changes-In-Transclude-Function-Availability-In-AngularJS-1-2.htm)
 * [Leveraging Directives To Reduce $Watch'ers In Angular] (http://frontendandvodka.com/watchers-when-performance-is-key/)
 * [Creating Semantic, Reusable Directives in AngularJS](http://jaysoo.ca/2014/01/20/semantic-angularjs-directives/)
 * [Angle Brackets, Synergistic Directives] (http://blog.ponyfoo.com/2014/02/19/angle-brackets-synergistic-directives)
@@ -359,7 +383,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2.
 * [Nested Views, Routing, And Deep Linking With AngularJS] (http://www.bennadel.com/blog/2441-Nested-Views-Routing-And-Deep-Linking-With-AngularJS.htm)
 * [Angular UI router](http://angular-ui.github.io/ui-router/sample/#/)
 * [The basics of using ui-router with AngularJS] (http://joelhooks.com/blog/2013/07/22/the-basics-of-using-ui-router-with-angularjs/)
-* [**AngularJS Routing Changes] (http://weblogs.asp.net/dwahlin/archive/2013/08/14/angularjs-routing-changes.aspx)
+* [AngularJS Routing Changes] (http://weblogs.asp.net/dwahlin/archive/2013/08/14/angularjs-routing-changes.aspx)
 * [Cancelling Route Navigation in AngularJS Controllers] (http://weblogs.asp.net/dwahlin/archive/2013/11/07/cancelling-route-navigation-in-angularjs-controllers.aspx)
 * [AngularJS Routing And Views Tutorial With Example](http://viralpatel.net/blogs/angularjs-routing-and-views-tutorial-with-example)
 * [Single Page Apps with AngularJS Routing and Templating](http://scotch.io/tutorials/javascript/single-page-apps-with-angularjs-routing-and-templating)
@@ -402,7 +426,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2.
 * [Twitter Bootstrap control-group directive for AngularJS] (http://aboutcode.net/2013/07/13/twitter-bootstrap-control-group-directive-for-angularjs.html)
 * [Preventing Duplicate Requests in AngularJS] (http://blog.codebrag.com/post/57412530001/preventing-duplicated-requests-in-angularjs)
 * [AngularJS Missing Directives: Native Form Resets] (http://blog.jasoncust.com/2013/08/angularjs-missing-directives-native.html)
-* [**AngularJS Missing Directives: Focus & Blur] (http://blog.jasoncust.com/2013/08/angularjs-missing-directives-focus-blur_14.html)
+* [AngularJS Missing Directives: Focus & Blur] (http://blog.jasoncust.com/2013/08/angularjs-missing-directives-focus-blur_14.html)
 * [Angular JS: Validating Form Elements in a Repeat] (http://www.benlesh.com/2013/03/angular-js-validating-form-elements-in.html)
 * [Angular JS: Custom Validation via Directives] (http://www.benlesh.com/2012/12/angular-js-custom-validation-via.html)
 * [Angular JS: Form Validation] (http://www.benlesh.com/2012/11/angular-js-form-validation.html)
@@ -425,7 +449,12 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2.
 * ["Add more element" form with Angular](http://blog.chorip.am/articles/add-more-form-style-the-nice-way-with-angularjs/)
 * [AngularJS Multi-Step Form Using UI Router](http://scotch.io/tutorials/javascript/angularjs-multi-step-form-using-ui-router)
 * [Building Dynamic Angular Forms with ngRepeat and ngForm](http://scotch.io/tutorials/javascript/building-dynamic-angular-forms-with-ngrepeat-and-ngform)
-* [Taming Forms in AnguarJS 1.3] (http://www.yearofmoo.com/2014/09/taming-forms-in-angularjs-1-3.html)
+* [**Taming Forms in AnguarJS 1.3] (http://www.yearofmoo.com/2014/09/taming-forms-in-angularjs-1-3.html)
+* [**Asynchronous form errors and messages in AngularJS] (http://jaysoo.ca/2014/10/14/async-form-errors-and-messages-in-angularjs/)
+* [**$touched is the new $dirty – AngularJS Migration Guide 1.2 to 1.3] (http://blog.lingohub.com/developers/2014/10/angularjs-migration-guide-1-2-to-1-3/)
+* [**Exploring Angular 1.3 - One-Time Bindings] (http://blog.thoughtram.io/angularjs/2014/10/14/exploring-angular-1.3-one-time-bindings.html)
+* [**Exploring Angular 1.3 - ng-model-options] (http://blog.thoughtram.io/angularjs/2014/10/19/exploring-angular-1.3-ng-model-options.html)
+* [**Working with Validators and Messages in AngularJS] (http://odetocode.com/blogs/scott/archive/2014/10/16/working-with-validators-and-messages-in-angularjs.aspx)
 
 ## Authentication
 * [Deal with users authentication in an AngularJS web app] (http://blog.brunoscopelliti.com/deal-with-users-authentication-in-an-angularjs-web-app)
@@ -478,7 +507,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2.
 * [How to Unit Test Controllers In AngularJS Without Setting Your Hair On Fire] (http://nathanleclaire.com/blog/2013/12/13/how-to-unit-test-controllers-in-angularjs-without-setting-your-hair-on-fire/)
 * [Testing AngularJS directive templates with Jasmine and Karma] (http://daginge.com/technology/2013/12/14/testing-angular-templates-with-jasmine-and-karma/)
 * [Unit and End to End Testing in AngularJS] (http://www.sitepoint.com/unit-and-e2e-testing-in-angularjs/)
-* **[Testing AngularJS Apps with Protractor] (http://blog.envylabs.com/post/61403296076/testing-angularjs-apps-with-protractor)
+* [Testing AngularJS Apps with Protractor] (http://blog.envylabs.com/post/61403296076/testing-angularjs-apps-with-protractor)
 * [Getting started unit-testing Angular] (http://www.ng-newsletter.com/advent2013/#!/day/19)
 * [Mock Unit Testing a AngularJS Local Storage Service with Karma and Jasmine] (http://ngokevin.com/blog/angular-unit-testing/)
 * [AngularJS End to End Testing With Protractor - Easy Set Up With Yeoman, Grunt, Bower] (http://www.codeorbits.com/blog/2014/01/26/angularjs-end-to-end-testing-with-protractor-easy-set-up-with-yeoman/)
@@ -494,6 +523,8 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2.
 * [Continuous Integration for AngularJS Applications with Jenkins](http://www.cardinalsolutions.com/cardinal/blog/custom-application-development/2014/07/continuous_integrati.html)
 * [Unit Testing w/ AngularJS] (http://moduscreate.com/unit-testing-w-angularjs/)
 * [AngularJS Unit Testing - For Real, Though] (http://quickleft.com/blog/angularjs-unit-testing-for-real-though)
+* [Testing AngularJS Apps Using Karma] (https://www.airpair.com/angularjs/posts/testing-angular-with-karma)
+* [An Introduction To Unit Testing In AngularJS Applications] (http://www.smashingmagazine.com/2014/10/07/introduction-to-unit-testing-in-angularjs/)
 
 
 ## RESTful Stuff
@@ -526,11 +557,11 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2.
 * [AngularJS: Scroll Animations] (http://jjperezaguinaga.wordpress.com/2013/07/16/angularjs-scroll-animations/)
 * [Animating with AngularJS] (http://flippinawesome.org/2013/08/05/animating-with-angularjs/)
 * [Drag and Drop File Upload with AngularJS] (http://buildinternet.com/2013/08/drag-and-drop-file-upload-with-angularjs/)
-* [**Remastered Animation in AngularJS 1.2] (http://www.yearofmoo.com/2013/08/remastered-animation-in-angularjs-1-2.html)
+* [Remastered Animation in AngularJS 1.2] (http://www.yearofmoo.com/2013/08/remastered-animation-in-angularjs-1-2.html)
 * [Angular JS - Scrolling To An Element By Id] (http://www.benlesh.com/2013/02/angular-js-scrolling-to-element-by-id.html)
 * [Building an AngularJS Dialog Service] (http://weblogs.asp.net/dwahlin/archive/2013/08/19/building-an-angularjs-dialog-service.aspx)
-* [**Preparing for Animations in Angular 1.2.0] (http://www.johnpapa.net/preparing-for-animations-in-angular-1-2-0/)
-* [**Replacing jQuery.slideDown() with ngAnimate in AngularJS 1.2.0] (https://www.exratione.com/2013/09/replacing-jqueryslidedown-with-nganimate-in-angularjs-120/)
+* [Preparing for Animations in Angular 1.2.0] (http://www.johnpapa.net/preparing-for-animations-in-angular-1-2-0/)
+* [Replacing jQuery.slideDown() with ngAnimate in AngularJS 1.2.0] (https://www.exratione.com/2013/09/replacing-jqueryslidedown-with-nganimate-in-angularjs-120/)
 * [AngularJS: Blurred image directive] (http://veamospues.wordpress.com/2013/10/13/angularjs-blurred-image-directive/)
 * [Create a “load more” widget using AngularJS, Ajax and Bootstrap 3] (http://julienrenaux.fr/2013/10/27/create-a-load-more-widget-using-angularjs-ajax-and-bootstrap-3/)
 * [ngInfiniteScroll] (http://binarymuse.github.io/ngInfiniteScroll/index.html)
@@ -569,13 +600,13 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2.
 * [How to integrate AngularJS with Rails 4] (https://shellycloud.com/blog/2013/10/how-to-integrate-angularjs-with-rails-4)
 * [Using Breeze JS with Angular to consume Web API OData] (http://sravi-kiran.blogspot.com/2013/11/UsingBreezeJsToConsumeAspNetWebApiODataInAnAngularJsApplication.html)
 * [A better way of using SignalR with Angular JS] (http://sravi-kiran.blogspot.com/2013/09/ABetterWayOfUsingAspNetSignalRWithAngularJs.html)
-* [AngularJS Tutorial: Learn to Rapidly Build Real-time Web Apps with Firebase](http://www.thinkster.io/pick/eHPCs7s87O/angularjs-tutorial-learn-to-rapidly-build-real-time-web-apps-with-firebase)
 * [Using AngularJS with Django](http://glynjackson.org/weblog/entry/django-angular.html)
 * [Using AngularJS/Bootstrap as frontend and CakePHP as REST API producer](https://github.com/hantsy/angularjs-cakephp-sample/wiki)
 * [Creating Charting Directives Using AngularJS and D3.js](http://www.sitepoint.com/creating-charting-directives-using-angularjs-d3-js/)
 * [Laravel 4 & AngularJS E2E secured SPA](http://blog.neoxia.com/laravel4-and-angularjs/)
 * [Tips for using AngularJS in ASP.Net MVC] (http://www.justinobney.com/tips-for-using-angularjs-in-asp-net-mvc/)
 * [Form validation with AngularJS and Rails](http://blog.cesarandreu.com/posts/form_validation_with_angularjs_and_rails)
+* [Building Web Applications with Django and AngularJS](https://thinkster.io/brewer/angular-django-tutorial/)
 
  
 ## Hosted Backends
@@ -610,6 +641,3 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.2.
 ## Development Tools
 * [AngularJS Batarang Chrome Extension](https://github.com/angular/angularjs-batarang)
 * [Scaffolding JSON or restful API to JavaScript and HTML using AngularJS and JQuery](http://spascaffold.azurewebsites.net/AngularJSScaffold)
-
-## Boilerplates
-* [KOAN Stack (Koa, Angular, Node, Mongo, WebSockets)](https://github.com/soygul/koan)
