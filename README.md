@@ -204,6 +204,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.3. Google's post a
 * [AngularJS 101: From Zero to Angular in Seconds] (http://www.pubnub.com/blog/angularjs-101-from-zero-to-angular-in-seconds/)
 * [AngularJS Tutorial: A Comprehensive 10,000 Word Guide](http://www.airpair.com/angularjs)
 * [A Better Way to Learn AngularJS](https://thinkster.io/angulartutorial/a-better-way-to-learn-angularjs)
+* [Breaking Down AngularJS to Smaller Components](https://medium.com/@srph/breaking-down-angularjs-to-smaller-components-f2ab70a104d0)
 
 ## Best Practices/Style Guides
 * [***My Personal Angular JS Best Practices Guide] (https://github.com/jmcunningham/angularjs-styleguide)
