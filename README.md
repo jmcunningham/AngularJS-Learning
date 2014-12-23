@@ -103,6 +103,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.3. Google's post a
 * [Building Mobile Apps With the Ionic Framework and AngularJS] (http://www.pluralsight.com/courses/building-mobile-apps-ionic-framework-angularjs)
 * [AngularJS Tutorial: Learn to Build a Real-Time Reddit Clone](https://thinkster.io/angulartutorial/learn-to-build-realtime-webapps/)
 * [AngularJS Tutorial: Learn to Build Modern Web Apps with MEAN](https://thinkster.io/angulartutorial/mean-stack-tutorial/)
+* [**AngularJS Tutorial - Learn AngularJS in 30 minutes](http://www.revillweb.com/tutorials/angularjs-in-30-minutes-angularjs-tutorial/)
 
 ## Curation
 * [AngularJS Content Curation for 7 Days + Demo](http://angularjs.runastartup.com)
@@ -205,6 +206,8 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.3. Google's post a
 * [AngularJS Tutorial: A Comprehensive 10,000 Word Guide](http://www.airpair.com/angularjs)
 * [A Better Way to Learn AngularJS](https://thinkster.io/angulartutorial/a-better-way-to-learn-angularjs)
 * [Breaking Down AngularJS to Smaller Components](https://medium.com/@srph/breaking-down-angularjs-to-smaller-components-f2ab70a104d0)
+* [Managing Client-Only State in AngularJS](http://www.sitepoint.com/managing-client-state-angularjs/)
+* [***AngularJS one-time binding syntax](http://toddmotto.com/angular-one-time-binding-syntax/)
 
 ## Best Practices/Style Guides
 * [***My Personal Angular JS Best Practices Guide] (https://github.com/jmcunningham/angularjs-styleguide)
@@ -224,6 +227,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.3. Google's post a
 * [Get Your Hands Dirty Refactoring in AngularJS] (http://blog.safaribooksonline.com/2014/04/08/refactoring-angularjs-get-hands-filthy/)
 * [5 AngularJS Antipatterns & Pitfalls] (http://nathanleclaire.com/blog/2014/04/19/5-angularjs-antipatterns-and-pitfalls/)
 * [Speeding up AngularJS apps with simple optimizations](http://www.binpress.com/tutorial/speeding-up-angular-js-with-simple-optimizations/135)
+* [AngularJS Performance in Large Applications](https://www.airpair.com/angularjs/posts/angularjs-performance-large-applications)
 
 ## Boilerplates/Seed Projects
 * [***My Personal Angular JS Seed Project] (https://github.com/jmcunningham/angularBPSeed)
