@@ -97,7 +97,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.3. Google's post a
 * [Code School Shaping Up with Angular.js](https://www.codeschool.com/courses/shaping-up-with-angular-js)
 * [Lynda Up and Running with AngularJS](http://www.lynda.com/AngularJS-tutorials/Up-Running-AngularJS/154414-2.html)
 * [Codecademy AngularJs](http://www.codecademy.com/courses/javascript-advanced-en-2hJ3J/0/1)
-* [Learn and Understand AngularJS](https://www.udemy.com/learn-angularjs/?couponCode=GITHUB1)
+* [Learn and Understand AngularJS](https://www.udemy.com/learn-angularjs/?couponCode=GH19)
 * [Pluralsight: AngularJS Patterns: Clean Code] (http://www.pluralsight.com/courses/angularjs-patterns-clean-code)
 * [Pluralsight: AngularJS Line of Business Applications] (http://www.pluralsight.com/courses/angularjs-line-of-business-applications)
 * [Building Mobile Apps With the Ionic Framework and AngularJS] (http://www.pluralsight.com/courses/building-mobile-apps-ionic-framework-angularjs)
