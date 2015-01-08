@@ -185,6 +185,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.3. Google's post a
 
 ## Introductions/Beginning AngularJS (also look at the multipart articles)
 * [Getting Started With AngularJS] (http://www.adobe.com/devnet/html5/articles/getting-started-with-angularjs.html)
+* [AngularJS Tutorial: A Comprehensive 10,000 Word Guide](https://www.airpair.com/angularjs/posts/angularjs-tutorial)
 * [Everything you need to understand to start with AngularJS] (http://stephanebegaudeau.tumblr.com/post/48776908163/everything-you-need-to-understand-to-start-with)
 * [What To Know To Be An Expert in AngularJS] (http://codigovivo.com/2013/06/09/what-to-know-to-be-an-expert-in-angularjs/)
 * [AngularJS for jQuery Developers] (http://blog.artlogic.com/2013/03/06/angularjs-for-jquery-developers/)
