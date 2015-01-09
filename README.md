@@ -61,6 +61,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.3. Google's post a
 | [Mastering AngularJS Directives](https://www.packtpub.com/application-development/mastering-angularjs-directives)                                       | Josh Kurz                                | Packt Publishing     | v1.2.2 - v1.2.16 |   6/1/2014  |
 | [AngularJS: Novice to Ninja](https://learnable.com/books/angularjs-novice-to-ninja/) | Sandeep Panda | SitePoint | v1.3.0-beta.2 | 25/9/2014 |
 | [Discover AngularJS](https://leanpub.com/discoverangularjs) | Adam Burak | leanpub | ? | 2014/11/10 |
+| [Pro AngularJS](http://www.apress.com/9781430264484) | Adam Freeman | Apress | v1.2.x | 02/04/2014 |
 
 ## Videos
 * [Egghead.io](http://www.egghead.io/) — [source code](https://github.com/msfrisbie/egghead-angularjs)
@@ -182,8 +183,10 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.3. Google's post a
 * [**ngEurope: what's new in Angular 1.3?] (http://petermorlion.blogspot.com/2014/10/ngeurope-whats-new-in-angular-13.html)
 * [AngularJS: The Bad Parts](http://larseidnes.com/2014/11/05/angularjs-the-bad-parts/)
 * [The Top 5 Mistakes AngularJS Developers Make Part 3: Overusing $broadcast and $emit](http://csharperimage.jeremylikness.com/2014/12/the-top-5-mistakes-angularjs-developers.html)
+
 ## Introductions/Beginning AngularJS (also look at the multipart articles)
 * [Getting Started With AngularJS] (http://www.adobe.com/devnet/html5/articles/getting-started-with-angularjs.html)
+* [AngularJS Tutorial: A Comprehensive 10,000 Word Guide](https://www.airpair.com/angularjs/posts/angularjs-tutorial)
 * [Everything you need to understand to start with AngularJS] (http://stephanebegaudeau.tumblr.com/post/48776908163/everything-you-need-to-understand-to-start-with)
 * [What To Know To Be An Expert in AngularJS] (http://codigovivo.com/2013/06/09/what-to-know-to-be-an-expert-in-angularjs/)
 * [AngularJS for jQuery Developers] (http://blog.artlogic.com/2013/03/06/angularjs-for-jquery-developers/)

@@ -34,6 +34,7 @@ AngularJS
 * [Web Development with AngularJS. Часть 1)](https://www.youtube.com/watch?v=w3cPZYyBI_I)
 * [Web Development with AngularJS. Часть 2)](https://www.youtube.com/watch?v=6EplQ3FTAn0)
 * [Angular.js опыт использования, проблемы и решения](https://www.youtube.com/watch?v=xN3hMPIijz0)
+* [Основы Angular.js](https://www.youtube.com/playlist?list=PLY4rE9dstrJxWEX3fCPjFpmcnoU_3GRWW)
  
 ## Книги
 * [РАЗРАБОТКА ВЕБ-ПРИЛОЖЕНИЙ С ИСПОЛЬЗОВАНИЕМ ANGULARJS](http://dmkpress.com/catalog/computer/web/978-5-97060-064-1/)
