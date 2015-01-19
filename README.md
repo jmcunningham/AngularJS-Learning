@@ -185,6 +185,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.3. Google's post a
 * [The Top 5 Mistakes AngularJS Developers Make Part 3: Overusing $broadcast and $emit](http://csharperimage.jeremylikness.com/2014/12/the-top-5-mistakes-angularjs-developers.html)
 * [Making Skinny AngularJS Controllers](https://scotch.io/tutorials/making-skinny-angularjs-controllers)
 * [Using RequireJS in AngularJS Applications](http://www.sitepoint.com/using-requirejs-angularjs-applications/)
+* [You don't always need DI in AngularJS directives](http://michalostruszka.pl/blog/2015/01/18/angular-directives-di/)
 
 ## Introductions/Beginning AngularJS (also look at the multipart articles)
 * [Getting Started With AngularJS] (http://www.adobe.com/devnet/html5/articles/getting-started-with-angularjs.html)
