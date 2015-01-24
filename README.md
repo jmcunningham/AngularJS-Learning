@@ -303,6 +303,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.3. Google's post a
 * [AngularJS: "Controller as" or "$scope"?] (http://codetunnel.com/angularjs-controller-as-or-scope/)
 * [AngularJS’s Controller As and the vm Variable] (http://www.johnpapa.net/angularjss-controller-as-and-the-vm-variable/)
 * [Delaying the $digest Cycle in AngularJS] (http://www.aaron-gray.com/delaying-the-digest-cycle-in-angularjs/)
+* [AngularJS’ Internals In Depth](http://www.smashingmagazine.com/2015/01/22/angularjs-internals-in-depth/)
 
 ## Dependency Injection
 * [The "Magic" behind AngularJS Dependency Injection] (http://www.alexrothenberg.com/2013/02/11/the-magic-behind-angularjs-dependency-injection.html)
