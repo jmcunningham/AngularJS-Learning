@@ -186,6 +186,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.3. Google's post a
 * [Making Skinny AngularJS Controllers](https://scotch.io/tutorials/making-skinny-angularjs-controllers)
 * [Using RequireJS in AngularJS Applications](http://www.sitepoint.com/using-requirejs-angularjs-applications/)
 * [You don't always need DI in AngularJS directives](http://michalostruszka.pl/blog/2015/01/18/angular-directives-di/)
+* [Custom Root URIs For User Profiles with AngularJS](https://medium.com/@internrocket/custom-root-uris-for-user-profiles-with-angularjs-eff3b3458510)
 
 ## Introductions/Beginning AngularJS (also look at the multipart articles)
 * [Getting Started With AngularJS] (http://www.adobe.com/devnet/html5/articles/getting-started-with-angularjs.html)
