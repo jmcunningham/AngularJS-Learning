@@ -16,6 +16,8 @@ Je liste exclusivement les liens en français. Cette liste vient en complément 
 * [AngularJS & le futur du développement web 1] (http://vimeo.com/67375955) — 35:06
 * [AngularJS & le futur du développement web 2] (http://vimeo.com/67544320) — 09:09
 * [Focus sur les filtres AngularJS] (http://vimeo.com/67627121) — 47:26
+* [Formation vidéo Angularjs sur Grafikart] (http://www.grafikart.fr/formation/angularjs) - 02h19
+* [Découverte du Framework, création d'une Todo] (http://www.grafikart.fr/tutoriels/angularjs/angularjs-todo-369) - 39:00
 
 ## Aide
 * [Forum FrAngular] (https://groups.google.com/forum/?fromgroups=#!forum/frangular)
@@ -75,6 +77,7 @@ Je liste exclusivement les liens en français. Cette liste vient en complément 
 * [Drag & Drop avec AngularJS] (http://www.frangular.com/2013/02/drag-drop-avec-angularjs.html)
 * [Le langage d'expressions d'AngularJS] (http://www.frangular.com/2013/03/langage-expressions-angularjs.html)
 * [Traduction des libellés dans les vues AngularJS] (http://www.frangular.com/2012/12/traduction-des-libelles-dans-les-vues-angularjs.html)
+* [ngAnimate] (http://www.grafikart.fr/tutoriels/angularjs/nganimate-467) - 19:00
 
 ## Outils
 * [AngularJS : outils et debug] (http://www.itaware.eu/2012/10/15/angularjs-outils-et-debug/)
