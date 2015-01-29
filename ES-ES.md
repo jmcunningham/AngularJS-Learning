@@ -14,6 +14,10 @@ Los temas se organizarán por categorías (vídeo, libro...). Si crees que hay u
     * - [Un vistazo a ASP.NET Web API](http://youtu.be/gYNV9Couw0I)
     * - [Un vistazo a AngularJS](http://youtu.be/ROFYPESiWpY)
 
+## Libros
+
+* [Desarrollo web ágil con AngularJS](http://carlosazaustre.es/blog/ebook-angular)
+
 ## Conceptos generales
 
 * [Servicios, Inyección de Dependencias y Módulos](http://blog.koalite.com/2013/05/angularjs-servicios-inyeccion-de-dependencias-y-modulos/)
@@ -24,3 +28,6 @@ Los temas se organizarán por categorías (vídeo, libro...). Si crees que hay u
 * [Ejemplos básicos](http://chuwiki.chuidiang.org/index.php?title=Ejemplos_Basicos_con_AngularJS)
 * [Directivas](http://chuwiki.chuidiang.org/index.php?title=Directivas_con_AngularJS)
 * [Comunicación con el servidor](http://chuwiki.chuidiang.org/index.php?title=Comunicar_AngularJS_con_el_Servidor)
+* [¿Qué es AngularJS? Primeros pasos con el framework](http://carlosazaustre.es/blog/empezando-con-angular-js/)
+* [Desarrollo de una WebApp con AngularJS conectada a un API REST Node.js](http://carlosazaustre.es/blog/tutorial-ejemplo-de-aplicacion-web-con-angular-js-y-api-rest-con-node/)
+* [Ejemplo de WebApp con AngularJS y Routing](http://carlosazaustre.es/blog/tutorial-aplicacion-web-con-angularjs-y-routing/)
