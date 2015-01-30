@@ -24,3 +24,4 @@ Los temas se organizarán por categorías (vídeo, libro...). Si crees que hay u
 * [Ejemplos básicos](http://chuwiki.chuidiang.org/index.php?title=Ejemplos_Basicos_con_AngularJS)
 * [Directivas](http://chuwiki.chuidiang.org/index.php?title=Directivas_con_AngularJS)
 * [Comunicación con el servidor](http://chuwiki.chuidiang.org/index.php?title=Comunicar_AngularJS_con_el_Servidor)
+* [Ejemplo sencillo de aplicación móvil con AngularJS](https://github.com/vicentegarcia/app-mobile-angularjs-ratchet2)
