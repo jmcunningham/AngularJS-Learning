@@ -89,6 +89,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.3. Google's post a
 * [Learn to build an application using Angular.js](http://campus.codeschool.com/courses/shaping-up-with-angular-js/intro)
 * [Building a Web App From Scratch With AngularJS](http://code.tutsplus.com/courses/building-a-web-app-from-scratch-with-angularjs) - Paid
 * [Reddit Clone ](https://www.youtube.com/playlist?list=PLV_Z6DwQEeBvcKHnYbBjHHKe36cU5agAA)
+* [AngularJS Directives Fundamentals](http://www.pluralsight.com/courses/angularjs-directive-fundamentals) - Paid
 
 ## Courses
 
