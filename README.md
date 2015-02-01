@@ -600,6 +600,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.3. Google's post a
 * [Adding CSS Animations to AngularJS Applications](www.sitepoint.com/adding-css-animations-angularjs-applications)
 * [JavaScript Animations in AngularJS Applications] (http://www.sitepoint.com/javascript-animations-angularjs-applications/)
 * [Getting Started with Mobile Angular UI] (http://www.sitepoint.com/getting-started-mobile-angular-ui/)
+* [Animate Your Angular Application](http://www.planningforaliens.com/angular/animate-your-angular-application/)
 
 
 ## Integration With Other Languages/Frameworks
