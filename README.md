@@ -266,6 +266,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.3. Google's post a
 * [Building a blog using Flask and AngularJS Part 1](http://blog.john.mayonvolcanosoftware.com/building-a-blog-using-flask-and-angularjs-part-1/), [Building a blog using Flask and AngularJS Part 2](http://blog.john.mayonvolcanosoftware.com/building-a-blog-using-flask-and-angularjs-part-2/)
 * AngularJS: Looking Under the Hood: [Part 1](https://www.binpress.com/tutorial/angular-js-looking-under-the-hood/153), [Part 2](https://www.binpress.com/tutorial/angular-js-looking-under-the-hood/158)
 * Translation and Localization with AngularJSTranslation and Localization with AngularJS [Part 1](http://www.thebhwgroup.com/blog/2015/01/translation-localization-angularjs/)[Part 2](http://www.thebhwgroup.com/blog/2015/01/translation-localization-angularjs-part-2/)
+* AngularJS by Example [Part 1](http://www.revillweb.com/angularjs-by-example/1-introduction/), [Part 2](http://www.revillweb.com/angularjs-by-example/2-project-structure/)
 
 ## Sample Apps
 * [A Shopping Cart Application Built with AngularJS] (http://www.codeproject.com/Articles/576246/A-Shopping-Cart-Application-Built-with-AngularJS)
