@@ -90,6 +90,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.3. Google's post a
 * [Building a Web App From Scratch With AngularJS](http://code.tutsplus.com/courses/building-a-web-app-from-scratch-with-angularjs) - Paid
 * [Reddit Clone ](https://www.youtube.com/playlist?list=PLV_Z6DwQEeBvcKHnYbBjHHKe36cU5agAA)
 * [AngularJS Directives Fundamentals](http://www.pluralsight.com/courses/angularjs-directive-fundamentals) - Paid
+* [Ninja: Building MVP with AngularJS + FireBase by cloning TaskRabbit](http://code4startup.com/projects/ninja-learn-angularjs-firebase-by-cloning-udemy)
 
 ## Courses
 
