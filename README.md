@@ -72,7 +72,6 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.3. Google's post a
 * [Security with Angular JS](http://www.youtube.com/watch?v=18ifoT-Id54) — 29:45
 * [Frontend Workflows with Grunt and Angular JS](http://www.youtube.com/watch?v=fSAgFxjFSqY) — 1:02:37
 * [AngularJS Tutorial](http://www.youtube.com/watch?v=WuiHuZq_cg4) — 12:19
-* [Show Me AngularJS (Tekpub)](http://tekpub.com/products/angular) — 8 videos (paid)
 * [Easier JavaScript Apps with AngularJS (Tuts+)](https://tutsplus.com/course/easier-js-apps-with-angular/) — 22 videos of about 5 minutes each, in 8 sections (paid)
 * [AngularJS Fundamentals (Pluralsight)] (http://pluralsight.com/training/Courses/TableOfContents/angularjs-fundamentals) - 6 hours 15 minutes total (paid)
 * [AngularJS 1.2 & Beyond] (http://www.youtube.com/watch?v=W13qDdJDHp8&feature=youtu.be)
