@@ -31,3 +31,4 @@ Los temas se organizarán por categorías (vídeo, libro...). Si crees que hay u
 * [¿Qué es AngularJS? Primeros pasos con el framework](http://carlosazaustre.es/blog/empezando-con-angular-js/)
 * [Desarrollo de una WebApp con AngularJS conectada a un API REST Node.js](http://carlosazaustre.es/blog/tutorial-ejemplo-de-aplicacion-web-con-angular-js-y-api-rest-con-node/)
 * [Ejemplo de WebApp con AngularJS y Routing](http://carlosazaustre.es/blog/tutorial-aplicacion-web-con-angularjs-y-routing/)
+* [Ejemplo sencillo de aplicación móvil con AngularJS](https://github.com/vicentegarcia/app-mobile-angularjs-ratchet2)
