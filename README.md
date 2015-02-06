@@ -183,7 +183,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.3. Google's post a
 * [**ngEurope: what's new in Angular 1.3?] (http://petermorlion.blogspot.com/2014/10/ngeurope-whats-new-in-angular-13.html)
 * [AngularJS: The Bad Parts](http://larseidnes.com/2014/11/05/angularjs-the-bad-parts/)
 * [The Top 5 Mistakes AngularJS Developers Make Part 3: Overusing $broadcast and $emit](http://csharperimage.jeremylikness.com/2014/12/the-top-5-mistakes-angularjs-developers.html)
-* [The Value of Adding AngularJS to your Development Stack](http://blogs.interfacett.com/value-adding-angularjs-development-stack-dan-wahlin)
+
 ## Introductions/Beginning AngularJS (also look at the multipart articles)
 * [Getting Started With AngularJS] (http://www.adobe.com/devnet/html5/articles/getting-started-with-angularjs.html)
 * [AngularJS Tutorial: A Comprehensive 10,000 Word Guide](https://www.airpair.com/angularjs/posts/angularjs-tutorial)
@@ -212,6 +212,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.3. Google's post a
 * [Breaking Down AngularJS to Smaller Components](https://medium.com/@srph/breaking-down-angularjs-to-smaller-components-f2ab70a104d0)
 * [Managing Client-Only State in AngularJS](http://www.sitepoint.com/managing-client-state-angularjs/)
 * [***AngularJS one-time binding syntax](http://toddmotto.com/angular-one-time-binding-syntax/)
+* [The Value of Adding AngularJS to your Development Stack](http://blogs.interfacett.com/value-adding-angularjs-development-stack-dan-wahlin)
 
 ## Best Practices/Style Guides
 * [***My Personal Angular JS Best Practices Guide] (https://github.com/jmcunningham/angularjs-styleguide)
