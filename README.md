@@ -507,6 +507,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.3. Google's post a
 * [Structuring AngularJS Code] (http://weblogs.asp.net/dwahlin/archive/2013/12/01/structuring-angularjs-code.aspx)
 * [Loading AngularJS Components With RequireJS After Application Bootstrap] (http://www.bennadel.com/blog/2554-Loading-AngularJS-Components-With-RequireJS-After-Application-Bootstrap.htm)
 * [Angular App Structuring Guidelines] (http://www.johnpapa.net/angular-app-structuring-guidelines/)
+* [Side by Side Comparison of Expert Organization Approaches](https://docs.google.com/spreadsheets/d/1fOvWxAKEN_ilcGdkxW5pkW1RSsYckxRihtBQv2wW69Y/edit#gid=0)
 
 ## Testing
 * [Full-Spectrum Testing with AngularJS and Testacular] (http://www.yearofmoo.com/2013/01/full-spectrum-testing-with-angularjs-and-testacular.html)
