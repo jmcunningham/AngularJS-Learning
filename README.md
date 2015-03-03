@@ -394,7 +394,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.3. Google's post a
 * [Service Providers in AngularJS and Logger Implementation] (http://www.webdeveasy.com/service-providers-in-angularjs-and-logger-implementation/) 
 * [AngularJS: Factory vs Service vs Provider] (http://tylermcginnis.com/angularjs-factory-vs-service-vs-provider/)
 * [Building an AngularJS Modal Service](http://weblogs.asp.net/dwahlin/building-an-angularjs-modal-service)
-* [Keeping Angular “service” collection data in sync with controllers] (www.justinobney.com/keeping-angular-service-list-data-in-sync-among-multiple-controllers/)
+* [Keeping Angular “service” collection data in sync with controllers] (http://www.justinobney.com/keeping-angular-service-list-data-in-sync-among-multiple-controllers/)
 
 ## Routing
 * [How to defer route definition in an AngularJS web app] (http://blog.brunoscopelliti.com/how-to-defer-route-definition-in-an-angularjs-web-app)
