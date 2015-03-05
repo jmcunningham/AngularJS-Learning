@@ -511,6 +511,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.3. Google's post a
 * [Side by Side Comparison of Expert Organization Approaches](http://www.dancancro.com/app-file-structure-comparison/)
 
 ## Testing
+* [A Primer on Testing AngularJS Applications] (http://payworksmobile.com/blog/2015/03/05/a-primer-on-testing-angularjs-applications/)
 * [Full-Spectrum Testing with AngularJS and Testacular] (http://www.yearofmoo.com/2013/01/full-spectrum-testing-with-angularjs-and-testacular.html)
 * [Mocking Promises in Unit Tests] (http://codingsmackdown.tv/blog/2012/12/28/mocking-promises-in-unit-tests/)
 * [How To Test An AngularJS Directive] (http://newtriks.com/2013/04/26/how-to-test-an-angularjs-directive/)
