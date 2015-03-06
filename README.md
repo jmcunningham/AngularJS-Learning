@@ -107,6 +107,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.3. Google's post a
 * [AngularJS Tutorial: Learn to Build a Real-Time Reddit Clone](https://thinkster.io/angulartutorial/learn-to-build-realtime-webapps/)
 * [AngularJS Tutorial: Learn to Build Modern Web Apps with MEAN](https://thinkster.io/angulartutorial/mean-stack-tutorial/)
 * [**AngularJS Tutorial - Learn AngularJS in 30 minutes](http://www.revillweb.com/tutorials/angularjs-in-30-minutes-angularjs-tutorial/)
+* [AngularJS Tutorial - W3Schools](http://www.w3schools.com/angular/default.asp) 
 
 ## Curation
 * [AngularJS Content Curation for 7 Days + Demo](http://angularjs.runastartup.com)
