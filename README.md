@@ -243,6 +243,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.3. Google's post a
 
 ## Boilerplates/Seed Projects
 * [***My Personal Angular JS Seed Project] (https://github.com/jmcunningham/angularBPSeed)
+* [Modern Web Seed Project](https://github.com/cjus/modern-web-seed)
 * [KOAN Stack (Koa, Angular, Node, Mongo, WebSockets)](https://github.com/soygul/koan)
 
 ## Multipart Articles
