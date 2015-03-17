@@ -192,6 +192,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.3. Google's post a
 * [AngularJS’ Internals In Depth](http://www.smashingmagazine.com/2015/01/22/angularjs-internals-in-depth/)
 * [Custom Root URIs For User Profiles with AngularJS](https://medium.com/@internrocket/custom-root-uris-for-user-profiles-with-angularjs-eff3b3458510)
 * [Resources to Master AngularJS](https://netguru.co/blog/resources-to-master-angularjs)
+* [A Preview of Angular 2 and TypeScript in Visual Studio](http://blogs.msdn.com/b/visualstudio/archive/2015/03/12/a-preview-of-angular-2-and-typescript-in-visual-studio.aspx)
 
 ## Introductions/Beginning AngularJS (also look at the multipart articles)
 * [Getting Started With AngularJS] (http://www.adobe.com/devnet/html5/articles/getting-started-with-angularjs.html)
