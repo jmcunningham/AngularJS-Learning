@@ -63,7 +63,7 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.3. Google's post a
 | [Discover AngularJS](https://leanpub.com/discoverangularjs) | Adam Burak | leanpub | ? | 2014/11/10 |
 | [Pro AngularJS](http://www.apress.com/9781430264484) | Adam Freeman | Apress | v1.2.x | 02/04/2014 |
 | [Learning AngularJS](http://www.pearsoned.co.uk/bookshop/detail.asp?item=100000000595964) | Brad Dayley | Addison Wesley | v1.3.x | 12/1/2014
-
+| [AngularJS By Example](https://www.packtpub.com/web-development/angularjs-example) | Chandermani | Packt Publishing | v1.3.x | 3/12/2015
 ## Videos
 * [Egghead.io](http://www.egghead.io/) — [source code](https://github.com/msfrisbie/egghead-angularjs)
 * [Video Tutorial: AngularJS Fundamentals in 60-ish Minutes](http://weblogs.asp.net/dwahlin/archive/2013/04/12/video-tutorial-angularjs-fundamentals-in-60-ish-minutes.aspx) — 1:10:50
