@@ -7,6 +7,8 @@ I also blog about Angular and JavaScript topics at [my blog] (http://www.jmcunni
 
 NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.3. Google's post announcing the release of 1.3.0 is [here] (http://angularjs.blogspot.com/2014/10/angularjs-130-superluminal-nudge.html). And the [migration guide] (https://docs.angularjs.org/guide/migration#migrating-from-1-2-to-1-3) from 1.2 to 1.3.
 
+NOTE 2: Soon, I plan to remove all links that deal with Angular 1.0 or 1.1. All links will be 1.2 and above.
+
 ### Table of Contents
 [Books](#books)  
 [Videos](#videos)  
@@ -45,17 +47,14 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.3. Google's post a
 | Title                                                                                                                                                   |                  Author                  |       Publisher      |    ng Version    | Last Update |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------|:----------------------------------------:|:--------------------:|:----------------:|:-----------:|
 | [AngularJS: Up & Running](http://shop.oreilly.com/product/0636920033486.do)                                                                                           | Brad Green, Shyam Seshadri               | O'Reilly             | v1.2.x  |   9/2014  |
-| [Recipes With AngularJS](https://leanpub.com/recipes-with-angular-js)                                                                                   | Frederik Dietz                           | Leanpub              | v1.0.4           |  6/23/2013  |
 | [AngularJS In Action](http://www.manning.com/bford/)                                                                                                    | Brian Ford, Lukas Ruebbelke              | Manning Publications | v1.0.4 - v1.2.14 |     WIP     |
 | [Mastering Web Application Development With AngularJS](https://www.packtpub.com/web-development/mastering-web-application-development-angularjs)        | Peter Bacon Darwin, Pawel Kozlowski      | Packt Publishing     | v1.0.2 - v1.0.7  |   8/1/2013  |
-| [AngularJS Directives](https://www.packtpub.com/web-development/angularjs-directives)                                                                   | Alex Vanston                             | Packt Publishing     | v1.0.6 - v1.0.x  |   9/1/2013  |
-| [ng-book](https://www.ng-book.com)                                                                                                                      | Ari Lerner                               | Self-published       | v1.0.7 - v1.2.6  |  6/24/2014  |
+| [ng-book](https://www.ng-book.com)                                                                                                                      | Ari Lerner                               | Self-published       | v1.0.7 - v1.3.x  |  6/24/2014  |
 | [Build Your Own AngularJS](http://teropa.info/build-your-own-angular)                                                                                   | Tero Parviainen                          | Self-published       | v1.x             |     WIP     |
 | [Dependency Injection with AngularJS](https://www.packtpub.com/web-development/dependency-injection-angularjs)                                          | Alex Knol                                | Packt Publishing     | ?                |  12/1/2013  |
 | [Learning Web Development with Bootstrap and Angular: RAW](https://www.packtpub.com/web-development/learning-web-development-bootstrap-and-angular-raw) | Stephen Radford                          | Packt Publishing     | v1.2.x - v1.3    |     WIP     |
 | [AngularJS Essentials](https://www.packtpub.com/web-development/angularjs-essentials)                                                                   | Rodrigo Branas                           | Packt Publishing     | ?                |     WIP     |
 | [AngularJS Web application development Blueprints : RAW](https://www.packtpub.com/web-development/angularjs-web-application-development-blueprints-raw) | Vinci Rufus                              | Packt Publishing     | ?                |     WIP     |
-| [Practical AngularJS](https://leanpub.com/Practical_AngularJS)                                                                                          | Dinis Cruz                               | Leanpub              | v1.0.7 - v1.2.13 |     WIP     |
 | [AngularJS UI Development](https://www.packtpub.com/web-development/angularjs-ui-development)                                                           | Matthias Nehlsen, Amit Gharat            | Packt Publishing     | v1.2.22 - v1.2.x |     WIP     |
 | [D3 on AngularJS](https://leanpub.com/d3angularjs)                                                                                                      | Ari Lerner, Victor Powell                | Leanpub              | v1.0.7 - v1.2.11 |   6/6/2014  |
 | [Mastering AngularJS Directives](https://www.packtpub.com/application-development/mastering-angularjs-directives)                                       | Josh Kurz                                | Packt Publishing     | v1.2.2 - v1.2.16 |   6/1/2014  |
@@ -64,6 +63,8 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.3. Google's post a
 | [Pro AngularJS](http://www.apress.com/9781430264484) | Adam Freeman | Apress | v1.2.x | 02/04/2014 |
 | [Learning AngularJS](http://www.pearsoned.co.uk/bookshop/detail.asp?item=100000000595964) | Brad Dayley | Addison Wesley | v1.3.x | 12/1/2014
 | [AngularJS By Example](https://www.packtpub.com/web-development/angularjs-example) | Chandermani | Packt Publishing | v1.3.x | 3/12/2015
+| [Angular Basics](http://www.angularjsbook.com/angular-basics/chapters/) | Chris Smith | Scripty Books | v1.3.x | 3/15/2015 |
+
 ## Videos
 * [Egghead.io](http://www.egghead.io/) — [source code](https://github.com/msfrisbie/egghead-angularjs)
 * [Video Tutorial: AngularJS Fundamentals in 60-ish Minutes](http://weblogs.asp.net/dwahlin/archive/2013/04/12/video-tutorial-angularjs-fundamentals-in-60-ish-minutes.aspx) — 1:10:50
