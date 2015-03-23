@@ -663,7 +663,10 @@ NOTE 2: Soon, I plan to remove all links that deal with Angular 1.0 or 1.1. All 
 
 ## Popular Third-Party Modules
 * [Bindonce - watchless AngularJS](https://github.com/Pasvaz/bindonce)
-* [AngularJS Bootstrap](http://angular-ui.github.io/bootstrap/)
+* [UI Bootstrap](http://angular-ui.github.io/bootstrap/)
+* [Angularstrap](http://mgcrea.github.io/angular-strap/)
+* [UI Router](https://github.com/angular-ui/ui-router)
+* [Angular Material](https://material.angularjs.org/#/)
 
 ## Text editor bundles/IDE Stuff
 * [Brackets (AngularJS Extension Available)](http://brackets.io/)
