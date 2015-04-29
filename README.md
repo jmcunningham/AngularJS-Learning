@@ -248,6 +248,7 @@ NOTE 2: Soon, I plan to remove all links that deal with Angular 1.0 or 1.1. All 
 * [AngularJS Performance in Large Applications](https://www.airpair.com/angularjs/posts/angularjs-performance-large-applications)
 
 ## Boilerplates/Seed Projects
+* [Angular Dashboard Seed](https://github.com/flatlogic/angular-dashboard-seed)
 * [***My Personal Angular JS Seed Project] (https://github.com/jmcunningham/angularBPSeed)
 * [Modern Web Seed Project](https://github.com/cjus/modern-web-seed)
 * [KOAN Stack (Koa, Angular, Node, Mongo, WebSockets)](https://github.com/soygul/koan)
