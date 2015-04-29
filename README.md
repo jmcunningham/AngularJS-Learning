@@ -604,7 +604,7 @@ NOTE 2: Soon, I plan to remove all links that deal with Angular 1.0 or 1.1. All 
 * [Easy Animations For AngularJS With Animate.css] (http://odetocode.com/blogs/scott/archive/2014/02/25/easy-animations-for-angularjs-with-animate-css.aspx)
 * [Conditionally Apply a CSS Class with AngularJS] (http://www.ecofic.com/about/blog/conditionally-apply-a-css-class-with-angularjs)
 * [Animating AngularJS Apps: ngView] (http://scotch.io/tutorials/javascript/animating-angularjs-apps-ngview)
-* [Creating Asynchronous Alerts, Prompts, And Confirms In AngularJS] (http://www.bennadel.com/blog/2632-creating-asynchronous-alerts-prompts-and-confirms-in-angularjs.htm
+* [Creating Asynchronous Alerts, Prompts, And Confirms In AngularJS] (http://www.bennadel.com/blog/2632-creating-asynchronous-alerts-prompts-and-confirms-in-angularjs.htm)
 * [Build an animated AngularJS website] (http://www.creativebloq.com/javascript/build-animated-angularjs-website-61411891)
 * [https://medium.com/@mike360/animating-ng-view-on-route-change-in-angularjs-9490811d0470] (Animating ng-view on route change in AngularJS)
 * [Advanced UI, Plugins and Components in AngularJS] (http://slides.yearofmoo.com/fitc-spotlight-angularjs/index.html)
