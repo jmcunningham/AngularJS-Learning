@@ -92,6 +92,7 @@ NOTE 2: Soon, I plan to remove all links that deal with Angular 1.0 or 1.1. All 
 * [AngularJS Directives Fundamentals](http://www.pluralsight.com/courses/angularjs-directive-fundamentals) - Paid
 * [Ninja: Building MVP with AngularJS + FireBase by cloning TaskRabbit](http://code4startup.com/projects/ninja-learn-angularjs-firebase-by-cloning-udemy)
 * [AngularJS Services In-depth](http://www.pluralsight.com/courses/angularjs-services-in-depth) - Paid
+* [AngularJS Office Hours with AngularUI Founder: Best Practices, UI-Router, and ORM](https://www.codementor.io/angularjs/tutorial/angularjs-best-practices-ui-router-orm)
 
 ## Courses
 
@@ -201,6 +202,7 @@ NOTE 2: Soon, I plan to remove all links that deal with Angular 1.0 or 1.1. All 
 * [Creating your first Angular 2 app: From authentication to calling an API and everything in between](https://auth0.com/blog/2015/05/14/creating-your-first-real-world-angular-2-app-from-authentication-to-calling-an-api-and-everything-in-between)
 
 ## Introductions/Beginning AngularJS (also look at the multipart articles)
+
 * [Getting Started With AngularJS] (http://www.adobe.com/devnet/html5/articles/getting-started-with-angularjs.html)
 * [AngularJS Tutorial: A Comprehensive 10,000 Word Guide](https://www.airpair.com/angularjs/posts/angularjs-tutorial)
 * [Everything you need to understand to start with AngularJS] (http://stephanebegaudeau.tumblr.com/post/48776908163/everything-you-need-to-understand-to-start-with)
@@ -229,12 +231,20 @@ NOTE 2: Soon, I plan to remove all links that deal with Angular 1.0 or 1.1. All 
 * [Managing Client-Only State in AngularJS](http://www.sitepoint.com/managing-client-state-angularjs/)
 * [***AngularJS one-time binding syntax](http://toddmotto.com/angular-one-time-binding-syntax/)
 
+### Tutorial Series
+* [Part 1 -- Building a Calendar with LESS CSS, Font Awesome, and Moment](https://www.codementor.io/angularjs/tutorial/angularjs-calendar-directives-less-cess-moment-font-awesome)
+* [Part 2 -- Flipping Tiles with CSS3 Animations and AngularJS](https://www.codementor.io/angularjs/tutorial/animated-flip-tiles-css3-angularjs)
+* [Part 3 -- How to Make a Sliding Menu with Directives](https://www.codementor.io/angularjs/tutorial/making-a-sliding-menu-with-directives-less-css)
+* [Part 4 -- Creating a Focus Text Box Control With Fancy Feedback](https://www.codementor.io/angularjs/tutorial/focus-text-box-control-feedback-input-less-css)
+* [Part 5 -- Creating a Dropdown Control For Your Site](https://www.codementor.io/angularjs/tutorial/create-dropdown-control)
+
 ## Best Practices/Style Guides
 * [***My Personal Angular JS Best Practices Guide] (https://github.com/jmcunningham/angularjs-styleguide)
 * [Opinionated AngularJS styleguide for teams] (http://toddmotto.com/opinionated-angular-js-styleguide-for-teams/)
 * [AngularJS Style Guide](https://github.com/johnpapa/angularjs-styleguide) by John Papa: A starting point for AngularJS development teams to provide consistency through good practices.
 * [AngularJS Best Practices: Directory Structure](http://scotch.io/tutorials/javascript/angularjs-best-practices-directory-structure)
 * [AngularJS style guide used at GoCardless] (https://github.com/gocardless/angularjs-style-guide)
+* [Learn AngularJS Online - A Guide](https://www.codementor.io/learn-angularjs)
 
 ## Lessons Learned
 * [Lessons Learned: A Year with a Large AngularJS Project] (http://joelhooks.com/blog/2013/05/22/lessons-learned-kicking-off-an-angularjs-project/)
