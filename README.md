@@ -570,6 +570,7 @@ NOTE 2: Soon, I plan to remove all links that deal with Angular 1.0 or 1.1. All 
 * [AngularJS Unit Testing - For Real, Though] (http://quickleft.com/blog/angularjs-unit-testing-for-real-though)
 * [Testing AngularJS Apps Using Karma] (https://www.airpair.com/angularjs/posts/testing-angular-with-karma)
 * [An Introduction To Unit Testing In AngularJS Applications] (http://www.smashingmagazine.com/2014/10/07/introduction-to-unit-testing-in-angularjs/)
+* [AngularJS Testing Tips: Testing Directives](http://www.sitepoint.com/angular-testing-tips-testing-directives/)
 
 
 ## RESTful Stuff
