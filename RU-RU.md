@@ -36,8 +36,7 @@ AngularJS
 * [Основы Angular.js](https://www.youtube.com/playlist?list=PLY4rE9dstrJxWEX3fCPjFpmcnoU_3GRWW)
  
 ## Книги
-* [РАЗРАБОТКА ВЕБ-ПРИЛОЖЕНИЙ С ИСПОЛЬЗОВАНИЕМ ANGULARJS](http://dmkpress.com/catalog/computer/web/978-5-97060-064-1/)
-* 
+* [Разработка Веб-приложений с использованием AngularJS](http://dmkpress.com/catalog/computer/web/978-5-97060-064-1/)
 
 ## Помощь
 * [RU StackOverflow](http://ru.stackoverflow.com/questions/tagged/angularjs)
