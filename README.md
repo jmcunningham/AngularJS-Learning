@@ -401,6 +401,7 @@ NOTE 2: Soon, I plan to remove all links that deal with Angular 1.0 or 1.1. All 
 * [Custom Directives In AngularJS](http://blog.hfarazm.com/category/angular-js/)
 * [Extending HTML with AngularJS's Directives](http://code.tutsplus.com/tutorials/extending-html-with-angularjss-directives--cms-21840)
 * [Developing With AngularJS? Forget jQuery Exists.](http://tech.zumba.com/2014/08/02/angularjs-forget-jquery/)
+* [A Guide To Transclusion In AngularJS](http://teropa.info/blog/2015/06/09/transclusion.html)
 
 ## Services/Providers
 * [Angular service or factory?] (http://iffycan.blogspot.com/2013/05/angular-service-or-factory.html)
