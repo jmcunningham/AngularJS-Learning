@@ -93,6 +93,7 @@ NOTE 2: Soon, I plan to remove all links that deal with Angular 1.0 or 1.1. All 
 * [Ninja: Building MVP with AngularJS + FireBase by cloning TaskRabbit](http://code4startup.com/projects/ninja-learn-angularjs-firebase-by-cloning-udemy)
 * [AngularJS Services In-depth](http://www.pluralsight.com/courses/angularjs-services-in-depth) - Paid
 * [AngularJS Office Hours with AngularUI Founder: Best Practices, UI-Router, and ORM](https://www.codementor.io/angularjs/tutorial/angularjs-best-practices-ui-router-orm)
+* [Learn AngularJs by Building 10 Projects](http://www.eduonix.com/courses/Web-Development/Learn-Angular.Js-by-Building-10-Projects) - Paid
 
 ## Courses
 
