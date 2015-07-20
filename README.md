@@ -95,6 +95,7 @@ NOTE 2: Soon, I plan to remove all links that deal with Angular 1.0 or 1.1. All 
 * [AngularJS Office Hours with AngularUI Founder: Best Practices, UI-Router, and ORM](https://www.codementor.io/angularjs/tutorial/angularjs-best-practices-ui-router-orm)
 * [Learn AngularJs by Building 10 Projects](http://www.eduonix.com/courses/Web-Development/Learn-Angular.Js-by-Building-10-Projects) - Paid
 * [AngularJS for Test-Driven Development](http://code.tutsplus.com/courses/angularjs-for-test-driven-development)
+* [Treehouse Tutorial](http://teamtreehouse.com/library/angularjs) - Paid
 
 ## Courses
 
