@@ -308,6 +308,7 @@ NOTE 2: Soon, I plan to remove all links that deal with Angular 1.0 or 1.1. All 
 * [Building the 2048 game in AngularJS](http://www.ng-newsletter.com/posts/building-2048-in-angularjs.html)
 * [Building a Chat App with node-webkit, Firebase, and AngularJS](http://www.sitepoint.com/building-chat-app-node-webkit-firebase-angularjs/)
 * [Writing AngularJS Apps Using ES6](http://www.sitepoint.com/writing-angularjs-apps-using-es6/)
+* [Angular Material Admin Dashboard](https://github.com/flatlogic/angular-material-dashboard)
 
 ## Scopes & Compile
 * [AngularJS and scope.$apply] (http://jimhoskins.com/2012/12/17/angularjs-and-apply.html)
