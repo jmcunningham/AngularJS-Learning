@@ -71,7 +71,7 @@
 * [AngularJS Google+ Community] (https://plus.google.com/u/0/communities/115368820700870330756)
 * [reddit] (http://www.reddit.com/r/angularjs)
 
-## 一般主題 General TOpics
+## 一般主題 General Topics
 * [AngularJS Cheat Sheet] (http://www.cheatography.com/proloser/cheat-sheets/angularjs/)
 * [What stumped me about AngularJS] (http://www.peterbe.com/plog/what-stumped-me-about-angularjs)
 * [5 reasons to use AngularJS in the corporate app world] (http://oscarvillarreal.com/2013/05/07/5-reasons-to-use-angularjs-in-the-corporate-app-world/)
@@ -218,7 +218,7 @@
 * [Configuring Dependency Injection in AngularJS] (http://joelhooks.com/blog/2013/08/18/configuring-dependency-injection-in-angularjs/)
 * [Defining Instantiatable Classes In The AngularJS Dependency Injection Framework] (http://www.bennadel.com/blog/2527-Defining-Instantiatable-Classes-In-The-AngularJS-Dependency-Injection-Framework.htm)
 
-## Directives
+## 指令 Directives
 * [AngularJS directives and the computer science of JavaScript] (http://www.adobe.com/devnet/html5/articles/angularjs-directives-and-the-computer-science-of-javascript.html)
 * [AngularJS Directives - Domain-Specific Extensions to HTML] (http://henriquat.re/directives/introduction-to-directives/introductionToDirectives.html)
 * [AngularJS Directives Tutorial] (http://www.befundoo.com/university/tutorials/angularjs-directives-tutorial/)
@@ -264,7 +264,7 @@
 * [How to integrate your UI Widgets with AngularJS] (http://blog.mobiscroll.com/how-to-integrate-your-ui-widgets-with-angularjs/)
 * [Writing More Maintainable Angular.js Directives] (http://www.codelord.net/2014/03/30/writing-more-maintainable-angular-dot-js-directives/)
 
-## Services/Providers
+## 服務/提供者 Services/Providers
 * [Angular service or factory?] (http://iffycan.blogspot.com/2013/05/angular-service-or-factory.html)
 * [How to create (singleton) AngularJS services in 4 different ways] (http://blog.jdriven.com/2013/03/how-to-create-singleton-angularjs-services-in-4-different-ways/)
 * [Moving AJAX calls to a custom service in Angular JS] (http://sravi-kiran.blogspot.com/2013/03/MovingAjaxCallsToACustomServiceInAngularJS.html)
@@ -279,7 +279,7 @@
 * [Object-oriented AngularJS Services] (http://blog.revolunet.com/blog/2014/02/14/angularjs-services-inheritance/)
 * [Service Providers in AngularJS and Logger Implementation](http://www.webdeveasy.com/service-providers-in-angularjs-and-logger-implementation/)
 
-## Routing
+## 路由 Routing
 * [How to defer route definition in an AngularJS web app] (http://blog.brunoscopelliti.com/how-to-defer-route-definition-in-an-angularjs-web-app)
 * [AngularJS State Management with ui-router] (http://txt.fliglio.com/2013/05/angularjs-state-management-with-ui-router/)
 * [Nested Views, Routing, And Deep Linking With AngularJS] (http://www.bennadel.com/blog/2441-Nested-Views-Routing-And-Deep-Linking-With-AngularJS.htm)
@@ -353,7 +353,7 @@
 * [Cookies vs Tokens. Getting auth right with Angular.JS] (http://blog.auth0.com/2014/01/07/angularjs-authentication-with-cookies-vs-token/)
 * [Techniques for authentication in AngularJS applications] (https://medium.com/opinionated-angularjs/7bbf0346acec)
 
-## Collections (& ngRepeat Stuff)
+## 集合 Collections (& ngRepeat Stuff)
 * [Working With Inherited Collections in AngularJS] (http://www.bennadel.com/blog/2485-Working-With-Inherited-Collections-In-AngularJS.htm)
 * [Adding An ngRepeat List Delimiter In AngularJS] (http://www.bennadel.com/blog/2451-Adding-An-ngRepeat-List-Delimiter-In-AngularJS.htm)
 * [Grouping Nested ngRepeat Lists In AngularJS] (http://www.bennadel.com/blog/2456-Grouping-Nested-ngRepeat-Lists-In-AngularJS.htm)
