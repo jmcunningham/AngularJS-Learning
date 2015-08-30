@@ -582,6 +582,7 @@ NOTE 2: Soon, I plan to remove all links that deal with Angular 1.0 or 1.1. All 
 * [AngularJS Testing Tips: Testing Directives](http://www.sitepoint.com/angular-testing-tips-testing-directives/)
 * [Unit testing AngularJS applications](https://www.airpair.com/angularjs/posts/unit-testing-angularjs-applications)
 * [Proper testing of Angular JS applications with ES6 modules](https://medium.com/@tomastrajan/proper-testing-of-angular-js-applications-with-es6-modules-8cf31113873f)
+* [Angular Unit Testing Quick Start](http://angulartestingquickstart.com/)
 
 
 ## RESTful Stuff
