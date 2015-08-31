@@ -61,11 +61,12 @@ NOTE 2: Soon, I plan to remove all links that deal with Angular 1.0 or 1.1. All 
 | [D3 on AngularJS](https://leanpub.com/d3angularjs)                                                                                                      | Ari Lerner, Victor Powell                | Leanpub              | v1.0.7 - v1.2.11 |   6/6/2014  |
 | [Mastering AngularJS Directives](https://www.packtpub.com/application-development/mastering-angularjs-directives)                                       | Josh Kurz                                | Packt Publishing     | v1.2.2 - v1.2.16 |   6/1/2014  |
 | [AngularJS: Novice to Ninja](https://learnable.com/books/angularjs-novice-to-ninja/) | Sandeep Panda | SitePoint | v1.3.0-beta.2 | 25/9/2014 |
-| [Discover AngularJS](https://leanpub.com/discoverangularjs) | Adam Burak | leanpub | ? | 2014/11/10 |
+| [Discover AngularJS](https://leanpub.com/discoverangularjs) | Adam Burak | Leanpub | ? | 2014/11/10 |
 | [Pro AngularJS](http://www.apress.com/9781430264484) | Adam Freeman | Apress | v1.2.x | 02/04/2014 |
 | [Learning AngularJS](http://www.pearsoned.co.uk/bookshop/detail.asp?item=100000000595964) | Brad Dayley | Addison Wesley | v1.3.x | 12/1/2014
 | [AngularJS By Example](https://www.packtpub.com/web-development/angularjs-example) | Chandermani | Packt Publishing | v1.3.x | 3/12/2015
 | [Angular Basics](http://www.angularjsbook.com/angular-basics/chapters/) | Chris Smith | Scripty Books | v1.3.x | 3/15/2015 |
+| [Recipes with Angular.js](https://leanpub.com/recipes-with-angular-js/read)| Frederik Dietz | Leanpub | ? | ? |
 
 ## Videos
 * [Egghead.io](http://www.egghead.io/) — [source code](https://github.com/msfrisbie/egghead-angularjs)
@@ -120,6 +121,8 @@ NOTE 2: Soon, I plan to remove all links that deal with Angular 1.0 or 1.1. All 
 * [Thinkster: Mastering the Ionic Framework](https://thinkster.io/ionic-framework-tutorial/)
 * [**AngularJS Tutorial - Learn AngularJS in 30 minutes](http://www.revillweb.com/tutorials/angularjs-in-30-minutes-angularjs-tutorial/)
 * [AngularJS Tutorial - W3Schools](http://www.w3schools.com/angular/default.asp)
+* [Learn Angular](http://www.learn-angular.org/)
+* [Tagtree Angular Course](http://tagtree.io/courses/angular)
 
 ## Curation
 * [AngularJS Content Curation for 7 Days + Demo](http://angularjs.runastartup.com)
@@ -582,7 +585,7 @@ NOTE 2: Soon, I plan to remove all links that deal with Angular 1.0 or 1.1. All 
 * [AngularJS Testing Tips: Testing Directives](http://www.sitepoint.com/angular-testing-tips-testing-directives/)
 * [Unit testing AngularJS applications](https://www.airpair.com/angularjs/posts/unit-testing-angularjs-applications)
 * [Proper testing of Angular JS applications with ES6 modules](https://medium.com/@tomastrajan/proper-testing-of-angular-js-applications-with-es6-modules-8cf31113873f)
-
+* [Angular Unit Testing Quick Start](http://angulartestingquickstart.com/)
 
 ## RESTful Stuff
 * [Using RESTful Controllers In An AngularJS Resource] (http://www.bennadel.com/blog/2433-Using-RESTful-Controllers-In-An-AngularJS-Resource.htm)
