@@ -67,6 +67,10 @@ NOTE 2: Soon, I plan to remove all links that deal with Angular 1.0 or 1.1. All 
 | [AngularJS By Example](https://www.packtpub.com/web-development/angularjs-example) | Chandermani | Packt Publishing | v1.3.x | 3/12/2015
 | [Angular Basics](http://www.angularjsbook.com/angular-basics/chapters/) | Chris Smith | Scripty Books | v1.3.x | 3/15/2015 |
 | [Recipes with Angular.js](https://leanpub.com/recipes-with-angular-js/read)| Frederik Dietz | Leanpub | ? | ? |
+| [AngularJS Cookbook](https://leanpub.com/angularjs-cookbook)| Sascha Brink | Leanpub | v1.2.x | ? |
+| [AngularJS with Ruby on Rails](http://angular-rails.com/)| David Bryant Copeland | ? | ? | ? |
+| [Practical AngularJS](https://leanpub.com/Practical_AngularJS)| Dinis Cruz | Leanpub | ? | ? |
+| [Web Component Architecture & Development with AngularJS](https://leanpub.com/web-component-development-with-angularjs)| David Shapiro | Leanpub | v1.2.16 | ? |
 
 ## Videos
 * [Egghead.io](http://www.egghead.io/) — [source code](https://github.com/msfrisbie/egghead-angularjs)
