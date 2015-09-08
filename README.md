@@ -71,6 +71,7 @@ NOTE 2: Soon, I plan to remove all links that deal with Angular 1.0 or 1.1. All 
 | [AngularJS with Ruby on Rails](http://angular-rails.com/)| David Bryant Copeland | ? | ? | ? |
 | [Practical AngularJS](https://leanpub.com/Practical_AngularJS)| Dinis Cruz | Leanpub | ? | ? |
 | [Web Component Architecture & Development with AngularJS](https://leanpub.com/web-component-development-with-angularjs)| David Shapiro | Leanpub | v1.2.16 | ? |
+| [Deep Dive into Angular.js Directives](https://leanpub.com/angularjsdirectives) | Jesús Rodríguez | Leanpub | v.1.3.x | 
 
 ## Videos
 * [Egghead.io](http://www.egghead.io/) — [source code](https://github.com/msfrisbie/egghead-angularjs)
