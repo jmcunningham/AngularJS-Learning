@@ -23,7 +23,7 @@ AngularJS
 * [AngularJS关于依赖和模块与amd/cmd的区别，分享下结合使用示例](http://key232323.iteye.com/blog/1769376)
 * [搞懂 AngularJS 預設模組 select 標籤的 ngOptions 參數用法](http://blog.miniasp.com/post/2013/05/12/AngularJS-ng-module-select-ngOptions-usage-samples.aspx)
 * [如何讓 Visual Studio 2012 支援 AngularJS 的 Intellisense](http://blog.miniasp.com/post/2013/05/08/AngularJS-Intellisense-in-Visual-Studio-2012.aspx)
-* [如何组织大型JavaScript应用中的代码？](hhttp://www.csdn.net/article/2013-04-27/2815077-code-organization-angularjs-javascript)
+* [如何组织大型JavaScript应用中的代码？](http://www.csdn.net/article/2013-04-27/2815077-code-organization-angularjs-javascript)
 
 
 ## 论坛
