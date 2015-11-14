@@ -218,6 +218,7 @@ NOTE 2: Soon, I plan to remove all links that deal with Angular 1.0 or 1.1. All 
 * [Creating your first Angular 2 app: From authentication to calling an API and everything in between](https://auth0.com/blog/2015/05/14/creating-your-first-real-world-angular-2-app-from-authentication-to-calling-an-api-and-everything-in-between)
 * [How to do loading spinners, the Angular way.](http://codetunnel.io/how-to-do-loading-spinners-the-angular-way/)
 * [The offline experience (or, saying goodbye to imperative data fetching)](https://medium.com/@plestik/the-offline-experience-or-saying-goodbye-to-imperative-data-fetching-9b2fa487eea7)
+* [Exploring the Angular 1.5 .component() method](http://toddmotto.com/exploring-the-angular-1-5-component-method/)
 
 ## Introductions/Beginning AngularJS (also look at the multipart articles)
 
