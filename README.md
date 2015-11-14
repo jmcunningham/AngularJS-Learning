@@ -456,6 +456,7 @@ NOTE 2: Soon, I plan to remove all links that deal with Angular 1.0 or 1.1. All 
 * [Using Resolve In AngularJS Routes] (http://odetocode.com/blogs/scott/archive/2014/05/20/using-resolve-in-angularjs-routes.aspx)
 
 ## Promises/Deferred
+* [A better way to learn angularjs promises] (https://thinkster.io/a-better-way-to-learn-angularjs/promises)
 * [Enhancing Angular Promises: Returning new promise of field or method called from original promise’s result] (http://www.blogeek.com.ar/2013/05/02/enhancing-angular-promises-returning-new-promise-of-field-or-method-called-from-original-promises-result/)
 * [AngularJS promise, or dealing with asynchronous requests in AngularJS] (http://blog.brunoscopelliti.com/angularjs-promise-or-dealing-with-asynchronous-requests-in-angularjs)
 * [Taking Advantage of Futures in AngularJS] (http://imownbey.github.io/skinny_controllers_for_yeezus.html)
