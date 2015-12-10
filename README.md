@@ -356,6 +356,7 @@ NOTE 2: Soon, I plan to remove all links that deal with Angular 1.0 or 1.1. All 
 * [AngularJS’s Controller As and the vm Variable] (http://www.johnpapa.net/angularjss-controller-as-and-the-vm-variable/)
 * [Delaying the $digest Cycle in AngularJS] (http://www.aaron-gray.com/delaying-the-digest-cycle-in-angularjs/)
 * [AngularJS’ Internals In Depth](http://www.smashingmagazine.com/2015/01/22/angularjs-internals-in-depth/)
+* [Superfast Angular: use ngModelOptions to limit $digest cycles](http://toddmotto.com/super-fast-angular-ng-model-options-limit-digest-cycles/)
 
 ## Dependency Injection
 * [The "Magic" behind AngularJS Dependency Injection] (http://www.alexrothenberg.com/2013/02/11/the-magic-behind-angularjs-dependency-injection.html)
