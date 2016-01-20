@@ -12,7 +12,6 @@ NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.3. Google's post a
 NOTE 2: Soon, I plan to remove all links that deal with Angular 1.0 or 1.1. All links will be 1.2 and above.
 
 ### Table of Contents
-=====================
 
   * [Books](#books)
   * [Videos](#videos)
