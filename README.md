@@ -107,6 +107,7 @@ NOTE 2: Soon, I plan to remove all links that deal with Angular 1.0 or 1.1. All 
 * [Treehouse Tutorial](http://teamtreehouse.com/library/angularjs) - Paid
 * [Creating a Quiz with AngularJS](http://www.lynda.com/AngularJS-tutorials/Creating-Quiz-AngularJS/373557-2.html) - Paid
 * [Angular Routing In-depth](http://www.pluralsight.com/courses/angular-routing-in-depth) - Paid
+* [Angular JS Tutorial](https://www.youtube.com/playlist?list=PLYxzS__5yYQmX2bItSRCqwiQZn5dIL1gt) - 42 videos of 6-7 minutes each covering Angular Fundamentals.
 
 ## Courses
 
