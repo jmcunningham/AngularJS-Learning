@@ -412,7 +412,7 @@ NOTE 2: Soon, I plan to remove all links that deal with Angular 1.0 or 1.1. All 
 * [Creating Semantic, Reusable Directives in AngularJS](http://jaysoo.ca/2014/01/20/semantic-angularjs-directives/)
 * [Angle Brackets, Synergistic Directives] (http://blog.ponyfoo.com/2014/02/19/angle-brackets-synergistic-directives)
 * [Transclusion in Angular] (http://engineering.nulogy.com/posts/transclusion-in-angular/)
-* [Designing AngularJS Directives] (http://engineering.nulogy.com/posts/designing-angularjs-directives/)
+* [Designing AngularJS Directives] (http://nulogy.com/who-we-are/company-blog/articles/designing-angularjs-directives/)
 * [How to integrate your UI Widgets with AngularJS] (http://blog.mobiscroll.com/how-to-integrate-your-ui-widgets-with-angularjs/)
 * [Writing More Maintainable Angular.js Directives] (http://www.codelord.net/2014/03/30/writing-more-maintainable-angular-dot-js-directives/)
 * [Creating Custom AngularJS Directives Part I - Fundamentals](http://weblogs.asp.net/dwahlin/creating-custom-angularjs-directives-part-i-the-fundamentals)
