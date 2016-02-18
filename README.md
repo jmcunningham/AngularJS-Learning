@@ -542,6 +542,7 @@ NOTE 2: Soon, I plan to remove all links that deal with Angular 1.0 or 1.1. All 
 * [Using ngController With ngRepeat In AngularJS] (http://www.bennadel.com/blog/2450-Using-ngController-With-ngRepeat-In-AngularJS.htm)
 * [Rendering DOM Elements With ngRepeat In AngularJS] (http://www.bennadel.com/blog/2443-Rendering-DOM-Elements-With-ngRepeat-In-AngularJS.htm)
 * [Improving ng-repeat Performance with “track by”] (http://www.codelord.net/2014/04/15/improving-ng-repeat-performance-with-track-by/)
+* [Boost the Performance of an AngularJS Application Using Immutable Data] (http://blog.mgechev.com/2015/03/02/immutability-in-angularjs-immutablejs)
 
 
 ## Code Organization
