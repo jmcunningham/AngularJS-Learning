@@ -111,7 +111,7 @@ NOTE 2: Soon, I plan to remove all links that deal with Angular 1.0 or 1.1. All 
 
 ## Courses
 
-* [AngularJS for the Real World - Learn by creating a WebApp](https://www.udemy.com/angularjs-for-the-real-world-learn-to-create-a-webapp/?couponCode=gitdev19A) - 6 hrs video  + source code (Paid 85% discount)
+* [AngularJS for the Real World - Learn by creating a WebApp](https://www.udemy.com/angularjs-for-the-real-world-learn-to-create-a-webapp/?couponCode=gitdev20A) - 7 hrs video  + source code (Paid 50% discount)
 * [The Angular Course - Launch a full product with AngularJS](https://www.angularcourse.com) - Over 7 hrs of HD video (Paid)
 * [AngularJS Tutorial - Learn Angular by building a Gmail clone](https://www.thinkful.com/learn/angularjs-tutorial-build-a-gmail-clone/) – Mini AngularJS course with video
 * [AngularJS JumpStart with Dan Wahlin] (https://www.udemy.com/angularjs-jumpstart/?sl=E0EYdlw9RBMALEwzBwZX)
