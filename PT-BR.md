@@ -14,9 +14,11 @@ Vamos tentar manter aqui conteúdo "real" (e não apenas pequenos parágrafos se
 
 ## Vídeo Tutoriais
 * [Introdução ao AngularJS] (https://www.youtube.com/watch?v=iCQ3qic_nGg)
+* [Tudo sobre AngularJS](https://www.youtube.com/playlist?list=PLQCmSnNFVYnTD5p2fR4EXmtlR6jQJMbPb)
 * [Tunando o browser com o AngularJS] (https://www.youtube.com/watch?v=Ph9hVLTmF2E)
 * [Iniciando com AngularJS - Implementando um carrinho de compras] (https://www.youtube.com/watch?v=aICbo3f5wzY)
 * [Iniciando com AngularJS - Data bindings] (https://www.youtube.com/watch?v=wZnoyGQV9hE)
+* [Componentes AngularJS](http://www.infoq.com/br/presentations/componentes-angular-js)
 
 ## Palestras
 * [Angular JS, você precisa conhecer] (https://www.youtube.com/watch?v=PbQn2AKsou0)
