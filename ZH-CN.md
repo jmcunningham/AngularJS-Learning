@@ -112,7 +112,7 @@ AngularJS
 * [AngularJS Google+的社区] (https://plus.google.com/u/0/communities/115368820700870330756)
 * [reddit] (http://www.reddit.com/r/angularjs)
 
-## 一般主题 General TOpics
+## 一般主题 General Topics
 * [AngularJS 速查表] (http://www.cheatography.com/proloser/cheat-sheets/angularjs/)
 * [AngularJS 乐趣] (http://devgirl.org/2013/03/21/fun-with-angularjs/)
 * [AngularJS Philly ETE 幻灯] (http://onehungrymind.com/angularjs-philly-ete-slides/)
