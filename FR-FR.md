@@ -17,7 +17,6 @@ Je liste exclusivement les liens en français. Cette liste vient en complément 
 * [AngularJS & le futur du développement web 2] (http://vimeo.com/67544320) — 35:06
 * [Focus sur les filtres AngularJS] (http://vimeo.com/67627121) — 47:26
 * [Formation vidéo Angularjs sur Grafikart] (http://www.grafikart.fr/formation/angularjs) - 02h19
-* [Découverte du Framework, création d'une Todo] (http://www.grafikart.fr/tutoriels/angularjs/angularjs-todo-369) - 39:00
 
 ## Aide
 * [Forum FrAngular] (https://groups.google.com/forum/?fromgroups=#!forum/frangular)
