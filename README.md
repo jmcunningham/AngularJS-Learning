@@ -154,7 +154,7 @@ NOTE 2: Soon, I plan to remove all links that deal with Angular 1.0 or 1.1. All 
 * [Angularytics: The solution to tracking page views and events in a SPA with AngularJS] (http://gon.to/2013/06/03/angularytics-the-solution-to-tracking-page-views-and-events-in-a-spa-with-angularjs/)
 * [Sharing Data, State and Models on AngularJS: Alternatives, comparison and my solution] (http://gon.to/2013/05/01/sharing-data-state-on-angularjs-alternatives-comparison-and-my-solution/)
 * [Angular.js and IE8 caching] (http://www.jefclaes.be/2013/06/angularjs-and-ie8-caching.html)
-* [HTML5 local storage with Angular JS] (http://amitavroy.com/justread/content/articles/html5-local-storage-angular-js)
+* [HTML5 local storage with Angular JS] (http://www.amitavroy.com/justread/content/articles/html5-local-storage-with-angular-js/)
 * [Modeling Data and State in Your AngularJS Application] (http://joelhooks.com/blog/2013/04/24/modeling-data-and-state-in-your-angularjs-application/)
 * [Code Reuse in AngularJS] (https://www.phase2technology.com/blog/code-reuse-in-angularjs/)
 /dynamically-loading-controllers-and-views-with-angularjs-and-requirejs.aspx)
