@@ -74,7 +74,7 @@ AngularJS
 
 ## 影片 Videos
 * [Egghead.io](http://www.egghead.io/) — 44 videos of about 4 minutes each — [source code](https://github.com/msfrisbie/egghead-angularjs)
-* [视屏教程: 60分钟教你 AngularJS 基础入门](http://weblogs.asp.net/dwahlin/archive/2013/04/12/video-tutorial-angularjs-fundamentals-in-60-ish-minutes.aspx) — 1:10:50
+* [视频教程: 60分钟教你 AngularJS 基础入门](http://weblogs.asp.net/dwahlin/archive/2013/04/12/video-tutorial-angularjs-fundamentals-in-60-ish-minutes.aspx) — 1:10:50
 * [AngularJS YouTube 主页](http://www.youtube.com/user/angularjs) — several videos, mostly presentations of 1h or more
 * [Angular JS 入门](http://www.youtube.com/watch?v=8ILQOFAgaXE) — 50:05
 * [Angular JS 端对端测试](http://www.youtube.com/watch?v=hqAyiqUs93c) — 52:59
