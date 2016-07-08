@@ -225,7 +225,7 @@ NOTE 2: Soon, I plan to remove all links that deal with Angular 1.0 or 1.1. All 
 ## Introductions/Beginning AngularJS (also look at the multipart articles)
 
 * [Getting Started With AngularJS] (http://www.adobe.com/devnet/archive/html5/articles/getting-started-with-angularjs.html)
-* [AngularJS Tutorial: A Comprehensive 10,000 Word Guide](https://www.airpair.com/angularjs/posts/angularjs-tutorial)
+* [AngularJS Tutorial: A Comprehensive 10,000 Word Guide](https://www.airpair.com/angularjs/)
 * [Everything you need to understand to start with AngularJS] (http://stephanebegaudeau.tumblr.com/post/48776908163/everything-you-need-to-understand-to-start-with)
 * [What To Know To Be An Expert in AngularJS] (http://codigovivo.com/2013/06/09/what-to-know-to-be-an-expert-in-angularjs/)
 * [AngularJS for jQuery Developers] (http://blog.artlogic.com/2013/03/06/angularjs-for-jquery-developers/)
@@ -246,7 +246,6 @@ NOTE 2: Soon, I plan to remove all links that deal with Angular 1.0 or 1.1. All 
 * [Picking Up Angular, build a twitter-like application](https://github.com/deontologician/pipr/blob/master/tut.org)
 * [Exception Handling in an AngularJS Web Application] (http://blog.loadimpact.com/2014/06/03/exception-handling-in-an-angularjs-web-application-tutorial)
 * [AngularJS 101: From Zero to Angular in Seconds] (https://www.pubnub.com/blog/2014-04-30-angularjs-101-from-zero-to-angular-in-seconds/)
-* [AngularJS Tutorial: A Comprehensive 10,000 Word Guide](https://www.airpair.com/angularjs)
 * [Thinkster: A Better Way to Learn AngularJS](https://thinkster.io/a-better-way-to-learn-angularjs)
 * [Breaking Down AngularJS to Smaller Components](https://medium.com/@srph/breaking-down-angularjs-to-smaller-components-f2ab70a104d0)
 * [Managing Client-Only State in AngularJS](http://www.sitepoint.com/managing-client-state-angularjs/)
