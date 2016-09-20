@@ -660,6 +660,8 @@ NOTE 2: Soon, I plan to remove all links that deal with Angular 1.0 or 1.1. All 
 * [Animate Your Angular Application](http://www.planningforaliens.com/angular/animate-your-angular-application/)
 * [Using AngularJS for Data Visualisations](https://css-tricks.com/using-angularjs-for-data-visualisations/)
 * [Thinkster: Creating Animations in Angular with ngAnimate](https://thinkster.io/angular-animations-tutorial)
+* [Paginate (almost) Anything in AngularJS](http://www.michaelbromley.co.uk/blog/108/paginate-almost-anything-in-angularjs)
+* [Make It Easy: Client side pagination using angular js](http://www.angulartutorial.net/2014/03/client-side-pagination-using-angular-js.html)
 
 
 ## Integration With Other Languages/Frameworks
