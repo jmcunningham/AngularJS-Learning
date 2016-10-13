@@ -1,7 +1,7 @@
 AngularJS-Learning
 ==================
 
-NOTE: As of July 20, 2015, there is a [new repo for collecting links to Angular 2] (https://github.com/jmcunningham/AngularJS2-Learning). This list is barebones at the moment, so feel free to start adding links via PRs :)
+NOTE: As of October 2016, there is a [new repo for collecting links to Angular 2] (https://github.com/jmcunningham/AngularJS2-Learning). I had plans of updating this ng 1 list to focus mostly on Angular 1.5, but I'm ready to move my efforts on to ng2. This repo will likely see little activity from me, though I will still accept PRs for anyone who wants to update this for ng 1.5.
 
 A bunch of links to blog posts, articles, videos, etc for learning AngularJS. Feel free to submit a pull request if you have some links/resources to add. Also, I try to verify that the articles below have some real content (i.e. aren't 2 paragraph blog posts with little information) to ensure I'm not listing "fluff" pieces. If you have an idea for a better way to organize these links, please let me know. As I find similar posts in the "General Topics" section, I will break them out into their own categories.
 
