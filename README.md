@@ -117,6 +117,7 @@ NOTE 2: Soon, I plan to remove all links that deal with Angular 1.0 or 1.1. All 
 * [AngularJS JumpStart with Dan Wahlin] (https://www.udemy.com/angularjs-jumpstart/?sl=E0EYdlw9RBMALEwzBwZX)
 * [Tuts+: Hands-on Angular] (https://tutsplus.com/course/hands-on-angular/)
 * [Code School Shaping Up with Angular.js](https://www.codeschool.com/courses/shaping-up-with-angular-js)
+* [Coursera: Single Page Web Applications with AngularJS](https://www.coursera.org/learn/single-page-web-apps-with-angularjs)
 * [Lynda Up and Running with AngularJS](http://www.lynda.com/AngularJS-tutorials/Up-Running-AngularJS/154414-2.html)
 * [Codecademy AngularJs](https://www.codecademy.com/courses/javascript-advanced-en-2hJ3J/0/1)
 * [Learn and Understand AngularJS](https://www.udemy.com/learn-angularjs/?couponCode=GH19)
