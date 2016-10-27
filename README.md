@@ -689,11 +689,11 @@ NOTE 2: Soon, I plan to remove all links that deal with Angular 1.0 or 1.1. All 
 * [Writing Reusable AngularJS Components with Bower] (http://briantford.com/blog/angular-bower)
 
 ## Hosted Backends
+* [Building Offline Applications With AngularJS and PouchDB] (http://mircozeiss.com/building-offline-applications-with-angularjs-and-pouchdb/)
+* [CRUD backend for Angular with Backlift] (https://blog.backlift.com/entry/angular-tut1)
+* [CRUD backend for Angular with DreamFactory] (http://www.dreamfactory.com/angularjs-example)
 * [Parse.com boilerplate for building large, complex AngularJS apps](http://brandid.github.io/parse-angular-demo/#/features)
 * [Realtime database for your Angular app with Firebase] (https://github.com/firebase/angularFire)
-* [CRUD backend for Angular with Backlift] (https://blog.backlift.com/entry/angular-tut1)
-* [Building Offline Applications With AngularJS and PouchDB] (http://mircozeiss.com/building-offline-applications-with-angularjs-and-pouchdb/)
-* [CRUD backend for Angular with DreamFactory] (http://www.dreamfactory.com/angularjs-example)
 * [Three-Way Data Binding with Firebase and Angular] (https://www.firebase.com/blog/2013-10-04-firebase-angular-data-binding.html)
 
 ## Mobile
