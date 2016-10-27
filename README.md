@@ -610,11 +610,11 @@ NOTE 2: Soon, I plan to remove all links that deal with Angular 1.0 or 1.1. All 
 * [XHR Interceptor in an AngularJS web app] (http://blog.brunoscopelliti.com/xhr-interceptor-in-an-angularjs-web-app/)
 
 ## Localization
-* [Localizing Your AngularJS Apps] (http://codingsmackdown.tv/blog/2013/04/23/localizing-your-angularjs-apps-update/)
-* [Internazionalization (i18n) with AngularJS] (http://blog.brunoscopelliti.com/internazionalization-i18n-with-angularjs/)
 * [AngularJS And i18n] (https://coderwall.com/p/uyrtpq)
 * [Easy global i18n angularJS language translations for your Angular app] (http://www.ng-newsletter.com/posts/angular-translate.html)
+* [Internazionalization (i18n) with AngularJS] (http://blog.brunoscopelliti.com/internazionalization-i18n-with-angularjs/)
 * [INTERNATIONALIZATION WITH ANGULARJS](http://blog.trifork.com/2014/04/10/internationalization-with-angularjs/)
+* [Localizing Your AngularJS Apps] (http://codingsmackdown.tv/blog/2013/04/23/localizing-your-angularjs-apps-update/)
 
 ## UI Stuff
 * [Angular UI suite (including some subprojects)](http://angular-ui.github.io/)
