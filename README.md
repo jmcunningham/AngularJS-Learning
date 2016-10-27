@@ -282,10 +282,10 @@ NOTE 2: Soon, I plan to remove all links that deal with Angular 1.0 or 1.1. All 
 
 ## Boilerplates/Seed Projects
 * [Angular Dashboard Seed](https://github.com/flatlogic/angular-dashboard-seed)
-* [***My Personal Angular JS Seed Project] (https://github.com/jmcunningham/angularBPSeed)
-* [Modern Web Seed Project](https://github.com/cjus/modern-web-seed)
 * [KOAN Stack (Koa, Angular, Node, Mongo, WebSockets)](https://github.com/soygul/koan)
 * [loopback-angular-admin (Loopback REST API with a AngularJS frontend)](https://github.com/beeman/loopback-angular-admin)
+* [Modern Web Seed Project](https://github.com/cjus/modern-web-seed)
+* [***My Personal Angular JS Seed Project] (https://github.com/jmcunningham/angularBPSeed)
 
 ## Multipart Articles
 * Getting Started with elasticsearch and AngularJS: [Part1 - Searching] (http://www.fullscale.co/blog/2013/02/28/getting_started_with_elasticsearch_and_AngularJS_searching.html), [Part 2: Faceting] (http://www.fullscale.co/blog/2013/03/07/getting_started_with_elasticsearch_and-AngularJS_faceting.html), [Part 3: Visualization] (http://www.fullscale.co/blog/2013/03/20/getting_started_with_elasticsearch_and_AngularJS_d3.html)
