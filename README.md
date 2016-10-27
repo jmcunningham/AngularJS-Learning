@@ -112,27 +112,27 @@ NOTE 2: Soon, I plan to remove all links that deal with Angular 1.0 or 1.1. All 
 ## Courses
 
 * [AngularJS for the Real World - Learn by creating a WebApp](https://www.udemy.com/angularjs-for-the-real-world-learn-to-create-a-webapp/?couponCode=GITDEV29A) - 7 hrs video  + source code (Paid 50% discount)
-* [The Angular Course - Launch a full product with AngularJS](https://www.angularcourse.com) - Over 7 hrs of HD video (Paid)
-* [AngularJS Tutorial - Learn Angular by building a Gmail clone](https://www.thinkful.com/learn/angularjs-tutorial-build-a-gmail-clone/) – Mini AngularJS course with video
 * [AngularJS JumpStart with Dan Wahlin] (https://www.udemy.com/angularjs-jumpstart/?sl=E0EYdlw9RBMALEwzBwZX)
-* [Tuts+: Hands-on Angular] (https://tutsplus.com/course/hands-on-angular/)
+* [AngularJS Tutorial - Learn Angular by building a Gmail clone](https://www.thinkful.com/learn/angularjs-tutorial-build-a-gmail-clone/) – Mini AngularJS course with video
+* [**AngularJS Tutorial - Learn AngularJS in 30 minutes](http://www.revillweb.com/tutorials/angularjs-in-30-minutes-angularjs-tutorial/)
+* [AngularJS Tutorial - W3Schools](http://www.w3schools.com/angular/default.asp)
+* [Building Mobile Apps With the Ionic Framework and AngularJS] (https://www.pluralsight.com/courses/building-mobile-apps-ionic-framework-angularjs)
 * [Code School Shaping Up with Angular.js](https://www.codeschool.com/courses/shaping-up-with-angular-js)
-* [Coursera: Single Page Web Applications with AngularJS](https://www.coursera.org/learn/single-page-web-apps-with-angularjs)
-* [Lynda Up and Running with AngularJS](http://www.lynda.com/AngularJS-tutorials/Up-Running-AngularJS/154414-2.html)
 * [Codecademy AngularJs](https://www.codecademy.com/courses/javascript-advanced-en-2hJ3J/0/1)
+* [Coursera: Single Page Web Applications with AngularJS](https://www.coursera.org/learn/single-page-web-apps-with-angularjs)
 * [Learn and Understand AngularJS](https://www.udemy.com/learn-angularjs/?couponCode=GH19)
+* [Learn Angular](http://www.learn-angular.org/)
+* [Lynda Up and Running with AngularJS](http://www.lynda.com/AngularJS-tutorials/Up-Running-AngularJS/154414-2.html)
 * [Pluralsight: AngularJS Patterns: Clean Code] (https://www.pluralsight.com/courses/angularjs-patterns-clean-code)
 * [Pluralsight: AngularJS Line of Business Applications] (https://www.pluralsight.com/courses/angularjs-line-of-business-applications)
-* [Building Mobile Apps With the Ionic Framework and AngularJS] (https://www.pluralsight.com/courses/building-mobile-apps-ionic-framework-angularjs)
+* [Tagtree Angular Course](http://tagtree.io/courses/angular)
+* [The Angular Course - Launch a full product with AngularJS](https://www.angularcourse.com) - Over 7 hrs of HD video (Paid)
 * [Thinkster: AngularJS Tutorial: Learn to Build Modern Web Apps with MEAN](https://thinkster.io/mean-stack-tutorial)
 * [Thinkster: Building Web Applications with Django and AngularJS](https://thinkster.io/django-angularjs-tutorial)
 * [Thinkster: Building Web Applications with Rails and AngularJS](https://thinkster.io/angular-rails)
 * [Thinkster: Learn to Build a Real-Time Reddit Clone with Firebase and AngularJS](https://thinkster.io/angularfire-slack-tutorial)
 * [Thinkster: Mastering the Ionic Framework](https://thinkster.io/ionic-framework-tutorial)
-* [**AngularJS Tutorial - Learn AngularJS in 30 minutes](http://www.revillweb.com/tutorials/angularjs-in-30-minutes-angularjs-tutorial/)
-* [AngularJS Tutorial - W3Schools](http://www.w3schools.com/angular/default.asp)
-* [Learn Angular](http://www.learn-angular.org/)
-* [Tagtree Angular Course](http://tagtree.io/courses/angular)
+* [Tuts+: Hands-on Angular] (https://tutsplus.com/course/hands-on-angular/)
 
 ## Curation
 * [AngularJS Content Curation for 7 Days + Demo](http://angularjs.runastartup.com)
