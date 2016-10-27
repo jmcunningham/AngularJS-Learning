@@ -545,18 +545,18 @@ NOTE 2: Soon, I plan to remove all links that deal with Angular 1.0 or 1.1. All 
 
 
 ## Code Organization
+* [Angular App Structuring Guidelines] (http://www.johnpapa.net/angular-app-structuring-guidelines/)
+* [AngularJS Modules for Great Justice] (http://codingsmackdown.tv/blog/2013/04/19/angularjs-modules-for-great-justice/)
 * [Building Huuuuuge Apps with AngularJS] (http://briantford.com/blog/huuuuuge-angular-apps)
 * [Code Organization in Large AngularJS and JavaScript Applications] (http://cliffmeyers.com/blog/2013/4/21/code-organization-angularjs-javascript)
-* [Proposed Angular’s WebPage structure] (http://gon.to/2013/05/18/proposed-angulars-project-structure/)
-* [The right way of coding AngularJS: How to organize a regular WebApp. Basic Example] (http://gon.to/2013/03/23/the-right-way-of-coding-angularjs-how-to-organize-a-regular-webapp/)
-* [AngularJS Modules for Great Justice] (http://codingsmackdown.tv/blog/2013/04/19/angularjs-modules-for-great-justice/)
-* [ngDefine: AngularJS & RequireJS] (https://github.com/Nikku/requirejs-angular-define)
-* [Modular AngularJS App Design] (http://clintberry.com/2013/modular-angularjs-application-design/)
-* [Using RequireJS with AngularJS DI] (http://solutionoptimist.com/2013/09/30/requirejs-angularjs-dependency-injection/)
-* [Structuring AngularJS Code] (http://weblogs.asp.net/dwahlin/structuring-angularjs-code)
 * [Loading AngularJS Components With RequireJS After Application Bootstrap] (http://www.bennadel.com/blog/2554-loading-angularjs-components-with-requirejs-after-application-bootstrap.htm)
-* [Angular App Structuring Guidelines] (http://www.johnpapa.net/angular-app-structuring-guidelines/)
+* [Modular AngularJS App Design] (http://clintberry.com/2013/modular-angularjs-application-design/)
+* [ngDefine: AngularJS & RequireJS] (https://github.com/Nikku/requirejs-angular-define)
+* [Proposed Angular’s WebPage structure] (http://gon.to/2013/05/18/proposed-angulars-project-structure/)
 * [Side by Side Comparison of Expert Organization Approaches](http://www.dancancro.com/app-file-structure-comparison/)
+* [Structuring AngularJS Code] (http://weblogs.asp.net/dwahlin/structuring-angularjs-code)
+* [The right way of coding AngularJS: How to organize a regular WebApp. Basic Example] (http://gon.to/2013/03/23/the-right-way-of-coding-angularjs-how-to-organize-a-regular-webapp/)
+* [Using RequireJS with AngularJS DI] (http://solutionoptimist.com/2013/09/30/requirejs-angularjs-dependency-injection/)
 
 ## Testing
 * [A Primer on Testing AngularJS Applications] (http://www.payworksmobile.com/legacy_blog/2015/03/05/a-primer-on-testing-angularjs-applications/)
