@@ -315,15 +315,15 @@ NOTE 2: Soon, I plan to remove all links that deal with Angular 1.0 or 1.1. All 
 
 ## Sample Apps
 * [A Shopping Cart Application Built with AngularJS] (http://www.codeproject.com/Articles/576246/A-Shopping-Cart-Application-Built-with-AngularJS)
+* [Angular Material Admin Dashboard](https://github.com/flatlogic/angular-material-dashboard)
 * [Build a feed reader with the Google feed API and AngularJS] (http://cacodaemon.de/index.php?id=51)
-* [Learning AngularJS by Example – The Customer Manager Application] (http://weblogs.asp.net/dwahlin/learning-angularjs-by-example-the-customer-manager-application)
-* [Remote Desktop Client with AngularJS and Yeoman](http://blog.mgechev.com/2014/02/08/remote-desktop-vnc-client-with-angularjs-and-yeoman/)
+* [Building a Chat App with node-webkit, Firebase, and AngularJS](http://www.sitepoint.com/building-chat-app-node-webkit-firebase-angularjs/)
+* [Building the 2048 game in AngularJS](http://www.ng-newsletter.com/posts/building-2048-in-angularjs.html)
 * [Create a TV Show Tracker using AngularJS, Node.js and MongoDB](http://sahatyalkabov.com/create-a-tv-show-tracker-using-angularjs-nodejs-and-mongodb/)
 * [Creating a CRUD App in Minutes with Angular’s $resource](http://www.sitepoint.com/creating-crud-app-minutes-angulars-resource/)
-* [Building the 2048 game in AngularJS](http://www.ng-newsletter.com/posts/building-2048-in-angularjs.html)
-* [Building a Chat App with node-webkit, Firebase, and AngularJS](http://www.sitepoint.com/building-chat-app-node-webkit-firebase-angularjs/)
+* [Learning AngularJS by Example – The Customer Manager Application] (http://weblogs.asp.net/dwahlin/learning-angularjs-by-example-the-customer-manager-application)
+* [Remote Desktop Client with AngularJS and Yeoman](http://blog.mgechev.com/2014/02/08/remote-desktop-vnc-client-with-angularjs-and-yeoman/)
 * [Writing AngularJS Apps Using ES6](http://www.sitepoint.com/writing-angularjs-apps-using-es6/)
-* [Angular Material Admin Dashboard](https://github.com/flatlogic/angular-material-dashboard)
 
 ## Scopes & Compile
 * [AngularJS and scope.$apply] (http://jimhoskins.com/2012/12/17/angularjs-and-apply.html)
