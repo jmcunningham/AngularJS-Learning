@@ -460,17 +460,17 @@ NOTE 2: Soon, I plan to remove all links that deal with Angular 1.0 or 1.1. All 
 
 ## Promises/Deferred
 * [A better way to learn angularjs promises] (https://thinkster.io/a-better-way-to-learn-angularjs/promises)
-* [Enhancing Angular Promises: Returning new promise of field or method called from original promise’s result] (http://gon.to/2013/05/02/enhancing-angular-promises-returning-new-promise-of-field-or-method-called-from-original-promises-result/)
-* [AngularJS promise, or dealing with asynchronous requests in AngularJS] (http://blog.brunoscopelliti.com/angularjs-promise-or-dealing-with-asynchronous-requests-in-angularjs/)
-* [Taking Advantage of Futures in AngularJS] (http://imownbey.github.io/skinny_controllers_for_yeezus.html)
-* [Using Promises in AngularJS Views] (http://markdalgleish.com/2013/06/using-promises-in-angularjs-views/)
-* [Using AngularJS Promises] (http://liamkaufman.com/blog/2013/09/09/using-angularjs-promises/)
-* [Show route only after all promises are resolved] (http://blog.brunoscopelliti.com/show-route-only-after-all-promises-are-resolved/)
-* [The AngularJs Promise Anti-Pattern That Makes Me Cry] (http://terussell85.github.io/blog/2013/12/23/the-angularjs-promise-anti-pattern-that-makes-me-cry/)
-* [Promises & Design Patterns in AngularJS](http://blog.xebia.com/promises-and-design-patterns-in-angularjs/)
-* [Canceling $http Requests in AngularJS] (http://odetocode.com/blogs/scott/archive/2014/04/24/canceling-http-requests-in-angularjs.aspx)
 * [AngularJS Promises - The Definitive Guide](http://www.dwmkerr.com/promises-in-angularjs-the-definitive-guide/)
+* [AngularJS promise, or dealing with asynchronous requests in AngularJS] (http://blog.brunoscopelliti.com/angularjs-promise-or-dealing-with-asynchronous-requests-in-angularjs/)
+* [Canceling $http Requests in AngularJS] (http://odetocode.com/blogs/scott/archive/2014/04/24/canceling-http-requests-in-angularjs.aspx)
+* [Enhancing Angular Promises: Returning new promise of field or method called from original promise’s result] (http://gon.to/2013/05/02/enhancing-angular-promises-returning-new-promise-of-field-or-method-called-from-original-promises-result/)
+* [Promises & Design Patterns in AngularJS](http://blog.xebia.com/promises-and-design-patterns-in-angularjs/)
 * [Promises in AngularJS, Explained as a Cartoon](http://andyshora.com/promises-angularjs-explained-as-cartoon.html)
+* [Show route only after all promises are resolved] (http://blog.brunoscopelliti.com/show-route-only-after-all-promises-are-resolved/)
+* [Taking Advantage of Futures in AngularJS] (http://imownbey.github.io/skinny_controllers_for_yeezus.html)
+* [The AngularJs Promise Anti-Pattern That Makes Me Cry] (http://terussell85.github.io/blog/2013/12/23/the-angularjs-promise-anti-pattern-that-makes-me-cry/)
+* [Using AngularJS Promises] (http://liamkaufman.com/blog/2013/09/09/using-angularjs-promises/)
+* [Using Promises in AngularJS Views] (http://markdalgleish.com/2013/06/using-promises-in-angularjs-views/)
 
 ## Forms
 * [Form Validation the AngularJS Way] (http://blog.brunoscopelliti.com/form-validation-the-angularjs-way/)
