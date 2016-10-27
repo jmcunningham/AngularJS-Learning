@@ -268,17 +268,17 @@ NOTE 2: Soon, I plan to remove all links that deal with Angular 1.0 or 1.1. All 
 * [Opinionated AngularJS styleguide for teams] (https://toddmotto.com/opinionated-angular-js-styleguide-for-teams/)
 
 ## Lessons Learned
+* [4 Smooth AngularJS Application Tips] (http://nathanleclaire.com/blog/2014/01/04/5-smooth-angularjs-application-tips/)
+* [5 AngularJS Antipatterns & Pitfalls] (http://nathanleclaire.com/blog/2014/04/19/5-angularjs-antipatterns-and-pitfalls/)
+* [AngularJS Performance in Large Applications](https://www.airpair.com/angularjs/posts/angularjs-performance-large-applications)
+* [AngularJS tips and tricks for neophytes and the all-around curious developer.] (http://www.bytesforthought.com/angularjs-tips/)
+* [Get Your Hands Dirty Refactoring in AngularJS] (http://blog.safaribooksonline.com/2014/04/08/refactoring-angularjs-get-hands-filthy/)
+* [How to build a large Angular.js application] (https://gocardless.com/blog/building-a-large-angular-application/)
+* [I Wish I Knew Then What I Know Now — Life With AngularJS] (https://objectpartners.com/2013/08/09/i-wish-i-knew-then-what-i-know-now-life-with-angularjs/)
 * [Lessons Learned: A Year with a Large AngularJS Project] (http://joelhooks.com/blog/2013/05/22/lessons-learned-kicking-off-an-angularjs-project/)
 * [Some AngularJS Pitfalls] (http://branchandbound.net/blog/web/2013/08/some-angularjs-pitfalls/)
-* [Things I Wish I Were Told About Angular.js] (http://ruoyusun.com/2013/05/25/things-i-wish-i-were-told-about-angular-js.html)
-* [I Wish I Knew Then What I Know Now — Life With AngularJS] (https://objectpartners.com/2013/08/09/i-wish-i-knew-then-what-i-know-now-life-with-angularjs/)
-* [How to build a large Angular.js application] (https://gocardless.com/blog/building-a-large-angular-application/)
-* [AngularJS tips and tricks for neophytes and the all-around curious developer.] (http://www.bytesforthought.com/angularjs-tips/)
-* [4 Smooth AngularJS Application Tips] (http://nathanleclaire.com/blog/2014/01/04/5-smooth-angularjs-application-tips/)
-* [Get Your Hands Dirty Refactoring in AngularJS] (http://blog.safaribooksonline.com/2014/04/08/refactoring-angularjs-get-hands-filthy/)
-* [5 AngularJS Antipatterns & Pitfalls] (http://nathanleclaire.com/blog/2014/04/19/5-angularjs-antipatterns-and-pitfalls/)
 * [Speeding up AngularJS apps with simple optimizations](http://www.binpress.com/tutorial/speeding-up-angular-js-with-simple-optimizations/135)
-* [AngularJS Performance in Large Applications](https://www.airpair.com/angularjs/posts/angularjs-performance-large-applications)
+* [Things I Wish I Were Told About Angular.js] (http://ruoyusun.com/2013/05/25/things-i-wish-i-were-told-about-angular-js.html)
 
 ## Boilerplates/Seed Projects
 * [Angular Dashboard Seed](https://github.com/flatlogic/angular-dashboard-seed)
