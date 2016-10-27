@@ -383,7 +383,6 @@ NOTE 2: Soon, I plan to remove all links that deal with Angular 1.0 or 1.1. All 
 * [AngularJS Directives - Domain-Specific Extensions to HTML] (http://henriquat.re/directives/introduction-to-directives/introductionToDirectives.html)
 * [AngularJS Directives That Override Standard HTML Tags] (http://joelhooks.com/blog/2013/07/15/a-look-at-angularjs-internal-directives-that-override-standard-html-tags/)
 * [AngularJS Directives Tutorial] (http://www.befundoo.com/university/tutorials/angularjs-directives-tutorial/)
-* [AngularJS Directives Tutorial] (http://www.befundoo.com/university/tutorials/angularjs-directives-tutorial/)
 * [Angular.js Directives with JSON arguments] (https://www.grobmeier.de/angular-js-directives-with-json-arguments-08012013.html)
 * [AngularJS: Referencing the parent scope in a directive] (https://www.grobmeier.de/angularjs-referencing-parent-scope-directive-23082013.html)
 * [Building a Custom AngularJS Unique Value Directive] (http://weblogs.asp.net/dwahlin/building-a-custom-angularjs-unique-value-directive)
@@ -561,7 +560,6 @@ NOTE 2: Soon, I plan to remove all links that deal with Angular 1.0 or 1.1. All 
 ## Testing
 * [A Primer on Testing AngularJS Applications] (http://www.payworksmobile.com/legacy_blog/2015/03/05/a-primer-on-testing-angularjs-applications/)
 * [A Tip for Angular Unit Tests with Promises] (http://brianmcd.com/2014/03/27/a-tip-for-angular-unit-tests-with-promises.html)
-* [An Introduction To Unit Testing In AngularJS Applications](https://www.smashingmagazine.com/2014/10/introduction-to-unit-testing-in-angularjs/)
 * [An Introduction To Unit Testing In AngularJS Applications](https://www.smashingmagazine.com/2014/10/introduction-to-unit-testing-in-angularjs/)
 * [Advanced Testing and Debugging in AngularJS] (http://www.yearofmoo.com/2013/09/advanced-testing-and-debugging-in-angularjs.html)
 * [Angular Unit Testing Quick Start](http://angulartestingquickstart.com/)
