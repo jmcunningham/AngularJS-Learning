@@ -260,12 +260,12 @@ NOTE 2: Soon, I plan to remove all links that deal with Angular 1.0 or 1.1. All 
 * [Part 5 -- Creating a Dropdown Control For Your Site](https://www.codementor.io/angularjs/tutorial/create-dropdown-control)
 
 ## Best Practices/Style Guides
-* [***My Personal Angular JS Best Practices Guide] (https://github.com/jmcunningham/angularjs-styleguide)
-* [Opinionated AngularJS styleguide for teams] (https://toddmotto.com/opinionated-angular-js-styleguide-for-teams/)
-* [AngularJS Style Guide](https://github.com/johnpapa/angular-styleguide) by John Papa: A starting point for AngularJS development teams to provide consistency through good practices.
 * [AngularJS Best Practices: Directory Structure](http://scotch.io/tutorials/javascript/angularjs-best-practices-directory-structure)
+* [AngularJS Style Guide](https://github.com/johnpapa/angular-styleguide) by John Papa: A starting point for AngularJS development teams to provide consistency through good practices.
 * [AngularJS style guide used at GoCardless] (https://github.com/gocardless/angularjs-style-guide)
 * [Learn AngularJS Online - A Guide](https://www.codementor.io/learn-angularjs)
+* [***My Personal Angular JS Best Practices Guide] (https://github.com/jmcunningham/angularjs-styleguide)
+* [Opinionated AngularJS styleguide for teams] (https://toddmotto.com/opinionated-angular-js-styleguide-for-teams/)
 
 ## Lessons Learned
 * [Lessons Learned: A Year with a Large AngularJS Project] (http://joelhooks.com/blog/2013/05/22/lessons-learned-kicking-off-an-angularjs-project/)
