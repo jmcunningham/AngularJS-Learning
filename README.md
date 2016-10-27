@@ -602,11 +602,11 @@ NOTE 2: Soon, I plan to remove all links that deal with Angular 1.0 or 1.1. All 
 * [Writing Tests and Stomping Bugs in AngularJS] (https://www.safaribooksonline.com/blog/2014/04/01/writing-tests-stomping-bugs-angularjs/)
 
 ## RESTful Stuff
-* [Using RESTful Controllers In An AngularJS Resource] (http://www.bennadel.com/blog/2433-using-restful-controllers-in-an-angularjs-resource.htm)
-* [Restangular: New AngularJS framework to handle Rest API Restful Resources properly and easily] (http://gon.to/2013/04/09/restangular-new-angular-framework-to-handle-restful-resources-properly-and-easily/)
-* [New features on Restangular: the ultimate Rest API client for Angular] (http://gon.to/2013/04/26/new-features-on-restangular-the-ultimate-rest-api-client-for-angularjs/)
-* [Using an AngularJS Factory to Interact with a RESTful Service] (http://weblogs.asp.net/dwahlin/using-an-angularjs-factory-to-interact-with-a-restful-service)
 * [Authentication to a RESTful web service in an AngularJS web app] (http://blog.brunoscopelliti.com/authentication-to-a-restful-web-service-in-an-angularjs-web-app/)
+* [New features on Restangular: the ultimate Rest API client for Angular] (http://gon.to/2013/04/26/new-features-on-restangular-the-ultimate-rest-api-client-for-angularjs/)
+* [Restangular: New AngularJS framework to handle Rest API Restful Resources properly and easily] (http://gon.to/2013/04/09/restangular-new-angular-framework-to-handle-restful-resources-properly-and-easily/)
+* [Using an AngularJS Factory to Interact with a RESTful Service] (http://weblogs.asp.net/dwahlin/using-an-angularjs-factory-to-interact-with-a-restful-service)
+* [Using RESTful Controllers In An AngularJS Resource] (http://www.bennadel.com/blog/2433-using-restful-controllers-in-an-angularjs-resource.htm)
 * [XHR Interceptor in an AngularJS web app] (http://blog.brunoscopelliti.com/xhr-interceptor-in-an-angularjs-web-app/)
 
 ## Localization
