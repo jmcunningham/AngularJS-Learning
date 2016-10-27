@@ -523,14 +523,14 @@ NOTE 2: Soon, I plan to remove all links that deal with Angular 1.0 or 1.1. All 
 * [**Working with Validators and Messages in AngularJS] (http://odetocode.com/blogs/scott/archive/2014/10/16/working-with-validators-and-messages-in-angularjs.aspx)
 
 ## Authentication
-* [Deal with users authentication in an AngularJS web app] (http://blog.brunoscopelliti.com/deal-with-users-authentication-in-an-angularjs-web-app/)
-* [Authentication in Single Page Applications with Angular.js](http://frederiknakstad.com/2013/01/21/authentication-in-single-page-applications-with-angular-js/)
 * [AngularJS -- Quick Role-Based Authentication] (http://arthur.gonigberg.com/2013/06/29/angularjs-role-based-auth/)
 * [Authentication in Single Page Applications] (https://vickev.com/#!/article/authentication-in-single-page-applications-node-js-passportjs-angularjs)
+* [Authentication in Single Page Applications with Angular.js](http://frederiknakstad.com/2013/01/21/authentication-in-single-page-applications-with-angular-js/)
 * [Authentication with AngularJS] (https://medium.com/@mattlanham/authentication-with-angularjs-4e927af3a15f)
 * [Cookies vs Tokens. Getting auth right with Angular.JS] (https://auth0.com/blog/2014/01/07/angularjs-authentication-with-cookies-vs-token/)
-* [Techniques for authentication in AngularJS applications] (https://medium.com/opinionated-angularjs/techniques-for-authentication-in-angularjs-applications-7bbf0346acec)
+* [Deal with users authentication in an AngularJS web app] (http://blog.brunoscopelliti.com/deal-with-users-authentication-in-an-angularjs-web-app/)
 * [Implementing Authentication in Angular Applications](http://www.sitepoint.com/implementing-authentication-angular-applications/)
+* [Techniques for authentication in AngularJS applications] (https://medium.com/opinionated-angularjs/techniques-for-authentication-in-angularjs-applications-7bbf0346acec)
 * [Thinkster: Simple AngularJS Authentication with JWT](https://thinkster.io/angularjs-jwt-auth)
 
 
