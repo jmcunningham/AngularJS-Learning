@@ -535,13 +535,13 @@ NOTE 2: Soon, I plan to remove all links that deal with Angular 1.0 or 1.1. All 
 
 
 ## Collections (& ngRepeat Stuff)
-* [Working With Inherited Collections in AngularJS] (http://www.bennadel.com/blog/2485-working-with-inherited-collections-in-angularjs.htm)
 * [Adding An ngRepeat List Delimiter In AngularJS] (http://www.bennadel.com/blog/2451-adding-an-ngrepeat-list-delimiter-in-angularjs.htm)
-* [Grouping Nested ngRepeat Lists In AngularJS] (http://www.bennadel.com/blog/2456-grouping-nested-ngrepeat-lists-in-angularjs.htm)
-* [Using ngController With ngRepeat In AngularJS] (http://www.bennadel.com/blog/2450-using-ngcontroller-with-ngrepeat-in-angularjs.htm)
-* [Rendering DOM Elements With ngRepeat In AngularJS] (http://www.bennadel.com/blog/2443-rendering-dom-elements-with-ngrepeat-in-angularjs.htm)
-* [Improving ng-repeat Performance with “track by”] (http://www.codelord.net/2014/04/15/improving-ng-repeat-performance-with-track-by/)
 * [Boost the Performance of an AngularJS Application Using Immutable Data] (http://blog.mgechev.com/2015/03/02/immutability-in-angularjs-immutablejs)
+* [Grouping Nested ngRepeat Lists In AngularJS] (http://www.bennadel.com/blog/2456-grouping-nested-ngrepeat-lists-in-angularjs.htm)
+* [Improving ng-repeat Performance with “track by”] (http://www.codelord.net/2014/04/15/improving-ng-repeat-performance-with-track-by/)
+* [Rendering DOM Elements With ngRepeat In AngularJS] (http://www.bennadel.com/blog/2443-rendering-dom-elements-with-ngrepeat-in-angularjs.htm)
+* [Using ngController With ngRepeat In AngularJS] (http://www.bennadel.com/blog/2450-using-ngcontroller-with-ngrepeat-in-angularjs.htm)
+* [Working With Inherited Collections in AngularJS] (http://www.bennadel.com/blog/2485-working-with-inherited-collections-in-angularjs.htm)
 
 
 ## Code Organization
