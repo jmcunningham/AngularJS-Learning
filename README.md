@@ -714,13 +714,13 @@ NOTE 2: Soon, I plan to remove all links that deal with Angular 1.0 or 1.1. All 
 * [UI Router](https://github.com/angular-ui/ui-router)
 
 ## Text editor bundles/IDE Stuff
-* [Brackets (AngularJS Extension Available)](http://brackets.io/)
-* [Sublime text 2 package](https://github.com/angular-ui/AngularJS-sublime-package)
-* [VIM UltiSnip & Snipmate Snippets for AngularJS](https://github.com/matthewsimo/angular-vim-snippets)
-* [Running JavaScript tests with Karma in WebStorm 7] (http://blog.jetbrains.com/webstorm/2013/10/running-javascript-tests-with-karma-in-webstorm-7/)
-* [Visual Studio](https://www.visualstudio.com/en-us)
 * [Atom - AngularJS Helper](https://atom.io/packages/angularjs-helper)
 * [Atom - AngularJS Snippets](https://atom.io/packages/angularjs-snippets)
+* [Brackets (AngularJS Extension Available)](http://brackets.io/)
+* [Running JavaScript tests with Karma in WebStorm 7] (http://blog.jetbrains.com/webstorm/2013/10/running-javascript-tests-with-karma-in-webstorm-7/)
+* [Sublime text 2 package](https://github.com/angular-ui/AngularJS-sublime-package)
+* [VIM UltiSnip & Snipmate Snippets for AngularJS](https://github.com/matthewsimo/angular-vim-snippets)
+* [Visual Studio](https://www.visualstudio.com/en-us)
 
 ## Development Tools
 * [AngularJS Batarang Chrome Extension](https://github.com/angular/batarang)
