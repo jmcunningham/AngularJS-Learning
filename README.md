@@ -697,14 +697,14 @@ NOTE 2: Soon, I plan to remove all links that deal with Angular 1.0 or 1.1. All 
 * [Three-Way Data Binding with Firebase and Angular] (https://www.firebase.com/blog/2013-10-04-firebase-angular-data-binding.html)
 
 ## Mobile
-* [Quick Start Guide to PhoneGap+AngularJS] (http://devgirl.org/2013/06/10/quick-start-guide-phonegap-and-angularjs/)
 * [Building PhoneGap Apps with AngularJS] (http://briantford.com/blog/angular-phonegap)
+* [Developing a mobile app with Phonegap, AngularJS and ExpressJS Part I] (http://abou-kone.com/2013/07/17/developing-a-mobile-app-with-phonegap-angularjs-and-expressjs-part-i/)
+* [Ionic Framework with AngularJS app development](http://ionicframework.com/)
 * [PhoneGap And AngularJS: In App Browser] (http://tech.pro/tutorial/1357/phonegap-and-angularjs-in-app-browser)
 * [PhoneGap And AngularJS: Notification Service] (http://tech.pro/tutorial/1349/phonegap-and-angularjs-notification-service)
-* [Developing a mobile app with Phonegap, AngularJS and ExpressJS Part I] (http://abou-kone.com/2013/07/17/developing-a-mobile-app-with-phonegap-angularjs-and-expressjs-part-i/)
+* [Quick Start Guide to PhoneGap+AngularJS] (http://devgirl.org/2013/06/10/quick-start-guide-phonegap-and-angularjs/)
 * [Sample Mobile Application with AngularJS] (http://coenraets.org/blog/2013/11/sample-mobile-application-with-angularjs/)
 * [The Definitive Guide to Angular on Mobile] (http://www.ng-newsletter.com.s3-website-us-east-1.amazonaws.com/posts/angular-on-mobile.html)
-* [Ionic Framework with AngularJS app development](http://ionicframework.com/)
 
 ## Popular Third-Party Modules
 * [Bindonce - watchless AngularJS](https://github.com/Pasvaz/bindonce)
