@@ -361,14 +361,14 @@ NOTE 2: Soon, I plan to remove all links that deal with Angular 1.0 or 1.1. All 
 * [$watch How the $apply Runs a $digest] (http://angular-tips.com/blog/2013/08/watch-how-the-apply-runs-a-digest/)
 
 ## Dependency Injection
-* [The "Magic" behind AngularJS Dependency Injection] (http://www.alexrothenberg.com/2013/02/11/the-magic-behind-angularjs-dependency-injection.html)
-* [AngularJS: More on Dependency Injection] (http://dailyjs.com/2013/05/23/angularjs-injection/)
 * [Angularjs Dependency Injection](http://diegobarahona.com/javascript/angularjs/2013/06/13/angularjs-dependency-injection/)
-* [Configuring Dependency Injection in AngularJS] (http://joelhooks.com/blog/2013/08/18/configuring-dependency-injection-in-angularjs/)
-* [Defining Instantiatable Classes In The AngularJS Dependency Injection Framework] (http://www.bennadel.com/blog/2527-defining-instantiatable-classes-in-the-angularjs-dependency-injection-framework.htm)
-* [Deconstructing AngularJS Injector] (https://neverfriday.com/2013/11/30/deconstructing-angularjs-injector/)
-* [AngularJS Dependency Injection - Demystified](http://anandmanisankar.com/posts/angularjs-dependency-injection-demystified/)
 * [Angular’s dependency injection annotation process](https://toddmotto.com/angular-js-dependency-injection-annotation-process/)
+* [AngularJS Dependency Injection - Demystified](http://anandmanisankar.com/posts/angularjs-dependency-injection-demystified/)
+* [AngularJS: More on Dependency Injection] (http://dailyjs.com/2013/05/23/angularjs-injection/)
+* [Configuring Dependency Injection in AngularJS] (http://joelhooks.com/blog/2013/08/18/configuring-dependency-injection-in-angularjs/)
+* [Deconstructing AngularJS Injector] (https://neverfriday.com/2013/11/30/deconstructing-angularjs-injector/)
+* [Defining Instantiatable Classes In The AngularJS Dependency Injection Framework] (http://www.bennadel.com/blog/2527-defining-instantiatable-classes-in-the-angularjs-dependency-injection-framework.htm)
+* [The "Magic" behind AngularJS Dependency Injection] (http://www.alexrothenberg.com/2013/02/11/the-magic-behind-angularjs-dependency-injection.html)
 
 ## Directives
 * [AngularJS directives and the computer science of JavaScript] (http://www.adobe.com/devnet/archive/html5/articles/angularjs-directives-and-the-computer-science-of-javascript.html)
