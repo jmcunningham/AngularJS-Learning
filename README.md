@@ -139,11 +139,11 @@ NOTE 2: Soon, I plan to remove all links that deal with Angular 1.0 or 1.1. All 
 * [Angular-js.in | Curated list of angular directives](http://angular-js.in/)
 
 ## Help
-* [StackOverflow] (http://stackoverflow.com/questions/tagged/angularjs)
+* [AngularJS Google+ Community] (https://plus.google.com/communities/115368820700870330756)
 * [AngularJS Mailing List (Google Groups)] (http://groups.google.com/group/angular)
 * [Chatroom (Browser-based IRC)] (http://webchat.freenode.net/?channels=angularjs&uio=d4)
-* [AngularJS Google+ Community] (https://plus.google.com/communities/115368820700870330756)
 * [reddit] (https://www.reddit.com/r/angularjs)
+* [StackOverflow] (http://stackoverflow.com/questions/tagged/angularjs)
 
 ## General Topics
 * [AngularJS Cheat Sheet] (http://www.cheatography.com/proloser/cheat-sheets/angularjs/)
