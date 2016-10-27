@@ -75,39 +75,39 @@ NOTE 2: Soon, I plan to remove all links that deal with Angular 1.0 or 1.1. All 
 | [Web Component Architecture & Development with AngularJS](https://leanpub.com/web-component-development-with-angularjs)| David Shapiro | Leanpub | v1.2.16 | ? |
 
 ## Videos
-* [Egghead.io](https://egghead.io/) — [source code](https://github.com/msfrisbie/egghead-angularjs)
-* [Video Tutorial: AngularJS Fundamentals in 60-ish Minutes](http://weblogs.asp.net/dwahlin/video-tutorial-angularjs-fundamentals-in-60-ish-minutes) — 1:10:50
-* [AngularJS YouTube Page](https://www.youtube.com/user/angularjs) — several videos, mostly presentations of 1h or more
-* [Intro to Angular JS](https://www.youtube.com/watch?v=8ILQOFAgaXE) — 50:05
-* [End to End with Angular JS](https://www.youtube.com/watch?v=hqAyiqUs93c) — 52:59
-* [Security with Angular JS](https://www.youtube.com/watch?v=18ifoT-Id54) — 29:45
-* [Frontend Workflows with Grunt and Angular JS](https://www.youtube.com/watch?v=fSAgFxjFSqY) — 1:02:37
-* [AngularJS Tutorial](https://www.youtube.com/watch?v=WuiHuZq_cg4) — 12:19
-* [Easier JavaScript Apps with AngularJS (Tuts+)](https://tutsplus.com/course/easier-js-apps-with-angular/) — 22 videos of about 5 minutes each, in 8 sections (paid)
-* [AngularJS Fundamentals (Pluralsight)] (http://app.pluralsight.com/courses/angularjs-fundamentals) - 6 hours 15 minutes total (paid)
-* [AngularJS 1.2 & Beyond] (https://www.youtube.com/watch?feature=youtu.be&v=W13qDdJDHp8)
-* [Realtime Web Apps With AngularJS & Firebase] (https://www.youtube.com/watch?v=C7ZI7z7qnHU)
-* [Getting MEAN With MongoDB and AngularJS](https://www.youtube.com/watch?v=XwSFg8nqBFA)
 * [A comparison of the two-way binding in AngularJS, EmberJS and KnockoutJS](https://www.youtube.com/watch?v=mVjpwia1YN4)
 * [Angular Best Practices](http://app.pluralsight.com/courses/angular-best-practices) - 64 videos(paid)
-* [Neosavvy's Angular & Jasmine Screencast Series](https://www.youtube.com/channel/UCdaEMffiYgTf_E7uTMxM4og/videos) - 16 videos of about 2-3 minutes each
-* [AngularJS Videos Collection in Youtube](https://www.youtube.com/channel/UCNhQ8pYS9U1EbwCx42NKaYQ) — Collection of Videos from Various websites.
-* [ng-conf YouTube Page](https://www.youtube.com/user/ngconfvideos) — YouTube channel with all the presentations given at the Angular Conference in January 2014.
-* [Introduction to Angular.js in 50 Examples (part 1)] (https://www.youtube.com/watch?v=TRrL5j3MIvo&feature=youtu.be)
-* [Real-Time Web Apps With AngularJS and Firebase](http://code.tutsplus.com/courses/real-time-web-apps-with-angularjs-and-firebase) - Paid
-* [Learn to build an application using Angular.js](http://campus.codeschool.com/courses/shaping-up-with-angular-js/intro)
-* [Building a Web App From Scratch With AngularJS](http://code.tutsplus.com/courses/building-a-web-app-from-scratch-with-angularjs) - Paid
-* [Reddit Clone ](https://www.youtube.com/playlist?list=PLV_Z6DwQEeBvcKHnYbBjHHKe36cU5agAA)
-* [AngularJS Directives Fundamentals](https://www.pluralsight.com/courses/angularjs-directive-fundamentals) - Paid
-* [Ninja: Building MVP with AngularJS + FireBase by cloning TaskRabbit](https://code4startup.com/projects/ninja-learn-angularjs-firebase-by-cloning-udemy)
-* [AngularJS Services In-depth](https://www.pluralsight.com/courses/angularjs-services-in-depth) - Paid
-* [AngularJS Office Hours with AngularUI Founder: Best Practices, UI-Router, and ORM](https://www.codementor.io/angularjs/tutorial/angularjs-best-practices-ui-router-orm)
-* [Learn AngularJs by Building 10 Projects](https://www.eduonix.com/courses/Web-Development/Learn-Angular.Js-by-Building-10-Projects) - Paid
-* [AngularJS for Test-Driven Development](http://code.tutsplus.com/courses/angularjs-for-test-driven-development)
-* [Treehouse Tutorial](https://teamtreehouse.com/library) - Paid
-* [Creating a Quiz with AngularJS](http://www.lynda.com/AngularJS-tutorials/Creating-Quiz-AngularJS/373557-2.html) - Paid
-* [Angular Routing In-depth](https://www.pluralsight.com/courses/angular-routing-in-depth) - Paid
 * [Angular JS Tutorial](https://www.youtube.com/playlist?list=PLYxzS__5yYQmX2bItSRCqwiQZn5dIL1gt) - 42 videos of 6-7 minutes each covering Angular Fundamentals.
+* [Angular Routing In-depth](https://www.pluralsight.com/courses/angular-routing-in-depth) - Paid
+* [AngularJS 1.2 & Beyond] (https://www.youtube.com/watch?feature=youtu.be&v=W13qDdJDHp8)
+* [AngularJS Directives Fundamentals](https://www.pluralsight.com/courses/angularjs-directive-fundamentals) - Paid
+* [AngularJS for Test-Driven Development](http://code.tutsplus.com/courses/angularjs-for-test-driven-development)
+* [AngularJS Fundamentals (Pluralsight)] (http://app.pluralsight.com/courses/angularjs-fundamentals) - 6 hours 15 minutes total (paid)
+* [AngularJS Office Hours with AngularUI Founder: Best Practices, UI-Router, and ORM](https://www.codementor.io/angularjs/tutorial/angularjs-best-practices-ui-router-orm)
+* [AngularJS Services In-depth](https://www.pluralsight.com/courses/angularjs-services-in-depth) - Paid
+* [AngularJS Tutorial](https://www.youtube.com/watch?v=WuiHuZq_cg4) — 12:19
+* [AngularJS Videos Collection in Youtube](https://www.youtube.com/channel/UCNhQ8pYS9U1EbwCx42NKaYQ) — Collection of Videos from Various websites.
+* [AngularJS YouTube Page](https://www.youtube.com/user/angularjs) — several videos, mostly presentations of 1h or more
+* [Building a Web App From Scratch With AngularJS](http://code.tutsplus.com/courses/building-a-web-app-from-scratch-with-angularjs) - Paid
+* [Creating a Quiz with AngularJS](http://www.lynda.com/AngularJS-tutorials/Creating-Quiz-AngularJS/373557-2.html) - Paid
+* [Easier JavaScript Apps with AngularJS (Tuts+)](https://tutsplus.com/course/easier-js-apps-with-angular/) — 22 videos of about 5 minutes each, in 8 sections (paid)
+* [Egghead.io](https://egghead.io/) — [source code](https://github.com/msfrisbie/egghead-angularjs)
+* [End to End with Angular JS](https://www.youtube.com/watch?v=hqAyiqUs93c) — 52:59
+* [Frontend Workflows with Grunt and Angular JS](https://www.youtube.com/watch?v=fSAgFxjFSqY) — 1:02:37
+* [Getting MEAN With MongoDB and AngularJS](https://www.youtube.com/watch?v=XwSFg8nqBFA)
+* [Intro to Angular JS](https://www.youtube.com/watch?v=8ILQOFAgaXE) — 50:05
+* [Introduction to Angular.js in 50 Examples (part 1)] (https://www.youtube.com/watch?v=TRrL5j3MIvo&feature=youtu.be)
+* [Learn AngularJs by Building 10 Projects](https://www.eduonix.com/courses/Web-Development/Learn-Angular.Js-by-Building-10-Projects) - Paid
+* [Learn to build an application using Angular.js](http://campus.codeschool.com/courses/shaping-up-with-angular-js/intro)
+* [Neosavvy's Angular & Jasmine Screencast Series](https://www.youtube.com/channel/UCdaEMffiYgTf_E7uTMxM4og/videos) - 16 videos of about 2-3 minutes each
+* [ng-conf YouTube Page](https://www.youtube.com/user/ngconfvideos) — YouTube channel with all the presentations given at the Angular Conference in January 2014.
+* [Ninja: Building MVP with AngularJS + FireBase by cloning TaskRabbit](https://code4startup.com/projects/ninja-learn-angularjs-firebase-by-cloning-udemy)
+* [Realtime Web Apps With AngularJS & Firebase] (https://www.youtube.com/watch?v=C7ZI7z7qnHU)
+* [Real-Time Web Apps With AngularJS and Firebase](http://code.tutsplus.com/courses/real-time-web-apps-with-angularjs-and-firebase) - Paid
+* [Reddit Clone ](https://www.youtube.com/playlist?list=PLV_Z6DwQEeBvcKHnYbBjHHKe36cU5agAA)
+* [Security with Angular JS](https://www.youtube.com/watch?v=18ifoT-Id54) — 29:45
+* [Treehouse Tutorial](https://teamtreehouse.com/library) - Paid
+* [Video Tutorial: AngularJS Fundamentals in 60-ish Minutes](http://weblogs.asp.net/dwahlin/video-tutorial-angularjs-fundamentals-in-60-ish-minutes) — 1:10:50
 
 ## Courses
 
