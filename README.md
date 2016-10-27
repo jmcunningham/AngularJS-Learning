@@ -707,11 +707,11 @@ NOTE 2: Soon, I plan to remove all links that deal with Angular 1.0 or 1.1. All 
 * [The Definitive Guide to Angular on Mobile] (http://www.ng-newsletter.com.s3-website-us-east-1.amazonaws.com/posts/angular-on-mobile.html)
 
 ## Popular Third-Party Modules
+* [Angular Material](https://material.angularjs.org/#/)
+* [Angularstrap](http://mgcrea.github.io/angular-strap/)
 * [Bindonce - watchless AngularJS](https://github.com/Pasvaz/bindonce)
 * [UI Bootstrap](http://angular-ui.github.io/bootstrap/)
-* [Angularstrap](http://mgcrea.github.io/angular-strap/)
 * [UI Router](https://github.com/angular-ui/ui-router)
-* [Angular Material](https://material.angularjs.org/#/)
 
 ## Text editor bundles/IDE Stuff
 * [Brackets (AngularJS Extension Available)](http://brackets.io/)
