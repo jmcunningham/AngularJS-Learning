@@ -146,6 +146,7 @@ NOTE 2: Soon, I plan to remove all links that deal with Angular 1.0 or 1.1. All 
 * [reddit] (https://www.reddit.com/r/angularjs)
 
 ## General Topics
+* [HTML5 Overview] (http://cminhho.github.io/HTML5-Presentation)
 * [AngularJS Cheat Sheet] (http://www.cheatography.com/proloser/cheat-sheets/angularjs/)
 * [What stumped me about AngularJS] (http://www.peterbe.com/plog/what-stumped-me-about-angularjs)
 * [Lazy Loading In AngularJS] (http://ify.io/lazy-loading-in-angularjs/)
