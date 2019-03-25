@@ -9,7 +9,7 @@ AngularJS
 ## 入门指南
 
 * [使用AngularJS构建大型Web应用](http://www.infoq.com/cn/news/2013/02/angular-web-app)
-* [AngularJS入门教程](http://www.ituring.com.cn/article/13471)
+* [AngularJS入门教程](http://www.ituring.com.cn/book/1206)
 * [AngularJS学习笔记](http://www.cnblogs.com/lcllao/archive/2012/10/18/2728787.html)
 
 ## 使用经验
